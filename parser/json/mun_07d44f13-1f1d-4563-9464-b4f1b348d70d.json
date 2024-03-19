@@ -1,0 +1,204 @@
+{
+  "depto": "POTOSí",
+  "prov": "CHARCAS",
+  "mun": "SAN PEDRO DE BUENA VISTA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 1515,
+        "mujer": 1474
+      },
+      "edad4a5": {
+        "hombre": 738,
+        "mujer": 674
+      },
+      "edad6a19": {
+        "hombre": 5114,
+        "mujer": 4770
+      },
+      "edad20a39": {
+        "hombre": 3655,
+        "mujer": 3298
+      },
+      "edad40a59": {
+        "hombre": 2650,
+        "mujer": 2548
+      },
+      "edad60oMas": {
+        "hombre": 1702,
+        "mujer": 1874
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 8511,
+      "mujer": 8203
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 15255,
+        "mujer": 14558
+      },
+      "colectiva": {
+        "hombre": 97,
+        "mujer": 61
+      },
+      "movil": {
+        "hombre": 17,
+        "mujer": 17
+      },
+      "sinVivienda": {
+        "hombre": 5,
+        "mujer": 2
+      }
+    },
+    "conCi": {
+      "hombre": 9495,
+      "mujer": 8391
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1519,
+        "mujer": 1448
+      },
+      "seguroPrivado": {
+        "hombre": 219,
+        "mujer": 245
+      },
+      "establecimientoPublico": {
+        "hombre": 7525,
+        "mujer": 7564
+      },
+      "establecimientoPrivado": {
+        "hombre": 669,
+        "mujer": 645
+      },
+      "medicoTradicional": {
+        "hombre": 5975,
+        "mujer": 5626
+      },
+      "solucionCasera": {
+        "hombre": 8022,
+        "mujer": 7652
+      },
+      "farmacia": {
+        "hombre": 1788,
+        "mujer": 1721
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 6377,
+        "mujer": 4329
+      },
+      "mineria": {
+        "hombre": 88,
+        "mujer": 6
+      },
+      "manufactura": {
+        "hombre": 61,
+        "mujer": 163
+      },
+      "electricidad": {
+        "hombre": 4,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 551,
+        "mujer": 11
+      },
+      "comercio": {
+        "hombre": 175,
+        "mujer": 337
+      },
+      "otrosServicios": {
+        "hombre": 363,
+        "mujer": 476
+      },
+      "sinEspecificar": {
+        "hombre": 480,
+        "mujer": 543
+      },
+      "descripcionIncompleta": {
+        "hombre": 87,
+        "mujer": 124
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 818,
+        "mujer": 367
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 55
+      },
+      "cuentaPropia": {
+        "hombre": 4059,
+        "mujer": 2743
+      },
+      "empleador": {
+        "hombre": 117,
+        "mujer": 68
+      },
+      "aprendiz": {
+        "hombre": 710,
+        "mujer": 566
+      },
+      "servicios": {
+        "hombre": 44,
+        "mujer": 53
+      },
+      "sinEspecificar": {
+        "hombre": 2438,
+        "mujer": 2137
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 9323,
+    "colectiva": 53,
+    "energia": {
+      "tiene": 1850,
+      "noTiene": 6427
+    },
+    "cocina": {
+      "garrafa": 901,
+      "gasDomiciliario": 0,
+      "lena": 7082,
+      "otro": 266,
+      "noCocina": 28
+    },
+    "agua": {
+      "caneria": 2015,
+      "pilaPublica": 2818,
+      "carroRepartidor": 164,
+      "pozo": 791,
+      "rio": 2177,
+      "otro": 312
+    },
+    "desague": {
+      "alcantarilla": 285,
+      "camara": 55,
+      "pozo": 277,
+      "calle": 3,
+      "rio": 13,
+      "lago": 2
+    },
+    "basura": {
+      "contenedor": 230,
+      "carro": 331,
+      "calle": 1847,
+      "rio": 3507,
+      "quema": 1510,
+      "entierro": 612,
+      "otro": 240
+    },
+    "tics": {
+      "radio": 4908,
+      "television": 792,
+      "computador": 221,
+      "internet": 14,
+      "celular": 644
+    }
+  }
+}

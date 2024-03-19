@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "GERMÁN BUSCH",
+  "mun": "CARMEN RIVERO TÓRREZ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 306,
+        "mujer": 302
+      },
+      "edad4a5": {
+        "hombre": 153,
+        "mujer": 162
+      },
+      "edad6a19": {
+        "hombre": 1081,
+        "mujer": 998
+      },
+      "edad20a39": {
+        "hombre": 1038,
+        "mujer": 794
+      },
+      "edad40a59": {
+        "hombre": 622,
+        "mujer": 435
+      },
+      "edad60oMas": {
+        "hombre": 235,
+        "mujer": 216
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 2025,
+      "mujer": 1564
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 3202,
+        "mujer": 2863
+      },
+      "colectiva": {
+        "hombre": 220,
+        "mujer": 42
+      },
+      "movil": {
+        "hombre": 13,
+        "mujer": 2
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 2772,
+      "mujer": 2346
+    },
+    "salud": {
+      "caja": {
+        "hombre": 612,
+        "mujer": 563
+      },
+      "seguroPrivado": {
+        "hombre": 169,
+        "mujer": 108
+      },
+      "establecimientoPublico": {
+        "hombre": 2371,
+        "mujer": 1995
+      },
+      "establecimientoPrivado": {
+        "hombre": 310,
+        "mujer": 268
+      },
+      "medicoTradicional": {
+        "hombre": 703,
+        "mujer": 590
+      },
+      "solucionCasera": {
+        "hombre": 1746,
+        "mujer": 1434
+      },
+      "farmacia": {
+        "hombre": 1703,
+        "mujer": 1391
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1067,
+        "mujer": 105
+      },
+      "mineria": {
+        "hombre": 6,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 84,
+        "mujer": 74
+      },
+      "electricidad": {
+        "hombre": 20,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 214,
+        "mujer": 3
+      },
+      "comercio": {
+        "hombre": 238,
+        "mujer": 148
+      },
+      "otrosServicios": {
+        "hombre": 158,
+        "mujer": 311
+      },
+      "sinEspecificar": {
+        "hombre": 74,
+        "mujer": 81
+      },
+      "descripcionIncompleta": {
+        "hombre": 86,
+        "mujer": 44
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 902,
+        "mujer": 203
+      },
+      "trabajadorDelHogar": {
+        "hombre": 4,
+        "mujer": 52
+      },
+      "cuentaPropia": {
+        "hombre": 616,
+        "mujer": 320
+      },
+      "empleador": {
+        "hombre": 39,
+        "mujer": 10
+      },
+      "aprendiz": {
+        "hombre": 49,
+        "mujer": 15
+      },
+      "servicios": {
+        "hombre": 0,
+        "mujer": 3
+      },
+      "sinEspecificar": {
+        "hombre": 337,
+        "mujer": 163
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1622,
+    "colectiva": 32,
+    "energia": {
+      "tiene": 1001,
+      "noTiene": 491
+    },
+    "cocina": {
+      "garrafa": 324,
+      "gasDomiciliario": 0,
+      "lena": 1140,
+      "otro": 20,
+      "noCocina": 8
+    },
+    "agua": {
+      "caneria": 827,
+      "pilaPublica": 23,
+      "carroRepartidor": 183,
+      "pozo": 285,
+      "rio": 135,
+      "otro": 39
+    },
+    "desague": {
+      "alcantarilla": 10,
+      "camara": 170,
+      "pozo": 1060,
+      "calle": 2,
+      "rio": 1,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 9,
+      "carro": 10,
+      "calle": 46,
+      "rio": 1,
+      "quema": 1252,
+      "entierro": 159,
+      "otro": 15
+    },
+    "tics": {
+      "radio": 1020,
+      "television": 651,
+      "computador": 115,
+      "internet": 46,
+      "celular": 703
+    }
+  }
+}

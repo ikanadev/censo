@@ -1,0 +1,204 @@
+{
+  "depto": "TARIJA",
+  "prov": "GRAN CHACO",
+  "mun": "CARAPARÍ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 695,
+        "mujer": 629
+      },
+      "edad4a5": {
+        "hombre": 294,
+        "mujer": 278
+      },
+      "edad6a19": {
+        "hombre": 2148,
+        "mujer": 1875
+      },
+      "edad20a39": {
+        "hombre": 3453,
+        "mujer": 2081
+      },
+      "edad40a59": {
+        "hombre": 1732,
+        "mujer": 1019
+      },
+      "edad60oMas": {
+        "hombre": 624,
+        "mujer": 538
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 6177,
+      "mujer": 3876
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 7302,
+        "mujer": 6009
+      },
+      "colectiva": {
+        "hombre": 1513,
+        "mujer": 333
+      },
+      "movil": {
+        "hombre": 123,
+        "mujer": 72
+      },
+      "sinVivienda": {
+        "hombre": 8,
+        "mujer": 6
+      }
+    },
+    "conCi": {
+      "hombre": 8073,
+      "mujer": 5741
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1910,
+        "mujer": 1035
+      },
+      "seguroPrivado": {
+        "hombre": 730,
+        "mujer": 307
+      },
+      "establecimientoPublico": {
+        "hombre": 7207,
+        "mujer": 5682
+      },
+      "establecimientoPrivado": {
+        "hombre": 1079,
+        "mujer": 759
+      },
+      "medicoTradicional": {
+        "hombre": 2882,
+        "mujer": 2351
+      },
+      "solucionCasera": {
+        "hombre": 4306,
+        "mujer": 3386
+      },
+      "farmacia": {
+        "hombre": 3706,
+        "mujer": 2644
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2278,
+        "mujer": 531
+      },
+      "mineria": {
+        "hombre": 523,
+        "mujer": 64
+      },
+      "manufactura": {
+        "hombre": 172,
+        "mujer": 56
+      },
+      "electricidad": {
+        "hombre": 27,
+        "mujer": 3
+      },
+      "construccion": {
+        "hombre": 1128,
+        "mujer": 54
+      },
+      "comercio": {
+        "hombre": 494,
+        "mujer": 311
+      },
+      "otrosServicios": {
+        "hombre": 811,
+        "mujer": 984
+      },
+      "sinEspecificar": {
+        "hombre": 234,
+        "mujer": 112
+      },
+      "descripcionIncompleta": {
+        "hombre": 398,
+        "mujer": 157
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 3041,
+        "mujer": 939
+      },
+      "trabajadorDelHogar": {
+        "hombre": 4,
+        "mujer": 84
+      },
+      "cuentaPropia": {
+        "hombre": 1942,
+        "mujer": 672
+      },
+      "empleador": {
+        "hombre": 121,
+        "mujer": 27
+      },
+      "aprendiz": {
+        "hombre": 199,
+        "mujer": 101
+      },
+      "servicios": {
+        "hombre": 16,
+        "mujer": 8
+      },
+      "sinEspecificar": {
+        "hombre": 742,
+        "mujer": 441
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 4308,
+    "colectiva": 217,
+    "energia": {
+      "tiene": 3483,
+      "noTiene": 512
+    },
+    "cocina": {
+      "garrafa": 1227,
+      "gasDomiciliario": 600,
+      "lena": 1968,
+      "otro": 14,
+      "noCocina": 186
+    },
+    "agua": {
+      "caneria": 3571,
+      "pilaPublica": 80,
+      "carroRepartidor": 44,
+      "pozo": 11,
+      "rio": 279,
+      "otro": 10
+    },
+    "desague": {
+      "alcantarilla": 846,
+      "camara": 802,
+      "pozo": 1706,
+      "calle": 3,
+      "rio": 0,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 230,
+      "carro": 743,
+      "calle": 304,
+      "rio": 28,
+      "quema": 2345,
+      "entierro": 276,
+      "otro": 69
+    },
+    "tics": {
+      "radio": 2835,
+      "television": 2391,
+      "computador": 541,
+      "internet": 187,
+      "celular": 2522
+    }
+  }
+}

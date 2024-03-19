@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "ÑUFLO DE CHÁVEZ",
+  "mun": "CONCEPCIÓN",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 938,
+        "mujer": 1029
+      },
+      "edad4a5": {
+        "hombre": 501,
+        "mujer": 469
+      },
+      "edad6a19": {
+        "hombre": 3502,
+        "mujer": 3015
+      },
+      "edad20a39": {
+        "hombre": 2847,
+        "mujer": 2462
+      },
+      "edad40a59": {
+        "hombre": 1600,
+        "mujer": 1224
+      },
+      "edad60oMas": {
+        "hombre": 672,
+        "mujer": 541
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 5537,
+      "mujer": 4568
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 9834,
+        "mujer": 8621
+      },
+      "colectiva": {
+        "hombre": 207,
+        "mujer": 110
+      },
+      "movil": {
+        "hombre": 19,
+        "mujer": 9
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 8292,
+      "mujer": 7152
+    },
+    "salud": {
+      "caja": {
+        "hombre": 907,
+        "mujer": 871
+      },
+      "seguroPrivado": {
+        "hombre": 334,
+        "mujer": 242
+      },
+      "establecimientoPublico": {
+        "hombre": 8192,
+        "mujer": 7341
+      },
+      "establecimientoPrivado": {
+        "hombre": 691,
+        "mujer": 580
+      },
+      "medicoTradicional": {
+        "hombre": 1542,
+        "mujer": 1307
+      },
+      "solucionCasera": {
+        "hombre": 3733,
+        "mujer": 3194
+      },
+      "farmacia": {
+        "hombre": 3140,
+        "mujer": 2716
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2665,
+        "mujer": 773
+      },
+      "mineria": {
+        "hombre": 59,
+        "mujer": 13
+      },
+      "manufactura": {
+        "hombre": 517,
+        "mujer": 294
+      },
+      "electricidad": {
+        "hombre": 5,
+        "mujer": 3
+      },
+      "construccion": {
+        "hombre": 491,
+        "mujer": 11
+      },
+      "comercio": {
+        "hombre": 662,
+        "mujer": 373
+      },
+      "otrosServicios": {
+        "hombre": 476,
+        "mujer": 791
+      },
+      "sinEspecificar": {
+        "hombre": 162,
+        "mujer": 120
+      },
+      "descripcionIncompleta": {
+        "hombre": 290,
+        "mujer": 126
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 2027,
+        "mujer": 588
+      },
+      "trabajadorDelHogar": {
+        "hombre": 6,
+        "mujer": 113
+      },
+      "cuentaPropia": {
+        "hombre": 2286,
+        "mujer": 1070
+      },
+      "empleador": {
+        "hombre": 81,
+        "mujer": 34
+      },
+      "aprendiz": {
+        "hombre": 182,
+        "mujer": 129
+      },
+      "servicios": {
+        "hombre": 18,
+        "mujer": 4
+      },
+      "sinEspecificar": {
+        "hombre": 727,
+        "mujer": 566
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 4639,
+    "colectiva": 56,
+    "energia": {
+      "tiene": 2632,
+      "noTiene": 1629
+    },
+    "cocina": {
+      "garrafa": 1715,
+      "gasDomiciliario": 0,
+      "lena": 2452,
+      "otro": 15,
+      "noCocina": 79
+    },
+    "agua": {
+      "caneria": 1932,
+      "pilaPublica": 159,
+      "carroRepartidor": 1,
+      "pozo": 1793,
+      "rio": 199,
+      "otro": 177
+    },
+    "desague": {
+      "alcantarilla": 28,
+      "camara": 629,
+      "pozo": 2894,
+      "calle": 1,
+      "rio": 2,
+      "lago": 3
+    },
+    "basura": {
+      "contenedor": 211,
+      "carro": 1343,
+      "calle": 94,
+      "rio": 32,
+      "quema": 2353,
+      "entierro": 186,
+      "otro": 42
+    },
+    "tics": {
+      "radio": 2495,
+      "television": 1873,
+      "computador": 391,
+      "internet": 189,
+      "celular": 1737
+    }
+  }
+}

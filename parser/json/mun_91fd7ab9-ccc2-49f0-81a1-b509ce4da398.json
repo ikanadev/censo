@@ -1,0 +1,204 @@
+{
+  "depto": "BENI",
+  "prov": "ITÉNEZ",
+  "mun": "HUACARAJE",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 208,
+        "mujer": 198
+      },
+      "edad4a5": {
+        "hombre": 95,
+        "mujer": 93
+      },
+      "edad6a19": {
+        "hombre": 736,
+        "mujer": 568
+      },
+      "edad20a39": {
+        "hombre": 693,
+        "mujer": 522
+      },
+      "edad40a59": {
+        "hombre": 406,
+        "mujer": 297
+      },
+      "edad60oMas": {
+        "hombre": 161,
+        "mujer": 134
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 1372,
+      "mujer": 1036
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 2232,
+        "mujer": 1777
+      },
+      "colectiva": {
+        "hombre": 66,
+        "mujer": 34
+      },
+      "movil": {
+        "hombre": 1,
+        "mujer": 1
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 1589,
+      "mujer": 1284
+    },
+    "salud": {
+      "caja": {
+        "hombre": 252,
+        "mujer": 228
+      },
+      "seguroPrivado": {
+        "hombre": 57,
+        "mujer": 40
+      },
+      "establecimientoPublico": {
+        "hombre": 2028,
+        "mujer": 1638
+      },
+      "establecimientoPrivado": {
+        "hombre": 102,
+        "mujer": 95
+      },
+      "medicoTradicional": {
+        "hombre": 172,
+        "mujer": 136
+      },
+      "solucionCasera": {
+        "hombre": 849,
+        "mujer": 667
+      },
+      "farmacia": {
+        "hombre": 893,
+        "mujer": 685
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 820,
+        "mujer": 75
+      },
+      "mineria": {
+        "hombre": 2,
+        "mujer": 1
+      },
+      "manufactura": {
+        "hombre": 67,
+        "mujer": 54
+      },
+      "electricidad": {
+        "hombre": 3,
+        "mujer": 2
+      },
+      "construccion": {
+        "hombre": 163,
+        "mujer": 10
+      },
+      "comercio": {
+        "hombre": 113,
+        "mujer": 57
+      },
+      "otrosServicios": {
+        "hombre": 146,
+        "mujer": 225
+      },
+      "sinEspecificar": {
+        "hombre": 39,
+        "mujer": 20
+      },
+      "descripcionIncompleta": {
+        "hombre": 26,
+        "mujer": 11
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 609,
+        "mujer": 114
+      },
+      "trabajadorDelHogar": {
+        "hombre": 1,
+        "mujer": 54
+      },
+      "cuentaPropia": {
+        "hombre": 412,
+        "mujer": 159
+      },
+      "empleador": {
+        "hombre": 37,
+        "mujer": 8
+      },
+      "aprendiz": {
+        "hombre": 50,
+        "mujer": 20
+      },
+      "servicios": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 269,
+        "mujer": 100
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 875,
+    "colectiva": 13,
+    "energia": {
+      "tiene": 703,
+      "noTiene": 116
+    },
+    "cocina": {
+      "garrafa": 229,
+      "gasDomiciliario": 0,
+      "lena": 567,
+      "otro": 4,
+      "noCocina": 19
+    },
+    "agua": {
+      "caneria": 222,
+      "pilaPublica": 18,
+      "carroRepartidor": 0,
+      "pozo": 517,
+      "rio": 56,
+      "otro": 6
+    },
+    "desague": {
+      "alcantarilla": 9,
+      "camara": 100,
+      "pozo": 588,
+      "calle": 0,
+      "rio": 1,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 11,
+      "carro": 145,
+      "calle": 24,
+      "rio": 10,
+      "quema": 565,
+      "entierro": 46,
+      "otro": 18
+    },
+    "tics": {
+      "radio": 293,
+      "television": 511,
+      "computador": 65,
+      "internet": 12,
+      "celular": 524
+    }
+  }
+}

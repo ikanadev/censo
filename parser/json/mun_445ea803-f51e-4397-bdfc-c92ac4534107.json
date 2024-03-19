@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "VALLEGRANDE",
+  "mun": "TRIGAL",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 99,
+        "mujer": 88
+      },
+      "edad4a5": {
+        "hombre": 36,
+        "mujer": 47
+      },
+      "edad6a19": {
+        "hombre": 253,
+        "mujer": 241
+      },
+      "edad20a39": {
+        "hombre": 346,
+        "mujer": 295
+      },
+      "edad40a59": {
+        "hombre": 236,
+        "mujer": 201
+      },
+      "edad60oMas": {
+        "hombre": 138,
+        "mujer": 155
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 757,
+      "mujer": 681
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 1070,
+        "mujer": 1007
+      },
+      "colectiva": {
+        "hombre": 13,
+        "mujer": 14
+      },
+      "movil": {
+        "hombre": 25,
+        "mujer": 6
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 904,
+      "mujer": 842
+    },
+    "salud": {
+      "caja": {
+        "hombre": 251,
+        "mujer": 299
+      },
+      "seguroPrivado": {
+        "hombre": 61,
+        "mujer": 56
+      },
+      "establecimientoPublico": {
+        "hombre": 858,
+        "mujer": 828
+      },
+      "establecimientoPrivado": {
+        "hombre": 174,
+        "mujer": 179
+      },
+      "medicoTradicional": {
+        "hombre": 292,
+        "mujer": 279
+      },
+      "solucionCasera": {
+        "hombre": 476,
+        "mujer": 470
+      },
+      "farmacia": {
+        "hombre": 481,
+        "mujer": 461
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 527,
+        "mujer": 159
+      },
+      "mineria": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 9,
+        "mujer": 26
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 50,
+        "mujer": 0
+      },
+      "comercio": {
+        "hombre": 56,
+        "mujer": 61
+      },
+      "otrosServicios": {
+        "hombre": 44,
+        "mujer": 84
+      },
+      "sinEspecificar": {
+        "hombre": 32,
+        "mujer": 14
+      },
+      "descripcionIncompleta": {
+        "hombre": 30,
+        "mujer": 15
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 196,
+        "mujer": 71
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 7
+      },
+      "cuentaPropia": {
+        "hombre": 427,
+        "mujer": 173
+      },
+      "empleador": {
+        "hombre": 13,
+        "mujer": 4
+      },
+      "aprendiz": {
+        "hombre": 26,
+        "mujer": 14
+      },
+      "servicios": {
+        "hombre": 4,
+        "mujer": 1
+      },
+      "sinEspecificar": {
+        "hombre": 83,
+        "mujer": 89
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 711,
+    "colectiva": 5,
+    "energia": {
+      "tiene": 491,
+      "noTiene": 85
+    },
+    "cocina": {
+      "garrafa": 288,
+      "gasDomiciliario": 0,
+      "lena": 282,
+      "otro": 2,
+      "noCocina": 4
+    },
+    "agua": {
+      "caneria": 500,
+      "pilaPublica": 9,
+      "carroRepartidor": 1,
+      "pozo": 12,
+      "rio": 39,
+      "otro": 15
+    },
+    "desague": {
+      "alcantarilla": 6,
+      "camara": 59,
+      "pozo": 317,
+      "calle": 2,
+      "rio": 1,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 11,
+      "carro": 0,
+      "calle": 112,
+      "rio": 26,
+      "quema": 346,
+      "entierro": 49,
+      "otro": 32
+    },
+    "tics": {
+      "radio": 492,
+      "television": 384,
+      "computador": 47,
+      "internet": 11,
+      "celular": 367
+    }
+  }
+}

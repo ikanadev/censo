@@ -1,0 +1,204 @@
+{
+  "depto": "CHUQUISACA",
+  "prov": "HERNANDO SILES",
+  "mun": "MONTEAGUDO",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 1011,
+        "mujer": 985
+      },
+      "edad4a5": {
+        "hombre": 518,
+        "mujer": 497
+      },
+      "edad6a19": {
+        "hombre": 3977,
+        "mujer": 3759
+      },
+      "edad20a39": {
+        "hombre": 3359,
+        "mujer": 3168
+      },
+      "edad40a59": {
+        "hombre": 2314,
+        "mujer": 2143
+      },
+      "edad60oMas": {
+        "hombre": 1240,
+        "mujer": 1332
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 7381,
+      "mujer": 7085
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 11903,
+        "mujer": 11413
+      },
+      "colectiva": {
+        "hombre": 474,
+        "mujer": 433
+      },
+      "movil": {
+        "hombre": 36,
+        "mujer": 31
+      },
+      "sinVivienda": {
+        "hombre": 6,
+        "mujer": 7
+      }
+    },
+    "conCi": {
+      "hombre": 9507,
+      "mujer": 9249
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1698,
+        "mujer": 1774
+      },
+      "seguroPrivado": {
+        "hombre": 464,
+        "mujer": 425
+      },
+      "establecimientoPublico": {
+        "hombre": 10717,
+        "mujer": 10554
+      },
+      "establecimientoPrivado": {
+        "hombre": 879,
+        "mujer": 868
+      },
+      "medicoTradicional": {
+        "hombre": 4533,
+        "mujer": 4378
+      },
+      "solucionCasera": {
+        "hombre": 7403,
+        "mujer": 7125
+      },
+      "farmacia": {
+        "hombre": 6150,
+        "mujer": 5822
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 3877,
+        "mujer": 1210
+      },
+      "mineria": {
+        "hombre": 76,
+        "mujer": 6
+      },
+      "manufactura": {
+        "hombre": 384,
+        "mujer": 268
+      },
+      "electricidad": {
+        "hombre": 25,
+        "mujer": 9
+      },
+      "construccion": {
+        "hombre": 769,
+        "mujer": 9
+      },
+      "comercio": {
+        "hombre": 936,
+        "mujer": 848
+      },
+      "otrosServicios": {
+        "hombre": 751,
+        "mujer": 1418
+      },
+      "sinEspecificar": {
+        "hombre": 226,
+        "mujer": 226
+      },
+      "descripcionIncompleta": {
+        "hombre": 144,
+        "mujer": 156
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 1937,
+        "mujer": 942
+      },
+      "trabajadorDelHogar": {
+        "hombre": 6,
+        "mujer": 152
+      },
+      "cuentaPropia": {
+        "hombre": 3822,
+        "mujer": 2060
+      },
+      "empleador": {
+        "hombre": 94,
+        "mujer": 46
+      },
+      "aprendiz": {
+        "hombre": 344,
+        "mujer": 182
+      },
+      "servicios": {
+        "hombre": 13,
+        "mujer": 8
+      },
+      "sinEspecificar": {
+        "hombre": 972,
+        "mujer": 760
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 6968,
+    "colectiva": 144,
+    "energia": {
+      "tiene": 4141,
+      "noTiene": 1938
+    },
+    "cocina": {
+      "garrafa": 1918,
+      "gasDomiciliario": 1188,
+      "lena": 2861,
+      "otro": 21,
+      "noCocina": 91
+    },
+    "agua": {
+      "caneria": 4462,
+      "pilaPublica": 284,
+      "carroRepartidor": 2,
+      "pozo": 133,
+      "rio": 1179,
+      "otro": 19
+    },
+    "desague": {
+      "alcantarilla": 2144,
+      "camara": 142,
+      "pozo": 1060,
+      "calle": 5,
+      "rio": 4,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 430,
+      "carro": 2018,
+      "calle": 1336,
+      "rio": 177,
+      "quema": 1760,
+      "entierro": 266,
+      "otro": 92
+    },
+    "tics": {
+      "radio": 4283,
+      "television": 3036,
+      "computador": 847,
+      "internet": 311,
+      "celular": 3076
+    }
+  }
+}

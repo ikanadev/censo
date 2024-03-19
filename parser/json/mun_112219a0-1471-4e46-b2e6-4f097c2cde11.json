@@ -1,0 +1,204 @@
+{
+  "depto": "BENI",
+  "prov": "MAMORÉ",
+  "mun": "PUERTO SILES",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 48,
+        "mujer": 65
+      },
+      "edad4a5": {
+        "hombre": 29,
+        "mujer": 28
+      },
+      "edad6a19": {
+        "hombre": 172,
+        "mujer": 133
+      },
+      "edad20a39": {
+        "hombre": 162,
+        "mujer": 111
+      },
+      "edad40a59": {
+        "hombre": 85,
+        "mujer": 50
+      },
+      "edad60oMas": {
+        "hombre": 42,
+        "mujer": 20
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 312,
+      "mujer": 197
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 480,
+        "mujer": 355
+      },
+      "colectiva": {
+        "hombre": 40,
+        "mujer": 41
+      },
+      "movil": {
+        "hombre": 18,
+        "mujer": 11
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 357,
+      "mujer": 262
+    },
+    "salud": {
+      "caja": {
+        "hombre": 56,
+        "mujer": 42
+      },
+      "seguroPrivado": {
+        "hombre": 8,
+        "mujer": 5
+      },
+      "establecimientoPublico": {
+        "hombre": 442,
+        "mujer": 368
+      },
+      "establecimientoPrivado": {
+        "hombre": 16,
+        "mujer": 16
+      },
+      "medicoTradicional": {
+        "hombre": 25,
+        "mujer": 14
+      },
+      "solucionCasera": {
+        "hombre": 273,
+        "mujer": 210
+      },
+      "farmacia": {
+        "hombre": 113,
+        "mujer": 80
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 217,
+        "mujer": 32
+      },
+      "mineria": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 12,
+        "mujer": 7
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 23,
+        "mujer": 0
+      },
+      "comercio": {
+        "hombre": 17,
+        "mujer": 16
+      },
+      "otrosServicios": {
+        "hombre": 32,
+        "mujer": 30
+      },
+      "sinEspecificar": {
+        "hombre": 10,
+        "mujer": 6
+      },
+      "descripcionIncompleta": {
+        "hombre": 15,
+        "mujer": 3
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 144,
+        "mujer": 28
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "cuentaPropia": {
+        "hombre": 96,
+        "mujer": 29
+      },
+      "empleador": {
+        "hombre": 8,
+        "mujer": 3
+      },
+      "aprendiz": {
+        "hombre": 29,
+        "mujer": 6
+      },
+      "servicios": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 50,
+        "mujer": 28
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 249,
+    "colectiva": 18,
+    "energia": {
+      "tiene": 140,
+      "noTiene": 55
+    },
+    "cocina": {
+      "garrafa": 35,
+      "gasDomiciliario": 0,
+      "lena": 157,
+      "otro": 0,
+      "noCocina": 3
+    },
+    "agua": {
+      "caneria": 62,
+      "pilaPublica": 19,
+      "carroRepartidor": 0,
+      "pozo": 82,
+      "rio": 31,
+      "otro": 1
+    },
+    "desague": {
+      "alcantarilla": 1,
+      "camara": 10,
+      "pozo": 156,
+      "calle": 0,
+      "rio": 2,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 0,
+      "carro": 0,
+      "calle": 18,
+      "rio": 21,
+      "quema": 118,
+      "entierro": 28,
+      "otro": 10
+    },
+    "tics": {
+      "radio": 59,
+      "television": 59,
+      "computador": 11,
+      "internet": 0,
+      "celular": 79
+    }
+  }
+}

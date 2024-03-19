@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "VALLEGRANDE",
+  "mun": "MORO MORO",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 104,
+        "mujer": 109
+      },
+      "edad4a5": {
+        "hombre": 56,
+        "mujer": 47
+      },
+      "edad6a19": {
+        "hombre": 404,
+        "mujer": 335
+      },
+      "edad20a39": {
+        "hombre": 391,
+        "mujer": 357
+      },
+      "edad40a59": {
+        "hombre": 299,
+        "mujer": 258
+      },
+      "edad60oMas": {
+        "hombre": 188,
+        "mujer": 219
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 931,
+      "mujer": 875
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 1432,
+        "mujer": 1320
+      },
+      "colectiva": {
+        "hombre": 3,
+        "mujer": 2
+      },
+      "movil": {
+        "hombre": 6,
+        "mujer": 3
+      },
+      "sinVivienda": {
+        "hombre": 1,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 1149,
+      "mujer": 1050
+    },
+    "salud": {
+      "caja": {
+        "hombre": 285,
+        "mujer": 325
+      },
+      "seguroPrivado": {
+        "hombre": 53,
+        "mujer": 72
+      },
+      "establecimientoPublico": {
+        "hombre": 1245,
+        "mujer": 1155
+      },
+      "establecimientoPrivado": {
+        "hombre": 184,
+        "mujer": 193
+      },
+      "medicoTradicional": {
+        "hombre": 508,
+        "mujer": 461
+      },
+      "solucionCasera": {
+        "hombre": 930,
+        "mujer": 872
+      },
+      "farmacia": {
+        "hombre": 651,
+        "mujer": 642
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 837,
+        "mujer": 381
+      },
+      "mineria": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 6,
+        "mujer": 26
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 1
+      },
+      "construccion": {
+        "hombre": 27,
+        "mujer": 1
+      },
+      "comercio": {
+        "hombre": 20,
+        "mujer": 29
+      },
+      "otrosServicios": {
+        "hombre": 45,
+        "mujer": 156
+      },
+      "sinEspecificar": {
+        "hombre": 24,
+        "mujer": 33
+      },
+      "descripcionIncompleta": {
+        "hombre": 23,
+        "mujer": 20
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 120,
+        "mujer": 108
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 52
+      },
+      "cuentaPropia": {
+        "hombre": 761,
+        "mujer": 388
+      },
+      "empleador": {
+        "hombre": 5,
+        "mujer": 3
+      },
+      "aprendiz": {
+        "hombre": 45,
+        "mujer": 32
+      },
+      "servicios": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 50,
+        "mujer": 64
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1271,
+    "colectiva": 2,
+    "energia": {
+      "tiene": 561,
+      "noTiene": 309
+    },
+    "cocina": {
+      "garrafa": 334,
+      "gasDomiciliario": 0,
+      "lena": 532,
+      "otro": 2,
+      "noCocina": 2
+    },
+    "agua": {
+      "caneria": 500,
+      "pilaPublica": 28,
+      "carroRepartidor": 1,
+      "pozo": 63,
+      "rio": 240,
+      "otro": 38
+    },
+    "desague": {
+      "alcantarilla": 189,
+      "camara": 161,
+      "pozo": 129,
+      "calle": 0,
+      "rio": 2,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 19,
+      "carro": 170,
+      "calle": 274,
+      "rio": 11,
+      "quema": 321,
+      "entierro": 45,
+      "otro": 30
+    },
+    "tics": {
+      "radio": 711,
+      "television": 314,
+      "computador": 46,
+      "internet": 8,
+      "celular": 436
+    }
+  }
+}

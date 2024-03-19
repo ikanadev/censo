@@ -1,0 +1,204 @@
+{
+  "depto": "BENI",
+  "prov": "JOSÉ BALLIVIAN",
+  "mun": "RURRENABAQUE",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 994,
+        "mujer": 990
+      },
+      "edad4a5": {
+        "hombre": 490,
+        "mujer": 418
+      },
+      "edad6a19": {
+        "hombre": 3261,
+        "mujer": 2960
+      },
+      "edad20a39": {
+        "hombre": 3050,
+        "mujer": 2820
+      },
+      "edad40a59": {
+        "hombre": 1734,
+        "mujer": 1341
+      },
+      "edad60oMas": {
+        "hombre": 616,
+        "mujer": 521
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 5864,
+      "mujer": 5057
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 9548,
+        "mujer": 8759
+      },
+      "colectiva": {
+        "hombre": 490,
+        "mujer": 220
+      },
+      "movil": {
+        "hombre": 97,
+        "mujer": 59
+      },
+      "sinVivienda": {
+        "hombre": 10,
+        "mujer": 12
+      }
+    },
+    "conCi": {
+      "hombre": 7344,
+      "mujer": 6537
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1777,
+        "mujer": 1637
+      },
+      "seguroPrivado": {
+        "hombre": 622,
+        "mujer": 543
+      },
+      "establecimientoPublico": {
+        "hombre": 7132,
+        "mujer": 6614
+      },
+      "establecimientoPrivado": {
+        "hombre": 752,
+        "mujer": 633
+      },
+      "medicoTradicional": {
+        "hombre": 1578,
+        "mujer": 1374
+      },
+      "solucionCasera": {
+        "hombre": 3727,
+        "mujer": 3277
+      },
+      "farmacia": {
+        "hombre": 3651,
+        "mujer": 3202
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1789,
+        "mujer": 796
+      },
+      "mineria": {
+        "hombre": 27,
+        "mujer": 11
+      },
+      "manufactura": {
+        "hombre": 474,
+        "mujer": 174
+      },
+      "electricidad": {
+        "hombre": 22,
+        "mujer": 3
+      },
+      "construccion": {
+        "hombre": 754,
+        "mujer": 19
+      },
+      "comercio": {
+        "hombre": 1106,
+        "mujer": 777
+      },
+      "otrosServicios": {
+        "hombre": 812,
+        "mujer": 1084
+      },
+      "sinEspecificar": {
+        "hombre": 187,
+        "mujer": 135
+      },
+      "descripcionIncompleta": {
+        "hombre": 251,
+        "mujer": 158
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 1978,
+        "mujer": 800
+      },
+      "trabajadorDelHogar": {
+        "hombre": 10,
+        "mujer": 68
+      },
+      "cuentaPropia": {
+        "hombre": 2351,
+        "mujer": 1484
+      },
+      "empleador": {
+        "hombre": 114,
+        "mujer": 77
+      },
+      "aprendiz": {
+        "hombre": 156,
+        "mujer": 111
+      },
+      "servicios": {
+        "hombre": 14,
+        "mujer": 17
+      },
+      "sinEspecificar": {
+        "hombre": 799,
+        "mujer": 600
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 5151,
+    "colectiva": 162,
+    "energia": {
+      "tiene": 3536,
+      "noTiene": 1321
+    },
+    "cocina": {
+      "garrafa": 2878,
+      "gasDomiciliario": 0,
+      "lena": 1757,
+      "otro": 25,
+      "noCocina": 197
+    },
+    "agua": {
+      "caneria": 3737,
+      "pilaPublica": 142,
+      "carroRepartidor": 1,
+      "pozo": 253,
+      "rio": 588,
+      "otro": 136
+    },
+    "desague": {
+      "alcantarilla": 1568,
+      "camara": 454,
+      "pozo": 1609,
+      "calle": 5,
+      "rio": 4,
+      "lago": 3
+    },
+    "basura": {
+      "contenedor": 390,
+      "carro": 2557,
+      "calle": 121,
+      "rio": 76,
+      "quema": 1346,
+      "entierro": 295,
+      "otro": 72
+    },
+    "tics": {
+      "radio": 2694,
+      "television": 2809,
+      "computador": 753,
+      "internet": 181,
+      "celular": 2702
+    }
+  }
+}

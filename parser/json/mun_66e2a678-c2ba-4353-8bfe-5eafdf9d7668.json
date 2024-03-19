@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "ICHILO",
+  "mun": "SAN JUAN DE YAPACANÍ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 461,
+        "mujer": 397
+      },
+      "edad4a5": {
+        "hombre": 252,
+        "mujer": 234
+      },
+      "edad6a19": {
+        "hombre": 1501,
+        "mujer": 1401
+      },
+      "edad20a39": {
+        "hombre": 1546,
+        "mujer": 1240
+      },
+      "edad40a59": {
+        "hombre": 826,
+        "mujer": 618
+      },
+      "edad60oMas": {
+        "hombre": 438,
+        "mujer": 277
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 2991,
+      "mujer": 2314
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 4388,
+        "mujer": 3799
+      },
+      "colectiva": {
+        "hombre": 565,
+        "mujer": 312
+      },
+      "movil": {
+        "hombre": 63,
+        "mujer": 51
+      },
+      "sinVivienda": {
+        "hombre": 8,
+        "mujer": 5
+      }
+    },
+    "conCi": {
+      "hombre": 3598,
+      "mujer": 2916
+    },
+    "salud": {
+      "caja": {
+        "hombre": 863,
+        "mujer": 750
+      },
+      "seguroPrivado": {
+        "hombre": 583,
+        "mujer": 466
+      },
+      "establecimientoPublico": {
+        "hombre": 3576,
+        "mujer": 2970
+      },
+      "establecimientoPrivado": {
+        "hombre": 975,
+        "mujer": 838
+      },
+      "medicoTradicional": {
+        "hombre": 795,
+        "mujer": 602
+      },
+      "solucionCasera": {
+        "hombre": 2102,
+        "mujer": 1738
+      },
+      "farmacia": {
+        "hombre": 2477,
+        "mujer": 2020
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1738,
+        "mujer": 393
+      },
+      "mineria": {
+        "hombre": 5,
+        "mujer": 2
+      },
+      "manufactura": {
+        "hombre": 144,
+        "mujer": 59
+      },
+      "electricidad": {
+        "hombre": 4,
+        "mujer": 3
+      },
+      "construccion": {
+        "hombre": 312,
+        "mujer": 12
+      },
+      "comercio": {
+        "hombre": 276,
+        "mujer": 188
+      },
+      "otrosServicios": {
+        "hombre": 207,
+        "mujer": 405
+      },
+      "sinEspecificar": {
+        "hombre": 76,
+        "mujer": 77
+      },
+      "descripcionIncompleta": {
+        "hombre": 192,
+        "mujer": 108
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 1281,
+        "mujer": 417
+      },
+      "trabajadorDelHogar": {
+        "hombre": 3,
+        "mujer": 71
+      },
+      "cuentaPropia": {
+        "hombre": 1121,
+        "mujer": 467
+      },
+      "empleador": {
+        "hombre": 62,
+        "mujer": 16
+      },
+      "aprendiz": {
+        "hombre": 58,
+        "mujer": 33
+      },
+      "servicios": {
+        "hombre": 16,
+        "mujer": 3
+      },
+      "sinEspecificar": {
+        "hombre": 413,
+        "mujer": 240
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 2175,
+    "colectiva": 134,
+    "energia": {
+      "tiene": 1502,
+      "noTiene": 553
+    },
+    "cocina": {
+      "garrafa": 1422,
+      "gasDomiciliario": 0,
+      "lena": 570,
+      "otro": 27,
+      "noCocina": 36
+    },
+    "agua": {
+      "caneria": 1269,
+      "pilaPublica": 135,
+      "carroRepartidor": 7,
+      "pozo": 570,
+      "rio": 34,
+      "otro": 40
+    },
+    "desague": {
+      "alcantarilla": 250,
+      "camara": 437,
+      "pozo": 882,
+      "calle": 3,
+      "rio": 4,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 105,
+      "carro": 783,
+      "calle": 40,
+      "rio": 13,
+      "quema": 999,
+      "entierro": 98,
+      "otro": 17
+    },
+    "tics": {
+      "radio": 1351,
+      "television": 1176,
+      "computador": 307,
+      "internet": 158,
+      "celular": 1179
+    }
+  }
+}

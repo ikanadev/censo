@@ -1,0 +1,204 @@
+{
+  "depto": "TARIJA",
+  "prov": "AVILES",
+  "mun": "YUNCHARÁ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 268,
+        "mujer": 243
+      },
+      "edad4a5": {
+        "hombre": 137,
+        "mujer": 122
+      },
+      "edad6a19": {
+        "hombre": 882,
+        "mujer": 834
+      },
+      "edad20a39": {
+        "hombre": 693,
+        "mujer": 718
+      },
+      "edad40a59": {
+        "hombre": 430,
+        "mujer": 451
+      },
+      "edad60oMas": {
+        "hombre": 320,
+        "mujer": 392
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 1558,
+      "mujer": 1658
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 2573,
+        "mujer": 2652
+      },
+      "colectiva": {
+        "hombre": 134,
+        "mujer": 103
+      },
+      "movil": {
+        "hombre": 23,
+        "mujer": 5
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 2363,
+      "mujer": 2428
+    },
+    "salud": {
+      "caja": {
+        "hombre": 344,
+        "mujer": 311
+      },
+      "seguroPrivado": {
+        "hombre": 109,
+        "mujer": 98
+      },
+      "establecimientoPublico": {
+        "hombre": 2491,
+        "mujer": 2579
+      },
+      "establecimientoPrivado": {
+        "hombre": 174,
+        "mujer": 162
+      },
+      "medicoTradicional": {
+        "hombre": 1567,
+        "mujer": 1634
+      },
+      "solucionCasera": {
+        "hombre": 1966,
+        "mujer": 2042
+      },
+      "farmacia": {
+        "hombre": 1138,
+        "mujer": 1101
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1132,
+        "mujer": 825
+      },
+      "mineria": {
+        "hombre": 3,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 19,
+        "mujer": 21
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 156,
+        "mujer": 8
+      },
+      "comercio": {
+        "hombre": 70,
+        "mujer": 63
+      },
+      "otrosServicios": {
+        "hombre": 129,
+        "mujer": 209
+      },
+      "sinEspecificar": {
+        "hombre": 62,
+        "mujer": 56
+      },
+      "descripcionIncompleta": {
+        "hombre": 34,
+        "mujer": 26
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 376,
+        "mujer": 200
+      },
+      "trabajadorDelHogar": {
+        "hombre": 1,
+        "mujer": 23
+      },
+      "cuentaPropia": {
+        "hombre": 926,
+        "mujer": 652
+      },
+      "empleador": {
+        "hombre": 26,
+        "mujer": 8
+      },
+      "aprendiz": {
+        "hombre": 124,
+        "mujer": 107
+      },
+      "servicios": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 151,
+        "mujer": 218
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1879,
+    "colectiva": 33,
+    "energia": {
+      "tiene": 1151,
+      "noTiene": 333
+    },
+    "cocina": {
+      "garrafa": 372,
+      "gasDomiciliario": 0,
+      "lena": 1045,
+      "otro": 41,
+      "noCocina": 26
+    },
+    "agua": {
+      "caneria": 1003,
+      "pilaPublica": 42,
+      "carroRepartidor": 0,
+      "pozo": 90,
+      "rio": 346,
+      "otro": 3
+    },
+    "desague": {
+      "alcantarilla": 3,
+      "camara": 235,
+      "pozo": 855,
+      "calle": 0,
+      "rio": 3,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 31,
+      "carro": 105,
+      "calle": 124,
+      "rio": 61,
+      "quema": 982,
+      "entierro": 155,
+      "otro": 26
+    },
+    "tics": {
+      "radio": 1190,
+      "television": 532,
+      "computador": 87,
+      "internet": 7,
+      "celular": 722
+    }
+  }
+}
