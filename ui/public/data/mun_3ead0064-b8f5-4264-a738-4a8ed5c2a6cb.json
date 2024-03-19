@@ -1,0 +1,204 @@
+{
+  "depto": "PANDO",
+  "prov": "FEDERICO ROMÁN",
+  "mun": "NUEVA ESPERANZA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 105,
+        "mujer": 105
+      },
+      "edad4a5": {
+        "hombre": 47,
+        "mujer": 44
+      },
+      "edad6a19": {
+        "hombre": 335,
+        "mujer": 240
+      },
+      "edad20a39": {
+        "hombre": 486,
+        "mujer": 247
+      },
+      "edad40a59": {
+        "hombre": 249,
+        "mujer": 125
+      },
+      "edad60oMas": {
+        "hombre": 57,
+        "mujer": 28
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 864,
+      "mujer": 440
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 1070,
+        "mujer": 707
+      },
+      "colectiva": {
+        "hombre": 198,
+        "mujer": 74
+      },
+      "movil": {
+        "hombre": 6,
+        "mujer": 7
+      },
+      "sinVivienda": {
+        "hombre": 5,
+        "mujer": 1
+      }
+    },
+    "conCi": {
+      "hombre": 864,
+      "mujer": 493
+    },
+    "salud": {
+      "caja": {
+        "hombre": 197,
+        "mujer": 57
+      },
+      "seguroPrivado": {
+        "hombre": 46,
+        "mujer": 28
+      },
+      "establecimientoPublico": {
+        "hombre": 1003,
+        "mujer": 693
+      },
+      "establecimientoPrivado": {
+        "hombre": 42,
+        "mujer": 27
+      },
+      "medicoTradicional": {
+        "hombre": 52,
+        "mujer": 19
+      },
+      "solucionCasera": {
+        "hombre": 368,
+        "mujer": 249
+      },
+      "farmacia": {
+        "hombre": 341,
+        "mujer": 221
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 450,
+        "mujer": 100
+      },
+      "mineria": {
+        "hombre": 32,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 131,
+        "mujer": 21
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 73,
+        "mujer": 2
+      },
+      "comercio": {
+        "hombre": 68,
+        "mujer": 55
+      },
+      "otrosServicios": {
+        "hombre": 53,
+        "mujer": 45
+      },
+      "sinEspecificar": {
+        "hombre": 39,
+        "mujer": 19
+      },
+      "descripcionIncompleta": {
+        "hombre": 17,
+        "mujer": 1
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 368,
+        "mujer": 61
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 3
+      },
+      "cuentaPropia": {
+        "hombre": 321,
+        "mujer": 104
+      },
+      "empleador": {
+        "hombre": 20,
+        "mujer": 2
+      },
+      "aprendiz": {
+        "hombre": 37,
+        "mujer": 30
+      },
+      "servicios": {
+        "hombre": 8,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 109,
+        "mujer": 43
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 481,
+    "colectiva": 82,
+    "energia": {
+      "tiene": 225,
+      "noTiene": 241
+    },
+    "cocina": {
+      "garrafa": 79,
+      "gasDomiciliario": 0,
+      "lena": 377,
+      "otro": 2,
+      "noCocina": 8
+    },
+    "agua": {
+      "caneria": 3,
+      "pilaPublica": 0,
+      "carroRepartidor": 0,
+      "pozo": 285,
+      "rio": 135,
+      "otro": 43
+    },
+    "desague": {
+      "alcantarilla": 1,
+      "camara": 14,
+      "pozo": 302,
+      "calle": 0,
+      "rio": 2,
+      "lago": 2
+    },
+    "basura": {
+      "contenedor": 5,
+      "carro": 1,
+      "calle": 15,
+      "rio": 9,
+      "quema": 370,
+      "entierro": 56,
+      "otro": 10
+    },
+    "tics": {
+      "radio": 124,
+      "television": 102,
+      "computador": 16,
+      "internet": 6,
+      "celular": 84
+    }
+  }
+}

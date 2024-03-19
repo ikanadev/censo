@@ -1,0 +1,204 @@
+{
+  "depto": "LA PAZ",
+  "prov": "ABEL ITURRALDE",
+  "mun": "",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 1022,
+        "mujer": 965
+      },
+      "edad4a5": {
+        "hombre": 479,
+        "mujer": 489
+      },
+      "edad6a19": {
+        "hombre": 2945,
+        "mujer": 2710
+      },
+      "edad20a39": {
+        "hombre": 3046,
+        "mujer": 2487
+      },
+      "edad40a59": {
+        "hombre": 1706,
+        "mujer": 1117
+      },
+      "edad60oMas": {
+        "hombre": 638,
+        "mujer": 469
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 5777,
+      "mujer": 4395
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 8852,
+        "mujer": 7700
+      },
+      "colectiva": {
+        "hombre": 902,
+        "mujer": 497
+      },
+      "movil": {
+        "hombre": 79,
+        "mujer": 37
+      },
+      "sinVivienda": {
+        "hombre": 3,
+        "mujer": 3
+      }
+    },
+    "conCi": {
+      "hombre": 7312,
+      "mujer": 5949
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1388,
+        "mujer": 1097
+      },
+      "seguroPrivado": {
+        "hombre": 478,
+        "mujer": 395
+      },
+      "establecimientoPublico": {
+        "hombre": 7475,
+        "mujer": 6731
+      },
+      "establecimientoPrivado": {
+        "hombre": 973,
+        "mujer": 808
+      },
+      "medicoTradicional": {
+        "hombre": 3414,
+        "mujer": 2901
+      },
+      "solucionCasera": {
+        "hombre": 6040,
+        "mujer": 5290
+      },
+      "farmacia": {
+        "hombre": 5284,
+        "mujer": 4519
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2652,
+        "mujer": 1036
+      },
+      "mineria": {
+        "hombre": 85,
+        "mujer": 7
+      },
+      "manufactura": {
+        "hombre": 765,
+        "mujer": 157
+      },
+      "electricidad": {
+        "hombre": 7,
+        "mujer": 3
+      },
+      "construccion": {
+        "hombre": 356,
+        "mujer": 9
+      },
+      "comercio": {
+        "hombre": 743,
+        "mujer": 495
+      },
+      "otrosServicios": {
+        "hombre": 509,
+        "mujer": 652
+      },
+      "sinEspecificar": {
+        "hombre": 242,
+        "mujer": 107
+      },
+      "descripcionIncompleta": {
+        "hombre": 225,
+        "mujer": 64
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 2085,
+        "mujer": 535
+      },
+      "trabajadorDelHogar": {
+        "hombre": 3,
+        "mujer": 57
+      },
+      "cuentaPropia": {
+        "hombre": 2536,
+        "mujer": 1325
+      },
+      "empleador": {
+        "hombre": 122,
+        "mujer": 37
+      },
+      "aprendiz": {
+        "hombre": 192,
+        "mujer": 130
+      },
+      "servicios": {
+        "hombre": 39,
+        "mujer": 20
+      },
+      "sinEspecificar": {
+        "hombre": 607,
+        "mujer": 426
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 4570,
+    "colectiva": 200,
+    "energia": {
+      "tiene": 2627,
+      "noTiene": 1648
+    },
+    "cocina": {
+      "garrafa": 1616,
+      "gasDomiciliario": 0,
+      "lena": 2573,
+      "otro": 12,
+      "noCocina": 74
+    },
+    "agua": {
+      "caneria": 2524,
+      "pilaPublica": 188,
+      "carroRepartidor": 1,
+      "pozo": 512,
+      "rio": 946,
+      "otro": 104
+    },
+    "desague": {
+      "alcantarilla": 592,
+      "camara": 595,
+      "pozo": 2022,
+      "calle": 5,
+      "rio": 27,
+      "lago": 8
+    },
+    "basura": {
+      "contenedor": 191,
+      "carro": 659,
+      "calle": 194,
+      "rio": 267,
+      "quema": 2195,
+      "entierro": 611,
+      "otro": 158
+    },
+    "tics": {
+      "radio": 2372,
+      "television": 1961,
+      "computador": 380,
+      "internet": 50,
+      "celular": 1896
+    }
+  }
+}

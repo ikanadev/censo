@@ -1,0 +1,204 @@
+{
+  "depto": "BENI",
+  "prov": "VACA DÍEZ",
+  "mun": "GUAYARAMERÍN",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 2055,
+        "mujer": 2011
+      },
+      "edad4a5": {
+        "hombre": 1020,
+        "mujer": 856
+      },
+      "edad6a19": {
+        "hombre": 6893,
+        "mujer": 6493
+      },
+      "edad20a39": {
+        "hombre": 6325,
+        "mujer": 6200
+      },
+      "edad40a59": {
+        "hombre": 3593,
+        "mujer": 3324
+      },
+      "edad60oMas": {
+        "hombre": 1587,
+        "mujer": 1457
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 12564,
+      "mujer": 11826
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 20285,
+        "mujer": 19901
+      },
+      "colectiva": {
+        "hombre": 1098,
+        "mujer": 370
+      },
+      "movil": {
+        "hombre": 90,
+        "mujer": 70
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 14703,
+      "mujer": 14388
+    },
+    "salud": {
+      "caja": {
+        "hombre": 5792,
+        "mujer": 5479
+      },
+      "seguroPrivado": {
+        "hombre": 1497,
+        "mujer": 1509
+      },
+      "establecimientoPublico": {
+        "hombre": 13434,
+        "mujer": 12953
+      },
+      "establecimientoPrivado": {
+        "hombre": 1751,
+        "mujer": 1719
+      },
+      "medicoTradicional": {
+        "hombre": 1172,
+        "mujer": 1107
+      },
+      "solucionCasera": {
+        "hombre": 3677,
+        "mujer": 3369
+      },
+      "farmacia": {
+        "hombre": 3948,
+        "mujer": 3527
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2467,
+        "mujer": 585
+      },
+      "mineria": {
+        "hombre": 75,
+        "mujer": 9
+      },
+      "manufactura": {
+        "hombre": 1149,
+        "mujer": 462
+      },
+      "electricidad": {
+        "hombre": 48,
+        "mujer": 10
+      },
+      "construccion": {
+        "hombre": 1743,
+        "mujer": 45
+      },
+      "comercio": {
+        "hombre": 3110,
+        "mujer": 2270
+      },
+      "otrosServicios": {
+        "hombre": 1902,
+        "mujer": 2779
+      },
+      "sinEspecificar": {
+        "hombre": 463,
+        "mujer": 449
+      },
+      "descripcionIncompleta": {
+        "hombre": 446,
+        "mujer": 358
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 4449,
+        "mujer": 2083
+      },
+      "trabajadorDelHogar": {
+        "hombre": 9,
+        "mujer": 354
+      },
+      "cuentaPropia": {
+        "hombre": 4473,
+        "mujer": 2710
+      },
+      "empleador": {
+        "hombre": 286,
+        "mujer": 171
+      },
+      "aprendiz": {
+        "hombre": 354,
+        "mujer": 195
+      },
+      "servicios": {
+        "hombre": 83,
+        "mujer": 55
+      },
+      "sinEspecificar": {
+        "hombre": 1749,
+        "mujer": 1399
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 9835,
+    "colectiva": 222,
+    "energia": {
+      "tiene": 8300,
+      "noTiene": 961
+    },
+    "cocina": {
+      "garrafa": 7162,
+      "gasDomiciliario": 0,
+      "lena": 1844,
+      "otro": 28,
+      "noCocina": 227
+    },
+    "agua": {
+      "caneria": 6596,
+      "pilaPublica": 890,
+      "carroRepartidor": 31,
+      "pozo": 1061,
+      "rio": 521,
+      "otro": 162
+    },
+    "desague": {
+      "alcantarilla": 2568,
+      "camara": 2091,
+      "pozo": 3936,
+      "calle": 11,
+      "rio": 14,
+      "lago": 9
+    },
+    "basura": {
+      "contenedor": 1172,
+      "carro": 6382,
+      "calle": 109,
+      "rio": 56,
+      "quema": 1296,
+      "entierro": 191,
+      "otro": 55
+    },
+    "tics": {
+      "radio": 4794,
+      "television": 6804,
+      "computador": 1589,
+      "internet": 562,
+      "celular": 5745
+    }
+  }
+}

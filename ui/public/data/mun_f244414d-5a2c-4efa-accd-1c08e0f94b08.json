@@ -1,0 +1,204 @@
+{
+  "depto": "ORURO",
+  "prov": "SAJAMA",
+  "mun": "CURAHUARA DE CARANGAS",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 150,
+        "mujer": 150
+      },
+      "edad4a5": {
+        "hombre": 93,
+        "mujer": 72
+      },
+      "edad6a19": {
+        "hombre": 748,
+        "mujer": 507
+      },
+      "edad20a39": {
+        "hombre": 569,
+        "mujer": 548
+      },
+      "edad40a59": {
+        "hombre": 380,
+        "mujer": 379
+      },
+      "edad60oMas": {
+        "hombre": 272,
+        "mujer": 316
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 1442,
+      "mujer": 1302
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 1959,
+        "mujer": 1957
+      },
+      "colectiva": {
+        "hombre": 251,
+        "mujer": 13
+      },
+      "movil": {
+        "hombre": 2,
+        "mujer": 2
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 2060,
+      "mujer": 1837
+    },
+    "salud": {
+      "caja": {
+        "hombre": 498,
+        "mujer": 232
+      },
+      "seguroPrivado": {
+        "hombre": 129,
+        "mujer": 111
+      },
+      "establecimientoPublico": {
+        "hombre": 1312,
+        "mujer": 1207
+      },
+      "establecimientoPrivado": {
+        "hombre": 135,
+        "mujer": 146
+      },
+      "medicoTradicional": {
+        "hombre": 826,
+        "mujer": 829
+      },
+      "solucionCasera": {
+        "hombre": 1295,
+        "mujer": 1207
+      },
+      "farmacia": {
+        "hombre": 835,
+        "mujer": 681
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 637,
+        "mujer": 580
+      },
+      "mineria": {
+        "hombre": 5,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 35,
+        "mujer": 33
+      },
+      "electricidad": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 120,
+        "mujer": 10
+      },
+      "comercio": {
+        "hombre": 115,
+        "mujer": 135
+      },
+      "otrosServicios": {
+        "hombre": 106,
+        "mujer": 99
+      },
+      "sinEspecificar": {
+        "hombre": 67,
+        "mujer": 30
+      },
+      "descripcionIncompleta": {
+        "hombre": 26,
+        "mujer": 8
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 231,
+        "mujer": 82
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 6
+      },
+      "cuentaPropia": {
+        "hombre": 593,
+        "mujer": 558
+      },
+      "empleador": {
+        "hombre": 40,
+        "mujer": 13
+      },
+      "aprendiz": {
+        "hombre": 90,
+        "mujer": 65
+      },
+      "servicios": {
+        "hombre": 6,
+        "mujer": 3
+      },
+      "sinEspecificar": {
+        "hombre": 152,
+        "mujer": 168
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1983,
+    "colectiva": 17,
+    "energia": {
+      "tiene": 905,
+      "noTiene": 450
+    },
+    "cocina": {
+      "garrafa": 526,
+      "gasDomiciliario": 0,
+      "lena": 812,
+      "otro": 9,
+      "noCocina": 8
+    },
+    "agua": {
+      "caneria": 559,
+      "pilaPublica": 62,
+      "carroRepartidor": 1,
+      "pozo": 441,
+      "rio": 263,
+      "otro": 29
+    },
+    "desague": {
+      "alcantarilla": 303,
+      "camara": 27,
+      "pozo": 162,
+      "calle": 1,
+      "rio": 0,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 224,
+      "carro": 250,
+      "calle": 47,
+      "rio": 67,
+      "quema": 607,
+      "entierro": 122,
+      "otro": 38
+    },
+    "tics": {
+      "radio": 1024,
+      "television": 395,
+      "computador": 96,
+      "internet": 26,
+      "celular": 587
+    }
+  }
+}

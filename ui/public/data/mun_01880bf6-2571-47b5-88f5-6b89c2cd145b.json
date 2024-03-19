@@ -1,0 +1,204 @@
+{
+  "depto": "ORURO",
+  "prov": "LITORAL",
+  "mun": "YUNGUYO DE LITORAL",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 16,
+        "mujer": 21
+      },
+      "edad4a5": {
+        "hombre": 10,
+        "mujer": 14
+      },
+      "edad6a19": {
+        "hombre": 76,
+        "mujer": 70
+      },
+      "edad20a39": {
+        "hombre": 96,
+        "mujer": 91
+      },
+      "edad40a59": {
+        "hombre": 46,
+        "mujer": 35
+      },
+      "edad60oMas": {
+        "hombre": 22,
+        "mujer": 17
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 170,
+      "mujer": 148
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 265,
+        "mujer": 248
+      },
+      "colectiva": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "movil": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 245,
+      "mujer": 224
+    },
+    "salud": {
+      "caja": {
+        "hombre": 4,
+        "mujer": 1
+      },
+      "seguroPrivado": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "establecimientoPublico": {
+        "hombre": 255,
+        "mujer": 236
+      },
+      "establecimientoPrivado": {
+        "hombre": 7,
+        "mujer": 3
+      },
+      "medicoTradicional": {
+        "hombre": 83,
+        "mujer": 67
+      },
+      "solucionCasera": {
+        "hombre": 207,
+        "mujer": 184
+      },
+      "farmacia": {
+        "hombre": 206,
+        "mujer": 183
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 76,
+        "mujer": 64
+      },
+      "mineria": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 3,
+        "mujer": 0
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 9,
+        "mujer": 0
+      },
+      "comercio": {
+        "hombre": 56,
+        "mujer": 27
+      },
+      "otrosServicios": {
+        "hombre": 5,
+        "mujer": 5
+      },
+      "sinEspecificar": {
+        "hombre": 5,
+        "mujer": 0
+      },
+      "descripcionIncompleta": {
+        "hombre": 1,
+        "mujer": 1
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 10,
+        "mujer": 2
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "cuentaPropia": {
+        "hombre": 110,
+        "mujer": 74
+      },
+      "empleador": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "aprendiz": {
+        "hombre": 3,
+        "mujer": 1
+      },
+      "servicios": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "sinEspecificar": {
+        "hombre": 31,
+        "mujer": 20
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 203,
+    "colectiva": 0,
+    "energia": {
+      "tiene": 81,
+      "noTiene": 88
+    },
+    "cocina": {
+      "garrafa": 12,
+      "gasDomiciliario": 0,
+      "lena": 157,
+      "otro": 0,
+      "noCocina": 0
+    },
+    "agua": {
+      "caneria": 77,
+      "pilaPublica": 44,
+      "carroRepartidor": 0,
+      "pozo": 47,
+      "rio": 1,
+      "otro": 0
+    },
+    "desague": {
+      "alcantarilla": 0,
+      "camara": 0,
+      "pozo": 2,
+      "calle": 0,
+      "rio": 0,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 0,
+      "carro": 0,
+      "calle": 19,
+      "rio": 4,
+      "quema": 144,
+      "entierro": 1,
+      "otro": 1
+    },
+    "tics": {
+      "radio": 93,
+      "television": 8,
+      "computador": 1,
+      "internet": 0,
+      "celular": 46
+    }
+  }
+}

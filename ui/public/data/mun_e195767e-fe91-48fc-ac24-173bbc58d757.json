@@ -1,0 +1,204 @@
+{
+  "depto": "LA PAZ",
+  "prov": "MURILLO",
+  "mun": "LA PAZ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 25145,
+        "mujer": 24071
+      },
+      "edad4a5": {
+        "hombre": 12866,
+        "mujer": 12364
+      },
+      "edad6a19": {
+        "hombre": 93264,
+        "mujer": 91561
+      },
+      "edad20a39": {
+        "hombre": 125660,
+        "mujer": 137194
+      },
+      "edad40a59": {
+        "hombre": 73832,
+        "mujer": 86309
+      },
+      "edad60oMas": {
+        "hombre": 36975,
+        "mujer": 47227
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 251953,
+      "mujer": 285934
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 355560,
+        "mujer": 392628
+      },
+      "colectiva": {
+        "hombre": 11630,
+        "mujer": 5833
+      },
+      "movil": {
+        "hombre": 462,
+        "mujer": 225
+      },
+      "sinVivienda": {
+        "hombre": 90,
+        "mujer": 40
+      }
+    },
+    "conCi": {
+      "hombre": 318849,
+      "mujer": 351592
+    },
+    "salud": {
+      "caja": {
+        "hombre": 125653,
+        "mujer": 139546
+      },
+      "seguroPrivado": {
+        "hombre": 62199,
+        "mujer": 65727
+      },
+      "establecimientoPublico": {
+        "hombre": 162586,
+        "mujer": 184771
+      },
+      "establecimientoPrivado": {
+        "hombre": 87358,
+        "mujer": 94917
+      },
+      "medicoTradicional": {
+        "hombre": 39028,
+        "mujer": 42151
+      },
+      "solucionCasera": {
+        "hombre": 154305,
+        "mujer": 175583
+      },
+      "farmacia": {
+        "hombre": 187759,
+        "mujer": 200215
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2722,
+        "mujer": 2730
+      },
+      "mineria": {
+        "hombre": 1923,
+        "mujer": 655
+      },
+      "manufactura": {
+        "hombre": 23976,
+        "mujer": 14958
+      },
+      "electricidad": {
+        "hombre": 748,
+        "mujer": 256
+      },
+      "construccion": {
+        "hombre": 21152,
+        "mujer": 2563
+      },
+      "comercio": {
+        "hombre": 50260,
+        "mujer": 51625
+      },
+      "otrosServicios": {
+        "hombre": 76549,
+        "mujer": 86176
+      },
+      "sinEspecificar": {
+        "hombre": 5950,
+        "mujer": 5502
+      },
+      "descripcionIncompleta": {
+        "hombre": 10997,
+        "mujer": 10571
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 109099,
+        "mujer": 82711
+      },
+      "trabajadorDelHogar": {
+        "hombre": 194,
+        "mujer": 7641
+      },
+      "cuentaPropia": {
+        "hombre": 60810,
+        "mujer": 60668
+      },
+      "empleador": {
+        "hombre": 8740,
+        "mujer": 5900
+      },
+      "aprendiz": {
+        "hombre": 3913,
+        "mujer": 4719
+      },
+      "servicios": {
+        "hombre": 1090,
+        "mujer": 880
+      },
+      "sinEspecificar": {
+        "hombre": 10431,
+        "mujer": 12517
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 246477,
+    "colectiva": 2206,
+    "energia": {
+      "tiene": 222875,
+      "noTiene": 3583
+    },
+    "cocina": {
+      "garrafa": 182906,
+      "gasDomiciliario": 28364,
+      "lena": 2132,
+      "otro": 9767,
+      "noCocina": 3289
+    },
+    "agua": {
+      "caneria": 207569,
+      "pilaPublica": 8146,
+      "carroRepartidor": 1529,
+      "pozo": 2822,
+      "rio": 6272,
+      "otro": 120
+    },
+    "desague": {
+      "alcantarilla": 205211,
+      "camara": 2816,
+      "pozo": 1762,
+      "calle": 454,
+      "rio": 1100,
+      "lago": 15
+    },
+    "basura": {
+      "contenedor": 90674,
+      "carro": 127966,
+      "calle": 4172,
+      "rio": 1278,
+      "quema": 1170,
+      "entierro": 439,
+      "otro": 759
+    },
+    "tics": {
+      "radio": 204886,
+      "television": 210587,
+      "computador": 118094,
+      "internet": 50394,
+      "celular": 202370
+    }
+  }
+}

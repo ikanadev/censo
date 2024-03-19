@@ -1,0 +1,204 @@
+{
+  "depto": "COCHABAMBA",
+  "prov": "PUNATA",
+  "mun": "SAN BENITO",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 501,
+        "mujer": 494
+      },
+      "edad4a5": {
+        "hombre": 246,
+        "mujer": 231
+      },
+      "edad6a19": {
+        "hombre": 2109,
+        "mujer": 1969
+      },
+      "edad20a39": {
+        "hombre": 1785,
+        "mujer": 1922
+      },
+      "edad40a59": {
+        "hombre": 1096,
+        "mujer": 1364
+      },
+      "edad60oMas": {
+        "hombre": 758,
+        "mujer": 1087
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 3929,
+      "mujer": 4677
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 6406,
+        "mujer": 6980
+      },
+      "colectiva": {
+        "hombre": 77,
+        "mujer": 85
+      },
+      "movil": {
+        "hombre": 12,
+        "mujer": 2
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 5119,
+      "mujer": 5750
+    },
+    "salud": {
+      "caja": {
+        "hombre": 835,
+        "mujer": 890
+      },
+      "seguroPrivado": {
+        "hombre": 437,
+        "mujer": 512
+      },
+      "establecimientoPublico": {
+        "hombre": 4984,
+        "mujer": 5492
+      },
+      "establecimientoPrivado": {
+        "hombre": 1745,
+        "mujer": 2090
+      },
+      "medicoTradicional": {
+        "hombre": 1277,
+        "mujer": 1425
+      },
+      "solucionCasera": {
+        "hombre": 4129,
+        "mujer": 4547
+      },
+      "farmacia": {
+        "hombre": 4285,
+        "mujer": 4670
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1462,
+        "mujer": 1063
+      },
+      "mineria": {
+        "hombre": 21,
+        "mujer": 2
+      },
+      "manufactura": {
+        "hombre": 263,
+        "mujer": 242
+      },
+      "electricidad": {
+        "hombre": 8,
+        "mujer": 1
+      },
+      "construccion": {
+        "hombre": 605,
+        "mujer": 16
+      },
+      "comercio": {
+        "hombre": 460,
+        "mujer": 623
+      },
+      "otrosServicios": {
+        "hombre": 361,
+        "mujer": 497
+      },
+      "sinEspecificar": {
+        "hombre": 143,
+        "mujer": 115
+      },
+      "descripcionIncompleta": {
+        "hombre": 115,
+        "mujer": 100
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 1030,
+        "mujer": 458
+      },
+      "trabajadorDelHogar": {
+        "hombre": 3,
+        "mujer": 47
+      },
+      "cuentaPropia": {
+        "hombre": 1694,
+        "mujer": 1451
+      },
+      "empleador": {
+        "hombre": 97,
+        "mujer": 39
+      },
+      "aprendiz": {
+        "hombre": 159,
+        "mujer": 150
+      },
+      "servicios": {
+        "hombre": 11,
+        "mujer": 7
+      },
+      "sinEspecificar": {
+        "hombre": 444,
+        "mujer": 507
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 5175,
+    "colectiva": 17,
+    "energia": {
+      "tiene": 3544,
+      "noTiene": 380
+    },
+    "cocina": {
+      "garrafa": 2971,
+      "gasDomiciliario": 0,
+      "lena": 906,
+      "otro": 8,
+      "noCocina": 39
+    },
+    "agua": {
+      "caneria": 2637,
+      "pilaPublica": 800,
+      "carroRepartidor": 5,
+      "pozo": 279,
+      "rio": 186,
+      "otro": 17
+    },
+    "desague": {
+      "alcantarilla": 328,
+      "camara": 502,
+      "pozo": 1945,
+      "calle": 11,
+      "rio": 4,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 66,
+      "carro": 462,
+      "calle": 411,
+      "rio": 480,
+      "quema": 2304,
+      "entierro": 150,
+      "otro": 51
+    },
+    "tics": {
+      "radio": 3149,
+      "television": 2945,
+      "computador": 796,
+      "internet": 182,
+      "celular": 2806
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "depto": "LA PAZ",
+  "prov": "PACAJES",
+  "mun": "CALLAPA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 189,
+        "mujer": 208
+      },
+      "edad4a5": {
+        "hombre": 118,
+        "mujer": 119
+      },
+      "edad6a19": {
+        "hombre": 977,
+        "mujer": 826
+      },
+      "edad20a39": {
+        "hombre": 868,
+        "mujer": 699
+      },
+      "edad40a59": {
+        "hombre": 941,
+        "mujer": 736
+      },
+      "edad60oMas": {
+        "hombre": 839,
+        "mujer": 769
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 2747,
+      "mujer": 2279
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 3903,
+        "mujer": 3339
+      },
+      "colectiva": {
+        "hombre": 20,
+        "mujer": 15
+      },
+      "movil": {
+        "hombre": 8,
+        "mujer": 3
+      },
+      "sinVivienda": {
+        "hombre": 1,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 3538,
+      "mujer": 2932
+    },
+    "salud": {
+      "caja": {
+        "hombre": 295,
+        "mujer": 253
+      },
+      "seguroPrivado": {
+        "hombre": 147,
+        "mujer": 95
+      },
+      "establecimientoPublico": {
+        "hombre": 1552,
+        "mujer": 1246
+      },
+      "establecimientoPrivado": {
+        "hombre": 181,
+        "mujer": 141
+      },
+      "medicoTradicional": {
+        "hombre": 1347,
+        "mujer": 1117
+      },
+      "solucionCasera": {
+        "hombre": 2373,
+        "mujer": 2113
+      },
+      "farmacia": {
+        "hombre": 838,
+        "mujer": 690
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1526,
+        "mujer": 1319
+      },
+      "mineria": {
+        "hombre": 23,
+        "mujer": 3
+      },
+      "manufactura": {
+        "hombre": 169,
+        "mujer": 84
+      },
+      "electricidad": {
+        "hombre": 2,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 234,
+        "mujer": 13
+      },
+      "comercio": {
+        "hombre": 350,
+        "mujer": 220
+      },
+      "otrosServicios": {
+        "hombre": 152,
+        "mujer": 116
+      },
+      "sinEspecificar": {
+        "hombre": 114,
+        "mujer": 70
+      },
+      "descripcionIncompleta": {
+        "hombre": 40,
+        "mujer": 14
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 476,
+        "mujer": 131
+      },
+      "trabajadorDelHogar": {
+        "hombre": 1,
+        "mujer": 15
+      },
+      "cuentaPropia": {
+        "hombre": 1604,
+        "mujer": 1229
+      },
+      "empleador": {
+        "hombre": 36,
+        "mujer": 11
+      },
+      "aprendiz": {
+        "hombre": 176,
+        "mujer": 157
+      },
+      "servicios": {
+        "hombre": 7,
+        "mujer": 3
+      },
+      "sinEspecificar": {
+        "hombre": 310,
+        "mujer": 293
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 3263,
+    "colectiva": 21,
+    "energia": {
+      "tiene": 411,
+      "noTiene": 2379
+    },
+    "cocina": {
+      "garrafa": 170,
+      "gasDomiciliario": 0,
+      "lena": 2164,
+      "otro": 449,
+      "noCocina": 7
+    },
+    "agua": {
+      "caneria": 99,
+      "pilaPublica": 40,
+      "carroRepartidor": 0,
+      "pozo": 1799,
+      "rio": 813,
+      "otro": 39
+    },
+    "desague": {
+      "alcantarilla": 2,
+      "camara": 7,
+      "pozo": 309,
+      "calle": 1,
+      "rio": 4,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 1,
+      "carro": 3,
+      "calle": 118,
+      "rio": 815,
+      "quema": 1581,
+      "entierro": 210,
+      "otro": 62
+    },
+    "tics": {
+      "radio": 2218,
+      "television": 73,
+      "computador": 12,
+      "internet": 3,
+      "celular": 247
+    }
+  }
+}

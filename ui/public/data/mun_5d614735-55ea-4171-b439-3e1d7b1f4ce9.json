@@ -1,0 +1,204 @@
+{
+  "depto": "LA PAZ",
+  "prov": "MURILLO",
+  "mun": "EL ALTO",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 36875,
+        "mujer": 36039
+      },
+      "edad4a5": {
+        "hombre": 18584,
+        "mujer": 18113
+      },
+      "edad6a19": {
+        "hombre": 128516,
+        "mujer": 130861
+      },
+      "edad20a39": {
+        "hombre": 137887,
+        "mujer": 155809
+      },
+      "edad40a59": {
+        "hombre": 64319,
+        "mujer": 72709
+      },
+      "edad60oMas": {
+        "hombre": 22803,
+        "mujer": 25937
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 242086,
+      "mujer": 274071
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 403951,
+        "mujer": 435734
+      },
+      "colectiva": {
+        "hombre": 3861,
+        "mujer": 2771
+      },
+      "movil": {
+        "hombre": 1019,
+        "mujer": 825
+      },
+      "sinVivienda": {
+        "hombre": 153,
+        "mujer": 138
+      }
+    },
+    "conCi": {
+      "hombre": 324809,
+      "mujer": 356638
+    },
+    "salud": {
+      "caja": {
+        "hombre": 91609,
+        "mujer": 97787
+      },
+      "seguroPrivado": {
+        "hombre": 44847,
+        "mujer": 46544
+      },
+      "establecimientoPublico": {
+        "hombre": 206319,
+        "mujer": 236123
+      },
+      "establecimientoPrivado": {
+        "hombre": 72720,
+        "mujer": 76945
+      },
+      "medicoTradicional": {
+        "hombre": 72297,
+        "mujer": 77205
+      },
+      "solucionCasera": {
+        "hombre": 208092,
+        "mujer": 232823
+      },
+      "farmacia": {
+        "hombre": 256231,
+        "mujer": 273925
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 4580,
+        "mujer": 4696
+      },
+      "mineria": {
+        "hombre": 1825,
+        "mujer": 298
+      },
+      "manufactura": {
+        "hombre": 42980,
+        "mujer": 29856
+      },
+      "electricidad": {
+        "hombre": 624,
+        "mujer": 127
+      },
+      "construccion": {
+        "hombre": 31861,
+        "mujer": 2953
+      },
+      "comercio": {
+        "hombre": 67151,
+        "mujer": 69757
+      },
+      "otrosServicios": {
+        "hombre": 43253,
+        "mujer": 53216
+      },
+      "sinEspecificar": {
+        "hombre": 6186,
+        "mujer": 6390
+      },
+      "descripcionIncompleta": {
+        "hombre": 8316,
+        "mujer": 5941
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 104753,
+        "mujer": 55265
+      },
+      "trabajadorDelHogar": {
+        "hombre": 161,
+        "mujer": 5032
+      },
+      "cuentaPropia": {
+        "hombre": 75211,
+        "mujer": 84861
+      },
+      "empleador": {
+        "hombre": 6562,
+        "mujer": 4108
+      },
+      "aprendiz": {
+        "hombre": 4834,
+        "mujer": 5840
+      },
+      "servicios": {
+        "hombre": 1096,
+        "mujer": 763
+      },
+      "sinEspecificar": {
+        "hombre": 14159,
+        "mujer": 17365
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 277673,
+    "colectiva": 1517,
+    "energia": {
+      "tiene": 235547,
+      "noTiene": 21305
+    },
+    "cocina": {
+      "garrafa": 144651,
+      "gasDomiciliario": 104184,
+      "lena": 2041,
+      "otro": 1471,
+      "noCocina": 4505
+    },
+    "agua": {
+      "caneria": 226918,
+      "pilaPublica": 15617,
+      "carroRepartidor": 5011,
+      "pozo": 5228,
+      "rio": 3865,
+      "otro": 213
+    },
+    "desague": {
+      "alcantarilla": 163286,
+      "camara": 5920,
+      "pozo": 32324,
+      "calle": 373,
+      "rio": 26,
+      "lago": 4
+    },
+    "basura": {
+      "contenedor": 49425,
+      "carro": 163156,
+      "calle": 24041,
+      "rio": 9560,
+      "quema": 7907,
+      "entierro": 1018,
+      "otro": 1745
+    },
+    "tics": {
+      "radio": 216896,
+      "television": 208553,
+      "computador": 64074,
+      "internet": 13038,
+      "celular": 201018
+    }
+  }
+}

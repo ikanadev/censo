@@ -1,0 +1,204 @@
+{
+  "depto": "",
+  "prov": "",
+  "mun": "",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 435811,
+        "mujer": 419045
+      },
+      "edad4a5": {
+        "hombre": 215409,
+        "mujer": 206790
+      },
+      "edad6a19": {
+        "hombre": 1506687,
+        "mujer": 1459720
+      },
+      "edad20a39": {
+        "hombre": 1573972,
+        "mujer": 1591404
+      },
+      "edad40a59": {
+        "hombre": 853063,
+        "mujer": 873141
+      },
+      "edad60oMas": {
+        "hombre": 407431,
+        "mujer": 467692
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 3054220,
+      "mujer": 3145068
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 4847175,
+        "mujer": 4936562
+      },
+      "colectiva": {
+        "hombre": 130711,
+        "mujer": 71239
+      },
+      "movil": {
+        "hombre": 14484,
+        "mujer": 8857
+      },
+      "sinVivienda": {
+        "hombre": 2142,
+        "mujer": 1254
+      }
+    },
+    "conCi": {
+      "hombre": 3949706,
+      "mujer": 4021100
+    },
+    "salud": {
+      "caja": {
+        "hombre": 997531,
+        "mujer": 1028761
+      },
+      "seguroPrivado": {
+        "hombre": 486090,
+        "mujer": 486389
+      },
+      "establecimientoPublico": {
+        "hombre": 3029055,
+        "mujer": 3129193
+      },
+      "establecimientoPrivado": {
+        "hombre": 806280,
+        "mujer": 842846
+      },
+      "medicoTradicional": {
+        "hombre": 891084,
+        "mujer": 891238
+      },
+      "solucionCasera": {
+        "hombre": 2191344,
+        "mujer": 2289382
+      },
+      "farmacia": {
+        "hombre": 2334085,
+        "mujer": 2351830
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 772295,
+        "mujer": 470919
+      },
+      "mineria": {
+        "hombre": 73829,
+        "mujer": 8523
+      },
+      "manufactura": {
+        "hombre": 260435,
+        "mujer": 154513
+      },
+      "electricidad": {
+        "hombre": 8113,
+        "mujer": 1978
+      },
+      "construccion": {
+        "hombre": 358878,
+        "mujer": 17371
+      },
+      "comercio": {
+        "hombre": 560569,
+        "mujer": 494732
+      },
+      "otrosServicios": {
+        "hombre": 451568,
+        "mujer": 624036
+      },
+      "sinEspecificar": {
+        "hombre": 85788,
+        "mujer": 78899
+      },
+      "descripcionIncompleta": {
+        "hombre": 129302,
+        "mujer": 100421
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 1048850,
+        "mujer": 572600
+      },
+      "trabajadorDelHogar": {
+        "hombre": 1849,
+        "mujer": 67196
+      },
+      "cuentaPropia": {
+        "hombre": 1168930,
+        "mujer": 895522
+      },
+      "empleador": {
+        "hombre": 81140,
+        "mujer": 43539
+      },
+      "aprendiz": {
+        "hombre": 88482,
+        "mujer": 81899
+      },
+      "servicios": {
+        "hombre": 18208,
+        "mujer": 8415
+      },
+      "sinEspecificar": {
+        "hombre": 293322,
+        "mujer": 282222
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 3114412,
+    "colectiva": 33784,
+    "energia": {
+      "tiene": 2298947,
+      "noTiene": 494712
+    },
+    "cocina": {
+      "garrafa": 1691868,
+      "gasDomiciliario": 312869,
+      "lena": 660970,
+      "otro": 78881,
+      "noCocina": 49071
+    },
+    "agua": {
+      "caneria": 1908267,
+      "pilaPublica": 240375,
+      "carroRepartidor": 82796,
+      "pozo": 293821,
+      "rio": 242027,
+      "otro": 26373
+    },
+    "desague": {
+      "alcantarilla": 1129043,
+      "camara": 223526,
+      "pozo": 584409,
+      "calle": 5355,
+      "rio": 6573,
+      "lago": 819
+    },
+    "basura": {
+      "contenedor": 376289,
+      "carro": 1237423,
+      "calle": 196385,
+      "rio": 195730,
+      "quema": 633571,
+      "entierro": 112429,
+      "otro": 41832
+    },
+    "tics": {
+      "radio": 2110232,
+      "television": 1858021,
+      "computador": 661448,
+      "internet": 267862,
+      "celular": 1819271
+    }
+  }
+}

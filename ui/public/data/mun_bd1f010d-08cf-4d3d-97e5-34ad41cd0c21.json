@@ -1,0 +1,204 @@
+{
+  "depto": "PANDO",
+  "prov": "MADRE DE DIOS",
+  "mun": "PUERTO GONZALO MORENO",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 488,
+        "mujer": 455
+      },
+      "edad4a5": {
+        "hombre": 245,
+        "mujer": 215
+      },
+      "edad6a19": {
+        "hombre": 1690,
+        "mujer": 1535
+      },
+      "edad20a39": {
+        "hombre": 1251,
+        "mujer": 991
+      },
+      "edad40a59": {
+        "hombre": 516,
+        "mujer": 400
+      },
+      "edad60oMas": {
+        "hombre": 225,
+        "mujer": 149
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 2230,
+      "mujer": 1743
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 4023,
+        "mujer": 3521
+      },
+      "colectiva": {
+        "hombre": 332,
+        "mujer": 185
+      },
+      "movil": {
+        "hombre": 27,
+        "mujer": 21
+      },
+      "sinVivienda": {
+        "hombre": 33,
+        "mujer": 18
+      }
+    },
+    "conCi": {
+      "hombre": 3081,
+      "mujer": 2575
+    },
+    "salud": {
+      "caja": {
+        "hombre": 642,
+        "mujer": 459
+      },
+      "seguroPrivado": {
+        "hombre": 206,
+        "mujer": 114
+      },
+      "establecimientoPublico": {
+        "hombre": 3911,
+        "mujer": 3369
+      },
+      "establecimientoPrivado": {
+        "hombre": 191,
+        "mujer": 131
+      },
+      "medicoTradicional": {
+        "hombre": 419,
+        "mujer": 377
+      },
+      "solucionCasera": {
+        "hombre": 1373,
+        "mujer": 1206
+      },
+      "farmacia": {
+        "hombre": 1296,
+        "mujer": 1088
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1090,
+        "mujer": 589
+      },
+      "mineria": {
+        "hombre": 107,
+        "mujer": 1
+      },
+      "manufactura": {
+        "hombre": 119,
+        "mujer": 99
+      },
+      "electricidad": {
+        "hombre": 3,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 351,
+        "mujer": 30
+      },
+      "comercio": {
+        "hombre": 109,
+        "mujer": 51
+      },
+      "otrosServicios": {
+        "hombre": 144,
+        "mujer": 219
+      },
+      "sinEspecificar": {
+        "hombre": 138,
+        "mujer": 79
+      },
+      "descripcionIncompleta": {
+        "hombre": 36,
+        "mujer": 16
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 698,
+        "mujer": 230
+      },
+      "trabajadorDelHogar": {
+        "hombre": 1,
+        "mujer": 29
+      },
+      "cuentaPropia": {
+        "hombre": 714,
+        "mujer": 399
+      },
+      "empleador": {
+        "hombre": 48,
+        "mujer": 18
+      },
+      "aprendiz": {
+        "hombre": 106,
+        "mujer": 51
+      },
+      "servicios": {
+        "hombre": 13,
+        "mujer": 15
+      },
+      "sinEspecificar": {
+        "hombre": 517,
+        "mujer": 342
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1037,
+    "colectiva": 35,
+    "energia": {
+      "tiene": 656,
+      "noTiene": 370
+    },
+    "cocina": {
+      "garrafa": 156,
+      "gasDomiciliario": 0,
+      "lena": 858,
+      "otro": 3,
+      "noCocina": 9
+    },
+    "agua": {
+      "caneria": 75,
+      "pilaPublica": 104,
+      "carroRepartidor": 0,
+      "pozo": 393,
+      "rio": 358,
+      "otro": 96
+    },
+    "desague": {
+      "alcantarilla": 1,
+      "camara": 46,
+      "pozo": 812,
+      "calle": 0,
+      "rio": 6,
+      "lago": 4
+    },
+    "basura": {
+      "contenedor": 2,
+      "carro": 1,
+      "calle": 87,
+      "rio": 30,
+      "quema": 728,
+      "entierro": 104,
+      "otro": 74
+    },
+    "tics": {
+      "radio": 736,
+      "television": 370,
+      "computador": 45,
+      "internet": 4,
+      "celular": 281
+    }
+  }
+}

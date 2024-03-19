@@ -1,0 +1,204 @@
+{
+  "depto": "ORURO",
+  "prov": "LADISLAO CABRERA",
+  "mun": "PAMPA AULLAGAS",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 146,
+        "mujer": 136
+      },
+      "edad4a5": {
+        "hombre": 76,
+        "mujer": 71
+      },
+      "edad6a19": {
+        "hombre": 424,
+        "mujer": 388
+      },
+      "edad20a39": {
+        "hombre": 396,
+        "mujer": 352
+      },
+      "edad40a59": {
+        "hombre": 332,
+        "mujer": 267
+      },
+      "edad60oMas": {
+        "hombre": 193,
+        "mujer": 192
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 957,
+      "mujer": 858
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 1547,
+        "mujer": 1385
+      },
+      "colectiva": {
+        "hombre": 5,
+        "mujer": 10
+      },
+      "movil": {
+        "hombre": 15,
+        "mujer": 11
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 1295,
+      "mujer": 1135
+    },
+    "salud": {
+      "caja": {
+        "hombre": 127,
+        "mujer": 105
+      },
+      "seguroPrivado": {
+        "hombre": 41,
+        "mujer": 26
+      },
+      "establecimientoPublico": {
+        "hombre": 1150,
+        "mujer": 1087
+      },
+      "establecimientoPrivado": {
+        "hombre": 69,
+        "mujer": 41
+      },
+      "medicoTradicional": {
+        "hombre": 501,
+        "mujer": 480
+      },
+      "solucionCasera": {
+        "hombre": 884,
+        "mujer": 868
+      },
+      "farmacia": {
+        "hombre": 478,
+        "mujer": 436
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 557,
+        "mujer": 373
+      },
+      "mineria": {
+        "hombre": 2,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 12,
+        "mujer": 13
+      },
+      "electricidad": {
+        "hombre": 0,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 93,
+        "mujer": 5
+      },
+      "comercio": {
+        "hombre": 101,
+        "mujer": 81
+      },
+      "otrosServicios": {
+        "hombre": 59,
+        "mujer": 65
+      },
+      "sinEspecificar": {
+        "hombre": 29,
+        "mujer": 14
+      },
+      "descripcionIncompleta": {
+        "hombre": 5,
+        "mujer": 8
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 119,
+        "mujer": 67
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 2
+      },
+      "cuentaPropia": {
+        "hombre": 605,
+        "mujer": 361
+      },
+      "empleador": {
+        "hombre": 12,
+        "mujer": 6
+      },
+      "aprendiz": {
+        "hombre": 31,
+        "mujer": 16
+      },
+      "servicios": {
+        "hombre": 7,
+        "mujer": 3
+      },
+      "sinEspecificar": {
+        "hombre": 84,
+        "mujer": 104
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1570,
+    "colectiva": 6,
+    "energia": {
+      "tiene": 630,
+      "noTiene": 410
+    },
+    "cocina": {
+      "garrafa": 359,
+      "gasDomiciliario": 0,
+      "lena": 675,
+      "otro": 3,
+      "noCocina": 3
+    },
+    "agua": {
+      "caneria": 198,
+      "pilaPublica": 82,
+      "carroRepartidor": 0,
+      "pozo": 734,
+      "rio": 23,
+      "otro": 3
+    },
+    "desague": {
+      "alcantarilla": 59,
+      "camara": 13,
+      "pozo": 111,
+      "calle": 1,
+      "rio": 1,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 6,
+      "carro": 3,
+      "calle": 159,
+      "rio": 159,
+      "quema": 569,
+      "entierro": 111,
+      "otro": 33
+    },
+    "tics": {
+      "radio": 690,
+      "television": 269,
+      "computador": 31,
+      "internet": 0,
+      "celular": 453
+    }
+  }
+}

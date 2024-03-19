@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "GERMÁN BUSCH",
+  "mun": "PUERTO SUÁREZ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 808,
+        "mujer": 777
+      },
+      "edad4a5": {
+        "hombre": 367,
+        "mujer": 349
+      },
+      "edad6a19": {
+        "hombre": 3161,
+        "mujer": 2854
+      },
+      "edad20a39": {
+        "hombre": 3363,
+        "mujer": 3051
+      },
+      "edad40a59": {
+        "hombre": 2029,
+        "mujer": 1744
+      },
+      "edad60oMas": {
+        "hombre": 745,
+        "mujer": 581
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 6729,
+      "mujer": 5796
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 9516,
+        "mujer": 8997
+      },
+      "colectiva": {
+        "hombre": 818,
+        "mujer": 293
+      },
+      "movil": {
+        "hombre": 121,
+        "mujer": 62
+      },
+      "sinVivienda": {
+        "hombre": 18,
+        "mujer": 4
+      }
+    },
+    "conCi": {
+      "hombre": 8777,
+      "mujer": 8004
+    },
+    "salud": {
+      "caja": {
+        "hombre": 1601,
+        "mujer": 1390
+      },
+      "seguroPrivado": {
+        "hombre": 745,
+        "mujer": 665
+      },
+      "establecimientoPublico": {
+        "hombre": 7597,
+        "mujer": 6914
+      },
+      "establecimientoPrivado": {
+        "hombre": 1031,
+        "mujer": 948
+      },
+      "medicoTradicional": {
+        "hombre": 796,
+        "mujer": 722
+      },
+      "solucionCasera": {
+        "hombre": 2444,
+        "mujer": 2101
+      },
+      "farmacia": {
+        "hombre": 2363,
+        "mujer": 1988
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 946,
+        "mujer": 126
+      },
+      "mineria": {
+        "hombre": 76,
+        "mujer": 9
+      },
+      "manufactura": {
+        "hombre": 356,
+        "mujer": 264
+      },
+      "electricidad": {
+        "hombre": 15,
+        "mujer": 5
+      },
+      "construccion": {
+        "hombre": 876,
+        "mujer": 18
+      },
+      "comercio": {
+        "hombre": 1687,
+        "mujer": 954
+      },
+      "otrosServicios": {
+        "hombre": 1054,
+        "mujer": 1345
+      },
+      "sinEspecificar": {
+        "hombre": 215,
+        "mujer": 178
+      },
+      "descripcionIncompleta": {
+        "hombre": 536,
+        "mujer": 341
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 2517,
+        "mujer": 1082
+      },
+      "trabajadorDelHogar": {
+        "hombre": 6,
+        "mujer": 173
+      },
+      "cuentaPropia": {
+        "hombre": 2045,
+        "mujer": 1141
+      },
+      "empleador": {
+        "hombre": 149,
+        "mujer": 67
+      },
+      "aprendiz": {
+        "hombre": 74,
+        "mujer": 56
+      },
+      "servicios": {
+        "hombre": 53,
+        "mujer": 23
+      },
+      "sinEspecificar": {
+        "hombre": 917,
+        "mujer": 698
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 4973,
+    "colectiva": 129,
+    "energia": {
+      "tiene": 4020,
+      "noTiene": 534
+    },
+    "cocina": {
+      "garrafa": 3459,
+      "gasDomiciliario": 0,
+      "lena": 967,
+      "otro": 13,
+      "noCocina": 115
+    },
+    "agua": {
+      "caneria": 3832,
+      "pilaPublica": 270,
+      "carroRepartidor": 191,
+      "pozo": 182,
+      "rio": 58,
+      "otro": 21
+    },
+    "desague": {
+      "alcantarilla": 128,
+      "camara": 1057,
+      "pozo": 2818,
+      "calle": 11,
+      "rio": 0,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 407,
+      "carro": 1430,
+      "calle": 112,
+      "rio": 19,
+      "quema": 2307,
+      "entierro": 165,
+      "otro": 114
+    },
+    "tics": {
+      "radio": 3139,
+      "television": 3412,
+      "computador": 831,
+      "internet": 456,
+      "celular": 2944
+    }
+  }
+}

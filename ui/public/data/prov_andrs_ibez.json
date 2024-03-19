@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "ANDRÉS IBÁÑEZ",
+  "mun": "",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 72063,
+        "mujer": 69019
+      },
+      "edad4a5": {
+        "hombre": 34225,
+        "mujer": 32518
+      },
+      "edad6a19": {
+        "hombre": 241264,
+        "mujer": 238760
+      },
+      "edad20a39": {
+        "hombre": 291056,
+        "mujer": 297933
+      },
+      "edad40a59": {
+        "hombre": 136396,
+        "mujer": 138114
+      },
+      "edad60oMas": {
+        "hombre": 48528,
+        "mujer": 54435
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 514184,
+      "mujer": 530511
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 801536,
+        "mujer": 816996
+      },
+      "colectiva": {
+        "hombre": 20080,
+        "mujer": 12946
+      },
+      "movil": {
+        "hombre": 1625,
+        "mujer": 763
+      },
+      "sinVivienda": {
+        "hombre": 291,
+        "mujer": 74
+      }
+    },
+    "conCi": {
+      "hombre": 638762,
+      "mujer": 656135
+    },
+    "salud": {
+      "caja": {
+        "hombre": 179256,
+        "mujer": 179205
+      },
+      "seguroPrivado": {
+        "hombre": 104363,
+        "mujer": 104262
+      },
+      "establecimientoPublico": {
+        "hombre": 481715,
+        "mujer": 505429
+      },
+      "establecimientoPrivado": {
+        "hombre": 178062,
+        "mujer": 187699
+      },
+      "medicoTradicional": {
+        "hombre": 81875,
+        "mujer": 87128
+      },
+      "solucionCasera": {
+        "hombre": 274066,
+        "mujer": 289914
+      },
+      "farmacia": {
+        "hombre": 386328,
+        "mujer": 383972
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 26700,
+        "mujer": 6600
+      },
+      "mineria": {
+        "hombre": 6267,
+        "mujer": 1608
+      },
+      "manufactura": {
+        "hombre": 60824,
+        "mujer": 28874
+      },
+      "electricidad": {
+        "hombre": 2150,
+        "mujer": 574
+      },
+      "construccion": {
+        "hombre": 75942,
+        "mujer": 2500
+      },
+      "comercio": {
+        "hombre": 136742,
+        "mujer": 99847
+      },
+      "otrosServicios": {
+        "hombre": 96425,
+        "mujer": 145627
+      },
+      "sinEspecificar": {
+        "hombre": 13083,
+        "mujer": 11499
+      },
+      "descripcionIncompleta": {
+        "hombre": 39597,
+        "mujer": 29909
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 241427,
+        "mujer": 138943
+      },
+      "trabajadorDelHogar": {
+        "hombre": 473,
+        "mujer": 19761
+      },
+      "cuentaPropia": {
+        "hombre": 151786,
+        "mujer": 114384
+      },
+      "empleador": {
+        "hombre": 16162,
+        "mujer": 9465
+      },
+      "aprendiz": {
+        "hombre": 9373,
+        "mujer": 9090
+      },
+      "servicios": {
+        "hombre": 1933,
+        "mujer": 1365
+      },
+      "sinEspecificar": {
+        "hombre": 36576,
+        "mujer": 34030
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 440793,
+    "colectiva": 6857,
+    "energia": {
+      "tiene": 402228,
+      "noTiene": 8061
+    },
+    "cocina": {
+      "garrafa": 358333,
+      "gasDomiciliario": 24581,
+      "lena": 12139,
+      "otro": 2293,
+      "noCocina": 12943
+    },
+    "agua": {
+      "caneria": 378193,
+      "pilaPublica": 21861,
+      "carroRepartidor": 677,
+      "pozo": 7412,
+      "rio": 1871,
+      "otro": 275
+    },
+    "desague": {
+      "alcantarilla": 197632,
+      "camara": 86877,
+      "pozo": 104748,
+      "calle": 872,
+      "rio": 33,
+      "lago": 41
+    },
+    "basura": {
+      "contenedor": 59838,
+      "carro": 305030,
+      "calle": 4495,
+      "rio": 588,
+      "quema": 33663,
+      "entierro": 5380,
+      "otro": 1295
+    },
+    "tics": {
+      "radio": 283836,
+      "television": 361163,
+      "computador": 150099,
+      "internet": 89237,
+      "celular": 345692
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "depto": "POTOSí",
+  "prov": "ANTONIO QUIJARRO",
+  "mun": "UYUNI",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 1440,
+        "mujer": 1441
+      },
+      "edad4a5": {
+        "hombre": 688,
+        "mujer": 656
+      },
+      "edad6a19": {
+        "hombre": 4517,
+        "mujer": 4366
+      },
+      "edad20a39": {
+        "hombre": 4348,
+        "mujer": 4594
+      },
+      "edad40a59": {
+        "hombre": 2212,
+        "mujer": 2588
+      },
+      "edad60oMas": {
+        "hombre": 1299,
+        "mujer": 1523
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 8431,
+      "mujer": 9239
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 13844,
+        "mujer": 14809
+      },
+      "colectiva": {
+        "hombre": 607,
+        "mujer": 332
+      },
+      "movil": {
+        "hombre": 53,
+        "mujer": 26
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 1
+      }
+    },
+    "conCi": {
+      "hombre": 11478,
+      "mujer": 12155
+    },
+    "salud": {
+      "caja": {
+        "hombre": 4347,
+        "mujer": 4616
+      },
+      "seguroPrivado": {
+        "hombre": 1514,
+        "mujer": 1727
+      },
+      "establecimientoPublico": {
+        "hombre": 7477,
+        "mujer": 8088
+      },
+      "establecimientoPrivado": {
+        "hombre": 2317,
+        "mujer": 2556
+      },
+      "medicoTradicional": {
+        "hombre": 3014,
+        "mujer": 2980
+      },
+      "solucionCasera": {
+        "hombre": 8307,
+        "mujer": 8936
+      },
+      "farmacia": {
+        "hombre": 9080,
+        "mujer": 9680
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2159,
+        "mujer": 1839
+      },
+      "mineria": {
+        "hombre": 466,
+        "mujer": 51
+      },
+      "manufactura": {
+        "hombre": 374,
+        "mujer": 204
+      },
+      "electricidad": {
+        "hombre": 17,
+        "mujer": 4
+      },
+      "construccion": {
+        "hombre": 1014,
+        "mujer": 46
+      },
+      "comercio": {
+        "hombre": 1471,
+        "mujer": 1545
+      },
+      "otrosServicios": {
+        "hombre": 1212,
+        "mujer": 1715
+      },
+      "sinEspecificar": {
+        "hombre": 281,
+        "mujer": 242
+      },
+      "descripcionIncompleta": {
+        "hombre": 162,
+        "mujer": 166
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 2224,
+        "mujer": 1265
+      },
+      "trabajadorDelHogar": {
+        "hombre": 3,
+        "mujer": 93
+      },
+      "cuentaPropia": {
+        "hombre": 3632,
+        "mujer": 3195
+      },
+      "empleador": {
+        "hombre": 244,
+        "mujer": 120
+      },
+      "aprendiz": {
+        "hombre": 197,
+        "mujer": 164
+      },
+      "servicios": {
+        "hombre": 60,
+        "mujer": 18
+      },
+      "sinEspecificar": {
+        "hombre": 796,
+        "mujer": 957
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 11486,
+    "colectiva": 182,
+    "energia": {
+      "tiene": 7732,
+      "noTiene": 1865
+    },
+    "cocina": {
+      "garrafa": 7405,
+      "gasDomiciliario": 0,
+      "lena": 2015,
+      "otro": 75,
+      "noCocina": 102
+    },
+    "agua": {
+      "caneria": 5991,
+      "pilaPublica": 943,
+      "carroRepartidor": 50,
+      "pozo": 2141,
+      "rio": 439,
+      "otro": 33
+    },
+    "desague": {
+      "alcantarilla": 1437,
+      "camara": 221,
+      "pozo": 2200,
+      "calle": 5,
+      "rio": 1,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 952,
+      "carro": 3903,
+      "calle": 756,
+      "rio": 989,
+      "quema": 1748,
+      "entierro": 971,
+      "otro": 278
+    },
+    "tics": {
+      "radio": 6576,
+      "television": 6261,
+      "computador": 2185,
+      "internet": 339,
+      "celular": 5833
+    }
+  }
+}

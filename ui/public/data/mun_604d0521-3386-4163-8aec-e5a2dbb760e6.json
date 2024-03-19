@@ -1,0 +1,204 @@
+{
+  "depto": "CHUQUISACA",
+  "prov": "ZUDÁÑEZ",
+  "mun": "ZUDÁÑEZ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 446,
+        "mujer": 405
+      },
+      "edad4a5": {
+        "hombre": 239,
+        "mujer": 226
+      },
+      "edad6a19": {
+        "hombre": 1724,
+        "mujer": 1650
+      },
+      "edad20a39": {
+        "hombre": 1751,
+        "mujer": 1586
+      },
+      "edad40a59": {
+        "hombre": 1052,
+        "mujer": 1062
+      },
+      "edad60oMas": {
+        "hombre": 583,
+        "mujer": 638
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 3657,
+      "mujer": 3552
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 5573,
+        "mujer": 5395
+      },
+      "colectiva": {
+        "hombre": 192,
+        "mujer": 155
+      },
+      "movil": {
+        "hombre": 27,
+        "mujer": 16
+      },
+      "sinVivienda": {
+        "hombre": 3,
+        "mujer": 1
+      }
+    },
+    "conCi": {
+      "hombre": 4344,
+      "mujer": 4164
+    },
+    "salud": {
+      "caja": {
+        "hombre": 609,
+        "mujer": 619
+      },
+      "seguroPrivado": {
+        "hombre": 232,
+        "mujer": 184
+      },
+      "establecimientoPublico": {
+        "hombre": 4832,
+        "mujer": 4714
+      },
+      "establecimientoPrivado": {
+        "hombre": 455,
+        "mujer": 444
+      },
+      "medicoTradicional": {
+        "hombre": 3021,
+        "mujer": 2860
+      },
+      "solucionCasera": {
+        "hombre": 3966,
+        "mujer": 3895
+      },
+      "farmacia": {
+        "hombre": 2796,
+        "mujer": 2687
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 1999,
+        "mujer": 539
+      },
+      "mineria": {
+        "hombre": 10,
+        "mujer": 0
+      },
+      "manufactura": {
+        "hombre": 81,
+        "mujer": 128
+      },
+      "electricidad": {
+        "hombre": 1,
+        "mujer": 1
+      },
+      "construccion": {
+        "hombre": 440,
+        "mujer": 9
+      },
+      "comercio": {
+        "hombre": 322,
+        "mujer": 326
+      },
+      "otrosServicios": {
+        "hombre": 302,
+        "mujer": 517
+      },
+      "sinEspecificar": {
+        "hombre": 105,
+        "mujer": 142
+      },
+      "descripcionIncompleta": {
+        "hombre": 77,
+        "mujer": 61
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 725,
+        "mujer": 337
+      },
+      "trabajadorDelHogar": {
+        "hombre": 2,
+        "mujer": 93
+      },
+      "cuentaPropia": {
+        "hombre": 1711,
+        "mujer": 741
+      },
+      "empleador": {
+        "hombre": 52,
+        "mujer": 31
+      },
+      "aprendiz": {
+        "hombre": 274,
+        "mujer": 136
+      },
+      "servicios": {
+        "hombre": 12,
+        "mujer": 5
+      },
+      "sinEspecificar": {
+        "hombre": 561,
+        "mujer": 380
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 2968,
+    "colectiva": 58,
+    "energia": {
+      "tiene": 1268,
+      "noTiene": 1318
+    },
+    "cocina": {
+      "garrafa": 749,
+      "gasDomiciliario": 0,
+      "lena": 1784,
+      "otro": 30,
+      "noCocina": 23
+    },
+    "agua": {
+      "caneria": 1759,
+      "pilaPublica": 182,
+      "carroRepartidor": 0,
+      "pozo": 31,
+      "rio": 597,
+      "otro": 17
+    },
+    "desague": {
+      "alcantarilla": 594,
+      "camara": 72,
+      "pozo": 181,
+      "calle": 1,
+      "rio": 0,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 128,
+      "carro": 610,
+      "calle": 926,
+      "rio": 216,
+      "quema": 469,
+      "entierro": 118,
+      "otro": 119
+    },
+    "tics": {
+      "radio": 1863,
+      "television": 728,
+      "computador": 137,
+      "internet": 26,
+      "celular": 920
+    }
+  }
+}

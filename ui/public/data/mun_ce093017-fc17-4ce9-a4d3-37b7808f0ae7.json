@@ -1,0 +1,204 @@
+{
+  "depto": "POTOSí",
+  "prov": "TOMÁS FRÍAS",
+  "mun": "POTOSÍ",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 9296,
+        "mujer": 9072
+      },
+      "edad4a5": {
+        "hombre": 4428,
+        "mujer": 4353
+      },
+      "edad6a19": {
+        "hombre": 28486,
+        "mujer": 29167
+      },
+      "edad20a39": {
+        "hombre": 30993,
+        "mujer": 33406
+      },
+      "edad40a59": {
+        "hombre": 13110,
+        "mujer": 15637
+      },
+      "edad60oMas": {
+        "hombre": 5344,
+        "mujer": 8010
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 53548,
+      "mujer": 61477
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 89493,
+        "mujer": 98410
+      },
+      "colectiva": {
+        "hombre": 1826,
+        "mujer": 934
+      },
+      "movil": {
+        "hombre": 249,
+        "mujer": 220
+      },
+      "sinVivienda": {
+        "hombre": 89,
+        "mujer": 81
+      }
+    },
+    "conCi": {
+      "hombre": 72297,
+      "mujer": 80869
+    },
+    "salud": {
+      "caja": {
+        "hombre": 31893,
+        "mujer": 35554
+      },
+      "seguroPrivado": {
+        "hombre": 18483,
+        "mujer": 19566
+      },
+      "establecimientoPublico": {
+        "hombre": 46119,
+        "mujer": 52764
+      },
+      "establecimientoPrivado": {
+        "hombre": 20911,
+        "mujer": 22624
+      },
+      "medicoTradicional": {
+        "hombre": 14477,
+        "mujer": 16155
+      },
+      "solucionCasera": {
+        "hombre": 46479,
+        "mujer": 53470
+      },
+      "farmacia": {
+        "hombre": 55978,
+        "mujer": 61280
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 2477,
+        "mujer": 2110
+      },
+      "mineria": {
+        "hombre": 8701,
+        "mujer": 513
+      },
+      "manufactura": {
+        "hombre": 2962,
+        "mujer": 1481
+      },
+      "electricidad": {
+        "hombre": 174,
+        "mujer": 35
+      },
+      "construccion": {
+        "hombre": 5952,
+        "mujer": 387
+      },
+      "comercio": {
+        "hombre": 9545,
+        "mujer": 8755
+      },
+      "otrosServicios": {
+        "hombre": 9818,
+        "mujer": 13646
+      },
+      "sinEspecificar": {
+        "hombre": 1645,
+        "mujer": 1901
+      },
+      "descripcionIncompleta": {
+        "hombre": 1210,
+        "mujer": 1199
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 19052,
+        "mujer": 11056
+      },
+      "trabajadorDelHogar": {
+        "hombre": 9,
+        "mujer": 968
+      },
+      "cuentaPropia": {
+        "hombre": 14723,
+        "mujer": 11324
+      },
+      "empleador": {
+        "hombre": 2334,
+        "mujer": 810
+      },
+      "aprendiz": {
+        "hombre": 1101,
+        "mujer": 1077
+      },
+      "servicios": {
+        "hombre": 672,
+        "mujer": 161
+      },
+      "sinEspecificar": {
+        "hombre": 4593,
+        "mujer": 4631
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 54852,
+    "colectiva": 370,
+    "energia": {
+      "tiene": 48895,
+      "noTiene": 2711
+    },
+    "cocina": {
+      "garrafa": 27974,
+      "gasDomiciliario": 19040,
+      "lena": 3307,
+      "otro": 630,
+      "noCocina": 655
+    },
+    "agua": {
+      "caneria": 44196,
+      "pilaPublica": 4645,
+      "carroRepartidor": 275,
+      "pozo": 1583,
+      "rio": 767,
+      "otro": 140
+    },
+    "desague": {
+      "alcantarilla": 41259,
+      "camara": 257,
+      "pozo": 296,
+      "calle": 122,
+      "rio": 87,
+      "lago": 1
+    },
+    "basura": {
+      "contenedor": 8270,
+      "carro": 34277,
+      "calle": 2138,
+      "rio": 3406,
+      "quema": 2721,
+      "entierro": 518,
+      "otro": 276
+    },
+    "tics": {
+      "radio": 45264,
+      "television": 43403,
+      "computador": 18373,
+      "internet": 5427,
+      "celular": 41754
+    }
+  }
+}

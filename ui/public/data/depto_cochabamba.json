@@ -1,0 +1,204 @@
+{
+  "depto": "COCHABAMBA",
+  "prov": "",
+  "mun": "",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 76379,
+        "mujer": 73335
+      },
+      "edad4a5": {
+        "hombre": 38339,
+        "mujer": 36473
+      },
+      "edad6a19": {
+        "hombre": 265634,
+        "mujer": 259251
+      },
+      "edad20a39": {
+        "hombre": 274531,
+        "mujer": 280486
+      },
+      "edad40a59": {
+        "hombre": 144199,
+        "mujer": 154609
+      },
+      "edad60oMas": {
+        "hombre": 70306,
+        "mujer": 89219
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 528754,
+      "mujer": 563057
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 849988,
+        "mujer": 881492
+      },
+      "colectiva": {
+        "hombre": 16748,
+        "mujer": 10147
+      },
+      "movil": {
+        "hombre": 2202,
+        "mujer": 1473
+      },
+      "sinVivienda": {
+        "hombre": 450,
+        "mujer": 261
+      }
+    },
+    "conCi": {
+      "hombre": 676889,
+      "mujer": 707923
+    },
+    "salud": {
+      "caja": {
+        "hombre": 148744,
+        "mujer": 161438
+      },
+      "seguroPrivado": {
+        "hombre": 88896,
+        "mujer": 91412
+      },
+      "establecimientoPublico": {
+        "hombre": 536325,
+        "mujer": 565567
+      },
+      "establecimientoPrivado": {
+        "hombre": 186675,
+        "mujer": 200003
+      },
+      "medicoTradicional": {
+        "hombre": 134509,
+        "mujer": 135998
+      },
+      "solucionCasera": {
+        "hombre": 414518,
+        "mujer": 444335
+      },
+      "farmacia": {
+        "hombre": 468274,
+        "mujer": 481190
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 142203,
+        "mujer": 92771
+      },
+      "mineria": {
+        "hombre": 3636,
+        "mujer": 452
+      },
+      "manufactura": {
+        "hombre": 45243,
+        "mujer": 24923
+      },
+      "electricidad": {
+        "hombre": 1517,
+        "mujer": 406
+      },
+      "construccion": {
+        "hombre": 67398,
+        "mujer": 2512
+      },
+      "comercio": {
+        "hombre": 95103,
+        "mujer": 87871
+      },
+      "otrosServicios": {
+        "hombre": 71155,
+        "mujer": 99688
+      },
+      "sinEspecificar": {
+        "hombre": 12815,
+        "mujer": 12094
+      },
+      "descripcionIncompleta": {
+        "hombre": 22705,
+        "mujer": 20189
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 165238,
+        "mujer": 98928
+      },
+      "trabajadorDelHogar": {
+        "hombre": 235,
+        "mujer": 8030
+      },
+      "cuentaPropia": {
+        "hombre": 218671,
+        "mujer": 162164
+      },
+      "empleador": {
+        "hombre": 13888,
+        "mujer": 7662
+      },
+      "aprendiz": {
+        "hombre": 16113,
+        "mujer": 15818
+      },
+      "servicios": {
+        "hombre": 2610,
+        "mujer": 1355
+      },
+      "sinEspecificar": {
+        "hombre": 45020,
+        "mujer": 46949
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 590103,
+    "colectiva": 4198,
+    "energia": {
+      "tiene": 417241,
+      "noTiene": 99367
+    },
+    "cocina": {
+      "garrafa": 331225,
+      "gasDomiciliario": 39782,
+      "lena": 132362,
+      "otro": 5607,
+      "noCocina": 7632
+    },
+    "agua": {
+      "caneria": 282142,
+      "pilaPublica": 53603,
+      "carroRepartidor": 60716,
+      "pozo": 53777,
+      "rio": 60421,
+      "otro": 5949
+    },
+    "desague": {
+      "alcantarilla": 202709,
+      "camara": 42006,
+      "pozo": 115667,
+      "calle": 654,
+      "rio": 925,
+      "lago": 214
+    },
+    "basura": {
+      "contenedor": 72885,
+      "carro": 212920,
+      "calle": 32303,
+      "rio": 34181,
+      "quema": 138823,
+      "entierro": 17026,
+      "otro": 8470
+    },
+    "tics": {
+      "radio": 399115,
+      "television": 345062,
+      "computador": 121570,
+      "internet": 47762,
+      "celular": 339200
+    }
+  }
+}

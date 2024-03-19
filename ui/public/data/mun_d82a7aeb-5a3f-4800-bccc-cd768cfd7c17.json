@@ -1,0 +1,204 @@
+{
+  "depto": "POTOSí",
+  "prov": "BERNARDINO BILBAO RIOJA",
+  "mun": "ARAMPAMPA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 234,
+        "mujer": 215
+      },
+      "edad4a5": {
+        "hombre": 95,
+        "mujer": 125
+      },
+      "edad6a19": {
+        "hombre": 646,
+        "mujer": 599
+      },
+      "edad20a39": {
+        "hombre": 491,
+        "mujer": 421
+      },
+      "edad40a59": {
+        "hombre": 373,
+        "mujer": 350
+      },
+      "edad60oMas": {
+        "hombre": 290,
+        "mujer": 331
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 1212,
+      "mujer": 1158
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 2096,
+        "mujer": 2018
+      },
+      "colectiva": {
+        "hombre": 24,
+        "mujer": 12
+      },
+      "movil": {
+        "hombre": 9,
+        "mujer": 11
+      },
+      "sinVivienda": {
+        "hombre": 0,
+        "mujer": 0
+      }
+    },
+    "conCi": {
+      "hombre": 1424,
+      "mujer": 1317
+    },
+    "salud": {
+      "caja": {
+        "hombre": 258,
+        "mujer": 225
+      },
+      "seguroPrivado": {
+        "hombre": 27,
+        "mujer": 33
+      },
+      "establecimientoPublico": {
+        "hombre": 1119,
+        "mujer": 1137
+      },
+      "establecimientoPrivado": {
+        "hombre": 172,
+        "mujer": 134
+      },
+      "medicoTradicional": {
+        "hombre": 663,
+        "mujer": 624
+      },
+      "solucionCasera": {
+        "hombre": 1285,
+        "mujer": 1214
+      },
+      "farmacia": {
+        "hombre": 718,
+        "mujer": 561
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 873,
+        "mujer": 545
+      },
+      "mineria": {
+        "hombre": 7,
+        "mujer": 2
+      },
+      "manufactura": {
+        "hombre": 8,
+        "mujer": 7
+      },
+      "electricidad": {
+        "hombre": 1,
+        "mujer": 0
+      },
+      "construccion": {
+        "hombre": 115,
+        "mujer": 3
+      },
+      "comercio": {
+        "hombre": 36,
+        "mujer": 25
+      },
+      "otrosServicios": {
+        "hombre": 90,
+        "mujer": 102
+      },
+      "sinEspecificar": {
+        "hombre": 50,
+        "mujer": 46
+      },
+      "descripcionIncompleta": {
+        "hombre": 8,
+        "mujer": 14
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 188,
+        "mujer": 81
+      },
+      "trabajadorDelHogar": {
+        "hombre": 0,
+        "mujer": 12
+      },
+      "cuentaPropia": {
+        "hombre": 633,
+        "mujer": 340
+      },
+      "empleador": {
+        "hombre": 21,
+        "mujer": 13
+      },
+      "aprendiz": {
+        "hombre": 93,
+        "mujer": 74
+      },
+      "servicios": {
+        "hombre": 5,
+        "mujer": 1
+      },
+      "sinEspecificar": {
+        "hombre": 248,
+        "mujer": 223
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 1572,
+    "colectiva": 18,
+    "energia": {
+      "tiene": 591,
+      "noTiene": 707
+    },
+    "cocina": {
+      "garrafa": 182,
+      "gasDomiciliario": 0,
+      "lena": 1020,
+      "otro": 90,
+      "noCocina": 6
+    },
+    "agua": {
+      "caneria": 589,
+      "pilaPublica": 374,
+      "carroRepartidor": 36,
+      "pozo": 52,
+      "rio": 181,
+      "otro": 66
+    },
+    "desague": {
+      "alcantarilla": 3,
+      "camara": 78,
+      "pozo": 166,
+      "calle": 0,
+      "rio": 1,
+      "lago": 0
+    },
+    "basura": {
+      "contenedor": 1,
+      "carro": 4,
+      "calle": 409,
+      "rio": 426,
+      "quema": 366,
+      "entierro": 83,
+      "otro": 9
+    },
+    "tics": {
+      "radio": 740,
+      "television": 244,
+      "computador": 44,
+      "internet": 4,
+      "celular": 283
+    }
+  }
+}

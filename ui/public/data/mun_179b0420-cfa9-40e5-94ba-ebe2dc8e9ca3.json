@@ -1,0 +1,204 @@
+{
+  "depto": "SANTA CRUZ",
+  "prov": "ANDRÉS IBÁÑEZ",
+  "mun": "SANTA CRUZ DE LA SIERRA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 62524,
+        "mujer": 59841
+      },
+      "edad4a5": {
+        "hombre": 29527,
+        "mujer": 27882
+      },
+      "edad6a19": {
+        "hombre": 208254,
+        "mujer": 207152
+      },
+      "edad20a39": {
+        "hombre": 258530,
+        "mujer": 265529
+      },
+      "edad40a59": {
+        "hombre": 120367,
+        "mujer": 123794
+      },
+      "edad60oMas": {
+        "hombre": 42459,
+        "mujer": 48680
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 454953,
+      "mujer": 473348
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 701218,
+        "mujer": 720068
+      },
+      "colectiva": {
+        "hombre": 18758,
+        "mujer": 12106
+      },
+      "movil": {
+        "hombre": 1413,
+        "mujer": 648
+      },
+      "sinVivienda": {
+        "hombre": 272,
+        "mujer": 56
+      }
+    },
+    "conCi": {
+      "hombre": 561872,
+      "mujer": 581486
+    },
+    "salud": {
+      "caja": {
+        "hombre": 163622,
+        "mujer": 164348
+      },
+      "seguroPrivado": {
+        "hombre": 95618,
+        "mujer": 96068
+      },
+      "establecimientoPublico": {
+        "hombre": 408976,
+        "mujer": 433299
+      },
+      "establecimientoPrivado": {
+        "hombre": 157564,
+        "mujer": 167204
+      },
+      "medicoTradicional": {
+        "hombre": 69115,
+        "mujer": 74468
+      },
+      "solucionCasera": {
+        "hombre": 232589,
+        "mujer": 248629
+      },
+      "farmacia": {
+        "hombre": 335438,
+        "mujer": 334870
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 13429,
+        "mujer": 3010
+      },
+      "mineria": {
+        "hombre": 5246,
+        "mujer": 1479
+      },
+      "manufactura": {
+        "hombre": 54239,
+        "mujer": 25849
+      },
+      "electricidad": {
+        "hombre": 1976,
+        "mujer": 530
+      },
+      "construccion": {
+        "hombre": 66814,
+        "mujer": 2286
+      },
+      "comercio": {
+        "hombre": 122869,
+        "mujer": 90119
+      },
+      "otrosServicios": {
+        "hombre": 89407,
+        "mujer": 132445
+      },
+      "sinEspecificar": {
+        "hombre": 11320,
+        "mujer": 10070
+      },
+      "descripcionIncompleta": {
+        "hombre": 35321,
+        "mujer": 27234
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 215108,
+        "mujer": 127438
+      },
+      "trabajadorDelHogar": {
+        "hombre": 419,
+        "mujer": 17606
+      },
+      "cuentaPropia": {
+        "hombre": 130551,
+        "mujer": 101058
+      },
+      "empleador": {
+        "hombre": 14683,
+        "mujer": 8701
+      },
+      "aprendiz": {
+        "hombre": 7827,
+        "mujer": 7967
+      },
+      "servicios": {
+        "hombre": 1683,
+        "mujer": 1207
+      },
+      "sinEspecificar": {
+        "hombre": 30350,
+        "mujer": 29045
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 388996,
+    "colectiva": 6377,
+    "energia": {
+      "tiene": 358621,
+      "noTiene": 4256
+    },
+    "cocina": {
+      "garrafa": 320411,
+      "gasDomiciliario": 23740,
+      "lena": 4580,
+      "otro": 1972,
+      "noCocina": 12174
+    },
+    "agua": {
+      "caneria": 341040,
+      "pilaPublica": 18095,
+      "carroRepartidor": 267,
+      "pozo": 3189,
+      "rio": 175,
+      "otro": 111
+    },
+    "desague": {
+      "alcantarilla": 192554,
+      "camara": 75177,
+      "pozo": 81766,
+      "calle": 725,
+      "rio": 8,
+      "lago": 26
+    },
+    "basura": {
+      "contenedor": 53060,
+      "carro": 285096,
+      "calle": 2892,
+      "rio": 169,
+      "quema": 17870,
+      "entierro": 2994,
+      "otro": 796
+    },
+    "tics": {
+      "radio": 252231,
+      "television": 323902,
+      "computador": 140893,
+      "internet": 84869,
+      "celular": 310352
+    }
+  }
+}

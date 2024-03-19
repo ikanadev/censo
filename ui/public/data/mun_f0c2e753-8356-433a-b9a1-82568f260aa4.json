@@ -1,0 +1,204 @@
+{
+  "depto": "COCHABAMBA",
+  "prov": "CERCADO",
+  "mun": "COCHABAMBA",
+  "poblacion": {
+    "edades": {
+      "edad0a3": {
+        "hombre": 25333,
+        "mujer": 24152
+      },
+      "edad4a5": {
+        "hombre": 12303,
+        "mujer": 11879
+      },
+      "edad6a19": {
+        "hombre": 85793,
+        "mujer": 86352
+      },
+      "edad20a39": {
+        "hombre": 105704,
+        "mujer": 113069
+      },
+      "edad40a59": {
+        "hombre": 50737,
+        "mujer": 58483
+      },
+      "edad60oMas": {
+        "hombre": 24807,
+        "mujer": 33401
+      }
+    },
+    "mayorDeEdad": {
+      "hombre": 194632,
+      "mujer": 219286
+    },
+    "vivienda": {
+      "particular": {
+        "hombre": 298284,
+        "mujer": 322900
+      },
+      "colectiva": {
+        "hombre": 5764,
+        "mujer": 4060
+      },
+      "movil": {
+        "hombre": 485,
+        "mujer": 333
+      },
+      "sinVivienda": {
+        "hombre": 144,
+        "mujer": 43
+      }
+    },
+    "conCi": {
+      "hombre": 245101,
+      "mujer": 269619
+    },
+    "salud": {
+      "caja": {
+        "hombre": 71221,
+        "mujer": 81224
+      },
+      "seguroPrivado": {
+        "hombre": 44351,
+        "mujer": 47178
+      },
+      "establecimientoPublico": {
+        "hombre": 159259,
+        "mujer": 176711
+      },
+      "establecimientoPrivado": {
+        "hombre": 78350,
+        "mujer": 85679
+      },
+      "medicoTradicional": {
+        "hombre": 34324,
+        "mujer": 37010
+      },
+      "solucionCasera": {
+        "hombre": 138035,
+        "mujer": 156313
+      },
+      "farmacia": {
+        "hombre": 177127,
+        "mujer": 188028
+      }
+    },
+    "ocupacion": {
+      "agricultura": {
+        "hombre": 4541,
+        "mujer": 3915
+      },
+      "mineria": {
+        "hombre": 666,
+        "mujer": 140
+      },
+      "manufactura": {
+        "hombre": 22710,
+        "mujer": 11388
+      },
+      "electricidad": {
+        "hombre": 794,
+        "mujer": 238
+      },
+      "construccion": {
+        "hombre": 27924,
+        "mujer": 1271
+      },
+      "comercio": {
+        "hombre": 45653,
+        "mujer": 44155
+      },
+      "otrosServicios": {
+        "hombre": 38636,
+        "mujer": 51708
+      },
+      "sinEspecificar": {
+        "hombre": 3990,
+        "mujer": 3585
+      },
+      "descripcionIncompleta": {
+        "hombre": 10524,
+        "mujer": 9552
+      }
+    },
+    "tipoEmpleo": {
+      "obrero": {
+        "hombre": 75587,
+        "mujer": 50877
+      },
+      "trabajadorDelHogar": {
+        "hombre": 108,
+        "mujer": 4098
+      },
+      "cuentaPropia": {
+        "hombre": 58912,
+        "mujer": 50848
+      },
+      "empleador": {
+        "hombre": 6301,
+        "mujer": 3878
+      },
+      "aprendiz": {
+        "hombre": 3798,
+        "mujer": 4140
+      },
+      "servicios": {
+        "hombre": 823,
+        "mujer": 620
+      },
+      "sinEspecificar": {
+        "hombre": 9909,
+        "mujer": 11491
+      }
+    }
+  },
+  "vivienda": {
+    "particular": 193738,
+    "colectiva": 1498,
+    "energia": {
+      "tiene": 170372,
+      "noTiene": 7004
+    },
+    "cocina": {
+      "garrafa": 143885,
+      "gasDomiciliario": 24933,
+      "lena": 4193,
+      "otro": 852,
+      "noCocina": 3513
+    },
+    "agua": {
+      "caneria": 107878,
+      "pilaPublica": 7697,
+      "carroRepartidor": 49965,
+      "pozo": 10557,
+      "rio": 1141,
+      "otro": 138
+    },
+    "desague": {
+      "alcantarilla": 112425,
+      "camara": 15673,
+      "pozo": 25841,
+      "calle": 194,
+      "rio": 112,
+      "lago": 9
+    },
+    "basura": {
+      "contenedor": 50924,
+      "carro": 108501,
+      "calle": 1353,
+      "rio": 2504,
+      "quema": 12543,
+      "entierro": 757,
+      "otro": 794
+    },
+    "tics": {
+      "radio": 143229,
+      "television": 154490,
+      "computador": 69323,
+      "internet": 31499,
+      "celular": 149540
+    }
+  }
+}
