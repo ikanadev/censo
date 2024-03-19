@@ -1,13 +1,9 @@
+import type { ParentProps } from "solid-js";
 
-function App() {
-
+function App(props: ParentProps) {
 	return (
-		<>
-			<p class="text-3xl text-center">
-				Click on the Vite and Solid logos to learn more
-			</p>
-		</>
-	)
+		<>{props.children}</>
+	);
 }
 
-export default App
+export default App;

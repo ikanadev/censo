@@ -1,12 +1,23 @@
+import plugin from "tailwindcss/plugin";
+
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
+	darkMode: 'selector',
+	content: [
 		"./index.html",
 		"./src/**/*.{js,ts,jsx,tsx}",
 	],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
+	theme: {
+		extend: {},
+	},
+	plugins: [
+		plugin(({ addUtilities }) => {
+			addUtilities({
+				".bordered": {
+					"@apply border border-neutral-300 dark:border-neutral-700": {},
+				},
+			});
+		}),
+	],
 }
 
