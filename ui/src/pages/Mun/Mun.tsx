@@ -1,14 +1,14 @@
 import { getDocumentData, getFilenames } from "@/api";
 import { Loader, Title } from "@/components";
-import { type RouteSectionProps, createAsync } from "@solidjs/router";
-import { Show, createEffect, createSignal } from "solid-js";
+import type { RouteSectionProps } from "@solidjs/router";
+import { Show, createEffect, createSignal, createResource } from "solid-js";
 
 export default function Mun(props: RouteSectionProps) {
-	const [prov, setProv] = createSignal("");
+	const [filenames] = createResource(getFilenames);
+	const [docData] = createResource(props.params.mun, getDocumentData);
 	const [depto, setDepto] = createSignal("");
+	const [prov, setProv] = createSignal("");
 	const [mun, setMun] = createSignal("");
-	const filenames = createAsync(() => getFilenames());
-	const docData = createAsync(() => getDocumentData(props.params.mun));
 
 	createEffect(() => {
 		if (!filenames()) return;

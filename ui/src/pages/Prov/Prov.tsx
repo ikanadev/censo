@@ -1,18 +1,18 @@
 import { getDocumentData, getFilenames } from "@/api";
 import { Loader, Select, Title } from "@/components";
 import type { SelectItem } from "@/domain";
-import { type RouteSectionProps, createAsync, useNavigate } from "@solidjs/router";
-import { Show, createEffect, createSignal } from "solid-js";
+import { type RouteSectionProps, useNavigate } from "@solidjs/router";
+import { Show, createEffect, createSignal, createResource } from "solid-js";
 
 const all: SelectItem = { value: 'all', label: 'Todas las provincias' };
 
 export default function Prov(props: RouteSectionProps) {
 	const navigate = useNavigate();
+	const [filenames] = createResource(getFilenames);
+	const [docData] = createResource(props.params.prov, getDocumentData);
 	const [options, setOptions] = createSignal([all]);
-	const [prov, setProv] = createSignal("");
 	const [depto, setDepto] = createSignal("");
-	const filenames = createAsync(() => getFilenames());
-	const docData = createAsync(() => getDocumentData(props.params.prov));
+	const [prov, setProv] = createSignal("");
 
 	const handleSelect = (value: string) => {
 		if (value === all.value) return;

@@ -1,15 +1,15 @@
 import { getDocumentData, getFilenames } from "@/api";
 import { Loader, Select, Title } from "@/components";
 import type { SelectItem } from "@/domain";
-import { createAsync, useNavigate } from "@solidjs/router";
-import { Show, createEffect, createSignal } from "solid-js";
+import { useNavigate } from "@solidjs/router";
+import { Show, createEffect, createSignal, createResource } from "solid-js";
 
 const all: SelectItem = { value: 'all', label: 'Todos los departamentos' };
 
 export default function Bolivia() {
 	const navigate = useNavigate();
-	const docData = createAsync(() => getDocumentData("bolivia"));
-	const filenames = createAsync(() => getFilenames());
+	const [filenames] = createResource(getFilenames);
+	const [docData] = createResource(() => getDocumentData("bolivia"));
 	const [options, setOptions] = createSignal([all]);
 
 	const handleSelect = (value: string) => {
