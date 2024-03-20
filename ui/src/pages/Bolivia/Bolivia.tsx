@@ -1,20 +1,47 @@
-import { Loader } from "@/components";
+import { getDocumentData, getFilenames } from "@/api";
+import { Loader, Select, Title } from "@/components";
+import type { SelectItem } from "@/domain";
+import { createAsync, useNavigate } from "@solidjs/router";
+import { Show, createEffect, createSignal } from "solid-js";
+
+const all: SelectItem = { value: 'all', label: 'Todos los departamentos' };
 
 export default function Bolivia() {
+	const navigate = useNavigate();
+	const docData = createAsync(() => getDocumentData("bolivia"));
+	const filenames = createAsync(() => getFilenames());
+	const [options, setOptions] = createSignal([all]);
+
+	const handleSelect = (value: string) => {
+		if (value === all.value) return;
+		navigate(`/${value}`);
+	};
+
+	createEffect(() => {
+		if (filenames()) {
+			// biome-ignore lint/style/noNonNullAssertion: already checked
+			const names = filenames()!;
+			const newOptions = [all];
+			for (const [key, depto] of Object.entries(names)) {
+				newOptions.push({ value: key, label: depto.name });
+			}
+			setOptions(newOptions);
+		}
+	});
+
 	return (
 		<>
-			<h1 class="text-3xl font-extrabold">
-				Bolivia
-			</h1>
-			<div class="py-8 flex justify-end gap-4">
-				<span class="bg-transparent bordered pr-2 font-semibold rounded-md">
-					<select class="bg-transparent py-2 px-3">
-						<option value="1" class="dark:bg-[#0f1110]">La Paz</option>
-						<option value="2" class="dark:bg-[#0f1110]">Santa Cruz</option>
-					</select>
-				</span>
+			<div class="py-2 flex items-center justify-between">
+				<Title text="Bolivia" />
+				<Select options={options()} onChange={handleSelect} />
 			</div>
-			<Loader />
+			<Show when={docData()} fallback={<Loader />}>
+				{(doc) => (
+					<div>
+						{Object.keys(doc())}
+					</div>
+				)}
+			</Show>
 		</>
 	);
 }

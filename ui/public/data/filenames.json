@@ -1,940 +1,940 @@
 {
-  "depto_beni.json": {
+  "depto_beni": {
     "name": "BENI",
     "provs": {
-      "prov_cercado.json": {
+      "prov_cercado": {
         "name": "CERCADO",
         "muns": {
-          "mun_25834a00-126a-4566-88dc-38cd6cdd5e62.json": "SAN JAVIER",
-          "mun_86c2c639-0b2e-435e-99c5-ab23bba01f65.json": "TRINIDAD"
+          "mun_25834a00-126a-4566-88dc-38cd6cdd5e62": "SAN JAVIER",
+          "mun_86c2c639-0b2e-435e-99c5-ab23bba01f65": "TRINIDAD"
         }
       },
-      "prov_itnez.json": {
+      "prov_itnez": {
         "name": "ITÉNEZ",
         "muns": {
-          "mun_3de51300-4e83-486a-81f0-25ab7ff23dde.json": "MAGDALENA",
-          "mun_91fd7ab9-ccc2-49f0-81a1-b509ce4da398.json": "HUACARAJE",
-          "mun_a0c2e512-8447-4b5c-8b0d-5189e94d8a3e.json": "BAURES"
+          "mun_3de51300-4e83-486a-81f0-25ab7ff23dde": "MAGDALENA",
+          "mun_91fd7ab9-ccc2-49f0-81a1-b509ce4da398": "HUACARAJE",
+          "mun_a0c2e512-8447-4b5c-8b0d-5189e94d8a3e": "BAURES"
         }
       },
-      "prov_jos_ballivian.json": {
+      "prov_jos_ballivian": {
         "name": "JOSÉ BALLIVIAN",
         "muns": {
-          "mun_0b62a7e8-5667-49fa-9414-3ab43f7a2233.json": "REYES",
-          "mun_a87be07d-dce1-4b3b-beda-2d032b1eca3e.json": "SAN BORJA",
-          "mun_af69d045-bee6-4789-8dd9-14155c388c30.json": "RURRENABAQUE"
+          "mun_0b62a7e8-5667-49fa-9414-3ab43f7a2233": "REYES",
+          "mun_a87be07d-dce1-4b3b-beda-2d032b1eca3e": "SAN BORJA",
+          "mun_af69d045-bee6-4789-8dd9-14155c388c30": "RURRENABAQUE"
         }
       },
-      "prov_mamor.json": {
+      "prov_mamor": {
         "name": "MAMORÉ",
         "muns": {
-          "mun_112219a0-1471-4e46-b2e6-4f097c2cde11.json": "PUERTO SILES",
-          "mun_87cbd6ea-fb85-4d3a-bfab-b50e32da8742.json": "SAN JOAQUÍN",
-          "mun_ddbffaa2-12d2-4df9-a9ea-105388d68918.json": "SAN RAMÓN"
+          "mun_112219a0-1471-4e46-b2e6-4f097c2cde11": "PUERTO SILES",
+          "mun_87cbd6ea-fb85-4d3a-bfab-b50e32da8742": "SAN JOAQUÍN",
+          "mun_ddbffaa2-12d2-4df9-a9ea-105388d68918": "SAN RAMÓN"
         }
       },
-      "prov_marbn.json": {
+      "prov_marbn": {
         "name": "MARBÁN",
         "muns": {
-          "mun_852f8fa4-5bf0-4f2a-ac33-d19725c0b555.json": "SAN ANDRÉS",
-          "mun_de100770-d538-49ff-b342-3a7c7e489a3f.json": "LORETO"
+          "mun_852f8fa4-5bf0-4f2a-ac33-d19725c0b555": "SAN ANDRÉS",
+          "mun_de100770-d538-49ff-b342-3a7c7e489a3f": "LORETO"
         }
       },
-      "prov_moxos.json": {
+      "prov_moxos": {
         "name": "MOXOS",
         "muns": {
-          "mun_f623c27b-8f99-42c1-acd0-7ca32a380e0a.json": "SAN IGNACIO"
+          "mun_f623c27b-8f99-42c1-acd0-7ca32a380e0a": "SAN IGNACIO"
         }
       },
-      "prov_vaca_dez.json": {
+      "prov_vaca_dez": {
         "name": "VACA DÍEZ",
         "muns": {
-          "mun_bcba85df-4d62-487d-8246-fed306282583.json": "GUAYARAMERÍN",
-          "mun_cb4b32d8-cddb-4b6d-8379-03350607ae16.json": "RIBERALTA"
+          "mun_bcba85df-4d62-487d-8246-fed306282583": "GUAYARAMERÍN",
+          "mun_cb4b32d8-cddb-4b6d-8379-03350607ae16": "RIBERALTA"
         }
       },
-      "prov_yacuma.json": {
+      "prov_yacuma": {
         "name": "YACUMA",
         "muns": {
-          "mun_628ca273-1402-4712-b1d3-7da0764ef673.json": "SANTA ANA DE YACUMA",
-          "mun_74721e56-ece2-4a1b-b28b-face09e96f7f.json": "EXALTACIÓN"
+          "mun_628ca273-1402-4712-b1d3-7da0764ef673": "SANTA ANA DE YACUMA",
+          "mun_74721e56-ece2-4a1b-b28b-face09e96f7f": "EXALTACIÓN"
         }
       }
     }
   },
-  "depto_chuquisaca.json": {
+  "depto_chuquisaca": {
     "name": "CHUQUISACA",
     "provs": {
-      "prov_azurduy.json": {
+      "prov_azurduy": {
         "name": "AZURDUY",
         "muns": {
-          "mun_14be4292-996a-4625-adbe-fe719e9acb8e.json": "TARVITA",
-          "mun_ea591eb2-f94e-4391-83a6-002b7fd5e805.json": "AZURDUY"
+          "mun_14be4292-996a-4625-adbe-fe719e9acb8e": "TARVITA",
+          "mun_ea591eb2-f94e-4391-83a6-002b7fd5e805": "AZURDUY"
         }
       },
-      "prov_belisario_boeto.json": {
+      "prov_belisario_boeto": {
         "name": "BELISARIO BOETO",
         "muns": {
-          "mun_12161a2b-fcfc-422d-92ad-deb7fdc59d8b.json": "VILLA SERRANO"
+          "mun_12161a2b-fcfc-422d-92ad-deb7fdc59d8b": "VILLA SERRANO"
         }
       },
-      "prov_hernando_siles.json": {
+      "prov_hernando_siles": {
         "name": "HERNANDO SILES",
         "muns": {
-          "mun_16e618ee-a12a-481d-a218-ee380bed9f24.json": "MONTEAGUDO",
-          "mun_89d59fca-ff19-4564-bba5-8e30e81415e2.json": "HUACARETA"
+          "mun_16e618ee-a12a-481d-a218-ee380bed9f24": "MONTEAGUDO",
+          "mun_89d59fca-ff19-4564-bba5-8e30e81415e2": "HUACARETA"
         }
       },
-      "prov_luis_calvo.json": {
+      "prov_luis_calvo": {
         "name": "LUIS CALVO",
         "muns": {
-          "mun_378f7ac2-463a-46ab-8ed5-29895240336b.json": "MACHARETÍ",
-          "mun_3dcdedce-f5d9-4154-897b-8aaa8c68d353.json": "MUYUPAMPA",
-          "mun_6aad1e79-164e-47b0-9459-d187204f59e8.json": "HUACAYA"
+          "mun_378f7ac2-463a-46ab-8ed5-29895240336b": "MACHARETÍ",
+          "mun_3dcdedce-f5d9-4154-897b-8aaa8c68d353": "MUYUPAMPA",
+          "mun_6aad1e79-164e-47b0-9459-d187204f59e8": "HUACAYA"
         }
       },
-      "prov_nor_cinti.json": {
+      "prov_nor_cinti": {
         "name": "NOR CINTI",
         "muns": {
-          "mun_14de4a0c-a02a-4d71-b0a9-8eae264a9192.json": "CAMARGO",
-          "mun_82438ec1-737a-4685-940f-7404f25a1a11.json": "VILLA CHARCAS",
-          "mun_b28f0314-e615-4cee-b930-bdd6c6e32cd6.json": "SAN LUCAS",
-          "mun_e74258da-1160-4fa1-88b4-a483a3e50b91.json": "INCAHUASI"
+          "mun_14de4a0c-a02a-4d71-b0a9-8eae264a9192": "CAMARGO",
+          "mun_82438ec1-737a-4685-940f-7404f25a1a11": "VILLA CHARCAS",
+          "mun_b28f0314-e615-4cee-b930-bdd6c6e32cd6": "SAN LUCAS",
+          "mun_e74258da-1160-4fa1-88b4-a483a3e50b91": "INCAHUASI"
         }
       },
-      "prov_oropeza.json": {
+      "prov_oropeza": {
         "name": "OROPEZA",
         "muns": {
-          "mun_02cd12e3-9c0b-4823-9cf2-0c2ce36ca585.json": "SUCRE",
-          "mun_5442090b-2a6e-442f-bd20-4f26dac4e687.json": "POROMA",
-          "mun_7f31e73d-ea86-4d27-9e96-86590bf0d3ae.json": "YOTALA"
+          "mun_02cd12e3-9c0b-4823-9cf2-0c2ce36ca585": "SUCRE",
+          "mun_5442090b-2a6e-442f-bd20-4f26dac4e687": "POROMA",
+          "mun_7f31e73d-ea86-4d27-9e96-86590bf0d3ae": "YOTALA"
         }
       },
-      "prov_sud_cinti.json": {
+      "prov_sud_cinti": {
         "name": "SUD CINTI",
         "muns": {
-          "mun_1b9dd55e-f737-41b8-ab9a-93d398a063bd.json": "CULPINA",
-          "mun_a4d8c19c-2b3c-472b-bd4f-db426d6cc6a6.json": "LAS CARRERAS",
-          "mun_db36b2f8-1e5e-452b-882f-1bf04b991b52.json": "VILLA ABECIA"
+          "mun_1b9dd55e-f737-41b8-ab9a-93d398a063bd": "CULPINA",
+          "mun_a4d8c19c-2b3c-472b-bd4f-db426d6cc6a6": "LAS CARRERAS",
+          "mun_db36b2f8-1e5e-452b-882f-1bf04b991b52": "VILLA ABECIA"
         }
       },
-      "prov_tomina.json": {
+      "prov_tomina": {
         "name": "TOMINA",
         "muns": {
-          "mun_4706b4a7-1bb9-4458-87ca-3672eb94ae34.json": "VILLA ALCALÁ",
-          "mun_7413c23b-4812-4ff8-a886-f680360d2f79.json": "PADILLA",
-          "mun_a3aa212d-64bd-4758-963d-d8ee89da6698.json": "TOMINA",
-          "mun_e66dc831-9bd1-4b1e-a0f3-ac58bd428d61.json": "SOPACHUY",
-          "mun_ef20de91-003f-4638-ad86-5cc50286d8d4.json": "EL VILLAR"
+          "mun_4706b4a7-1bb9-4458-87ca-3672eb94ae34": "VILLA ALCALÁ",
+          "mun_7413c23b-4812-4ff8-a886-f680360d2f79": "PADILLA",
+          "mun_a3aa212d-64bd-4758-963d-d8ee89da6698": "TOMINA",
+          "mun_e66dc831-9bd1-4b1e-a0f3-ac58bd428d61": "SOPACHUY",
+          "mun_ef20de91-003f-4638-ad86-5cc50286d8d4": "EL VILLAR"
         }
       },
-      "prov_yamparez.json": {
+      "prov_yamparez": {
         "name": "YAMPARÁEZ",
         "muns": {
-          "mun_63d54e1c-a108-4e4f-908b-b3475be654f6.json": "TARABUCO",
-          "mun_9b944ce9-0171-481b-a1c2-8040ca1805de.json": "YAMPARÁEZ"
+          "mun_63d54e1c-a108-4e4f-908b-b3475be654f6": "TARABUCO",
+          "mun_9b944ce9-0171-481b-a1c2-8040ca1805de": "YAMPARÁEZ"
         }
       },
-      "prov_zudez.json": {
+      "prov_zudez": {
         "name": "ZUDÁÑEZ",
         "muns": {
-          "mun_082dc5cc-94fd-4275-b514-3d1858036f54.json": "PRESTO",
-          "mun_604d0521-3386-4163-8aec-e5a2dbb760e6.json": "ZUDÁÑEZ",
-          "mun_a588519b-24d9-4380-bc7d-b3acf0e8b3bc.json": "MOJOCOYA",
-          "mun_bc28c135-9d99-4fa9-8cef-85e792e907e5.json": "ICLA"
+          "mun_082dc5cc-94fd-4275-b514-3d1858036f54": "PRESTO",
+          "mun_604d0521-3386-4163-8aec-e5a2dbb760e6": "ZUDÁÑEZ",
+          "mun_a588519b-24d9-4380-bc7d-b3acf0e8b3bc": "MOJOCOYA",
+          "mun_bc28c135-9d99-4fa9-8cef-85e792e907e5": "ICLA"
         }
       }
     }
   },
-  "depto_cochabamba.json": {
+  "depto_cochabamba": {
     "name": "COCHABAMBA",
     "provs": {
-      "prov_arani.json": {
+      "prov_arani": {
         "name": "ARANI",
         "muns": {
-          "mun_ab813573-30d4-4745-88bd-1e020264facf.json": "ARANI",
-          "mun_c754b498-f530-4b44-80b6-52ee32dbbc95.json": "VACAS"
+          "mun_ab813573-30d4-4745-88bd-1e020264facf": "ARANI",
+          "mun_c754b498-f530-4b44-80b6-52ee32dbbc95": "VACAS"
         }
       },
-      "prov_arque.json": {
+      "prov_arque": {
         "name": "ARQUE",
         "muns": {
-          "mun_a9efea95-7541-4687-91ef-b13ecd20ea0a.json": "TACOPAYA",
-          "mun_f86cc309-7e3e-4f3f-bb0a-56f0a5b11c2d.json": "ARQUE"
+          "mun_a9efea95-7541-4687-91ef-b13ecd20ea0a": "TACOPAYA",
+          "mun_f86cc309-7e3e-4f3f-bb0a-56f0a5b11c2d": "ARQUE"
         }
       },
-      "prov_ayopaya.json": {
+      "prov_ayopaya": {
         "name": "AYOPAYA",
         "muns": {
-          "mun_0db1e9ba-8524-40f1-95b0-f0d7fda03369.json": "COCAPATA",
-          "mun_19cb6fab-0a9e-4729-a3db-08b453b98f3e.json": "MOROCHATA",
-          "mun_bcf3233f-c70b-405a-b4f8-2496b4e7dde2.json": "INDEPENDENCIA"
+          "mun_0db1e9ba-8524-40f1-95b0-f0d7fda03369": "COCAPATA",
+          "mun_19cb6fab-0a9e-4729-a3db-08b453b98f3e": "MOROCHATA",
+          "mun_bcf3233f-c70b-405a-b4f8-2496b4e7dde2": "INDEPENDENCIA"
         }
       },
-      "prov_bolvar.json": {
+      "prov_bolvar": {
         "name": "BOLÍVAR",
         "muns": {
-          "mun_edc8af96-aaca-4e5c-8928-c5beb7ed1152.json": "BOLÍVAR"
+          "mun_edc8af96-aaca-4e5c-8928-c5beb7ed1152": "BOLÍVAR"
         }
       },
-      "prov_campero.json": {
+      "prov_campero": {
         "name": "CAMPERO",
         "muns": {
-          "mun_06c49b82-1641-434a-b3ad-d894a77933ce.json": "PASORAPA",
-          "mun_0ab43237-1ee9-49b2-a6e4-7a016a60b198.json": "AIQUILE",
-          "mun_fae2702b-d3b0-4fa7-bea5-101f37d2bbd5.json": "OMEREQUE"
+          "mun_06c49b82-1641-434a-b3ad-d894a77933ce": "PASORAPA",
+          "mun_0ab43237-1ee9-49b2-a6e4-7a016a60b198": "AIQUILE",
+          "mun_fae2702b-d3b0-4fa7-bea5-101f37d2bbd5": "OMEREQUE"
         }
       },
-      "prov_capinota.json": {
+      "prov_capinota": {
         "name": "CAPINOTA",
         "muns": {
-          "mun_2854a999-8c22-4050-b8a0-bba27eac3b81.json": "SANTIVÁÑEZ",
-          "mun_82245d88-6c4b-4c1d-aeac-786a0a76f5da.json": "SICAYA",
-          "mun_dccf68f6-739f-4749-a8d6-3fda06cb769a.json": "CAPINOTA"
+          "mun_2854a999-8c22-4050-b8a0-bba27eac3b81": "SANTIVÁÑEZ",
+          "mun_82245d88-6c4b-4c1d-aeac-786a0a76f5da": "SICAYA",
+          "mun_dccf68f6-739f-4749-a8d6-3fda06cb769a": "CAPINOTA"
         }
       },
-      "prov_carrasco.json": {
+      "prov_carrasco": {
         "name": "CARRASCO",
         "muns": {
-          "mun_00486d5e-b278-4245-a0d1-039bc8f551b5.json": "TOTORA",
-          "mun_1e806913-e8e4-48d0-b56f-c83dba99b597.json": "ENTRE RÍOS",
-          "mun_c675c14b-6682-44ac-a217-d33ea4641aad.json": "CHIMORÉ",
-          "mun_cb3ad69e-a746-4512-958d-bc50db26cbc1.json": "PUERTO VILLARROEL",
-          "mun_d4a61c42-2033-45e8-b5a9-6880019f12b1.json": "POCONA",
-          "mun_df4c0363-45df-4d0b-8349-afbbb5f0987f.json": "POJO"
+          "mun_00486d5e-b278-4245-a0d1-039bc8f551b5": "TOTORA",
+          "mun_1e806913-e8e4-48d0-b56f-c83dba99b597": "ENTRE RÍOS",
+          "mun_c675c14b-6682-44ac-a217-d33ea4641aad": "CHIMORÉ",
+          "mun_cb3ad69e-a746-4512-958d-bc50db26cbc1": "PUERTO VILLARROEL",
+          "mun_d4a61c42-2033-45e8-b5a9-6880019f12b1": "POCONA",
+          "mun_df4c0363-45df-4d0b-8349-afbbb5f0987f": "POJO"
         }
       },
-      "prov_cercado.json": {
+      "prov_cercado": {
         "name": "CERCADO",
         "muns": {
-          "mun_f0c2e753-8356-433a-b9a1-82568f260aa4.json": "COCHABAMBA"
+          "mun_f0c2e753-8356-433a-b9a1-82568f260aa4": "COCHABAMBA"
         }
       },
-      "prov_chapare.json": {
+      "prov_chapare": {
         "name": "CHAPARE",
         "muns": {
-          "mun_25dc2bfc-72b3-4efe-81f9-6c2e109aa095.json": "SACABA",
-          "mun_32c56fc1-9612-4c08-a533-0c9b3baaa299.json": "VILLA TUNARI",
-          "mun_6b8cfbd9-8def-4b4f-9a5b-782a0b1704e5.json": "COLOMI"
+          "mun_25dc2bfc-72b3-4efe-81f9-6c2e109aa095": "SACABA",
+          "mun_32c56fc1-9612-4c08-a533-0c9b3baaa299": "VILLA TUNARI",
+          "mun_6b8cfbd9-8def-4b4f-9a5b-782a0b1704e5": "COLOMI"
         }
       },
-      "prov_esteban_arze.json": {
+      "prov_esteban_arze": {
         "name": "ESTEBAN ARZE",
         "muns": {
-          "mun_16fb45ab-2211-49ae-900a-62aa15b80ccb.json": "ARBIETO",
-          "mun_b5179086-463e-4b23-babf-f82dad28f23f.json": "SACABAMBA",
-          "mun_bc721c8f-efa5-4de8-ba33-980f7ceb416b.json": "ANZALDO",
-          "mun_be78a227-18fe-4f98-978f-a3eed9735bfc.json": "TARATA"
+          "mun_16fb45ab-2211-49ae-900a-62aa15b80ccb": "ARBIETO",
+          "mun_b5179086-463e-4b23-babf-f82dad28f23f": "SACABAMBA",
+          "mun_bc721c8f-efa5-4de8-ba33-980f7ceb416b": "ANZALDO",
+          "mun_be78a227-18fe-4f98-978f-a3eed9735bfc": "TARATA"
         }
       },
-      "prov_germn_jordn.json": {
+      "prov_germn_jordn": {
         "name": "GERMÁN JORDÁN",
         "muns": {
-          "mun_0e21eba9-b923-4efa-b9f6-dbcccd6a9601.json": "CLIZA",
-          "mun_1a49565f-9037-4f5a-9a74-87df286bbe63.json": "TOCO",
-          "mun_b3f1f417-0f22-4d9d-a375-899579e41a96.json": "TOLATA"
+          "mun_0e21eba9-b923-4efa-b9f6-dbcccd6a9601": "CLIZA",
+          "mun_1a49565f-9037-4f5a-9a74-87df286bbe63": "TOCO",
+          "mun_b3f1f417-0f22-4d9d-a375-899579e41a96": "TOLATA"
         }
       },
-      "prov_mizque.json": {
+      "prov_mizque": {
         "name": "MIZQUE",
         "muns": {
-          "mun_023d6f88-448f-4a21-b751-3aa459072633.json": "VILA VILA",
-          "mun_a9c4c46c-fff4-4dcc-a80a-8a9adc0abafc.json": "MIZQUE",
-          "mun_b7068585-af5d-42f9-ab04-669e3eb226c6.json": "ALALAY"
+          "mun_023d6f88-448f-4a21-b751-3aa459072633": "VILA VILA",
+          "mun_a9c4c46c-fff4-4dcc-a80a-8a9adc0abafc": "MIZQUE",
+          "mun_b7068585-af5d-42f9-ab04-669e3eb226c6": "ALALAY"
         }
       },
-      "prov_punata.json": {
+      "prov_punata": {
         "name": "PUNATA",
         "muns": {
-          "mun_0892f55a-f6e4-4ef7-9a73-9a2b3f84fd2a.json": "TACACHI",
-          "mun_a82097dd-65fb-4048-b39b-086ba5c8ab2c.json": "SAN BENITO",
-          "mun_d1da0d10-93e6-4a6b-97cb-7f75bae91654.json": "VILLA RIVERO",
-          "mun_d40a28e1-c35c-4295-b990-e7a63744d74d.json": "CUCHUMUELA",
-          "mun_dbe9986d-1571-436b-b1e2-211308138865.json": "PUNATA"
+          "mun_0892f55a-f6e4-4ef7-9a73-9a2b3f84fd2a": "TACACHI",
+          "mun_a82097dd-65fb-4048-b39b-086ba5c8ab2c": "SAN BENITO",
+          "mun_d1da0d10-93e6-4a6b-97cb-7f75bae91654": "VILLA RIVERO",
+          "mun_d40a28e1-c35c-4295-b990-e7a63744d74d": "CUCHUMUELA",
+          "mun_dbe9986d-1571-436b-b1e2-211308138865": "PUNATA"
         }
       },
-      "prov_quillacollo.json": {
+      "prov_quillacollo": {
         "name": "QUILLACOLLO",
         "muns": {
-          "mun_0ec49d87-6f5c-40b3-b0b3-db0a409aeb1a.json": "VINTO",
-          "mun_17f62741-ecd7-442a-9bee-2a5685d9e95e.json": "TIQUIPAYA",
-          "mun_1da09ef9-965f-400c-9eda-fb85dc435177.json": "COLCAPIRHUA",
-          "mun_3722be58-a564-4586-9e09-b78f91bad15e.json": "SIPESIPE",
-          "mun_80007563-fc56-475d-a2dc-1866aca72adb.json": "QUILLACOLLO"
+          "mun_0ec49d87-6f5c-40b3-b0b3-db0a409aeb1a": "VINTO",
+          "mun_17f62741-ecd7-442a-9bee-2a5685d9e95e": "TIQUIPAYA",
+          "mun_1da09ef9-965f-400c-9eda-fb85dc435177": "COLCAPIRHUA",
+          "mun_3722be58-a564-4586-9e09-b78f91bad15e": "SIPESIPE",
+          "mun_80007563-fc56-475d-a2dc-1866aca72adb": "QUILLACOLLO"
         }
       },
-      "prov_tapacar.json": {
+      "prov_tapacar": {
         "name": "TAPACARÍ",
         "muns": {
-          "mun_212030d0-4e88-458e-bc4b-12a12d5e9246.json": "TAPACARÍ"
+          "mun_212030d0-4e88-458e-bc4b-12a12d5e9246": "TAPACARÍ"
         }
       },
-      "prov_tiraque.json": {
+      "prov_tiraque": {
         "name": "TIRAQUE",
         "muns": {
-          "mun_7276f6f3-d664-4c12-ba93-825a69e1203e.json": "SHINAHOTA",
-          "mun_74b4bacc-384e-4301-a05b-e161aa956ac0.json": "TIRAQUE"
+          "mun_7276f6f3-d664-4c12-ba93-825a69e1203e": "SHINAHOTA",
+          "mun_74b4bacc-384e-4301-a05b-e161aa956ac0": "TIRAQUE"
         }
       }
     }
   },
-  "depto_la_paz.json": {
+  "depto_la_paz": {
     "name": "LA PAZ",
     "provs": {
-      "prov_abel_iturralde.json": {
+      "prov_abel_iturralde": {
         "name": "ABEL ITURRALDE",
         "muns": {
-          "mun_5b96bbbd-2c2f-4a88-a343-e07e7e111e41.json": "SAN BUENAVENTURA",
-          "mun_e5bd5688-8d19-4c82-9c8b-252fc570cdd7.json": "IXIAMAS"
+          "mun_5b96bbbd-2c2f-4a88-a343-e07e7e111e41": "SAN BUENAVENTURA",
+          "mun_e5bd5688-8d19-4c82-9c8b-252fc570cdd7": "IXIAMAS"
         }
       },
-      "prov_aroma.json": {
+      "prov_aroma": {
         "name": "AROMA",
         "muns": {
-          "mun_424f4ba1-048a-489f-b8e8-aa26dfb138de.json": "CALAMARCA",
-          "mun_8e070a0f-6a28-4fbe-8a74-b9dad3971b49.json": "PATACAMAYA",
-          "mun_afaa7417-108f-4666-97ed-e2fc6ccd0b16.json": "AYO AYO",
-          "mun_ba881e37-29c8-4bdd-80c1-e025514d2899.json": "COLQUENCHA",
-          "mun_e3a1423a-b824-4d1c-869c-8b8fcff62f30.json": "COLLANA",
-          "mun_efad0f22-e747-4022-ab64-7d70a49d2d71.json": "UMALA",
-          "mun_f4693bfe-9365-4c9e-b6ec-6f42edb031cb.json": "SICA SICA"
+          "mun_424f4ba1-048a-489f-b8e8-aa26dfb138de": "CALAMARCA",
+          "mun_8e070a0f-6a28-4fbe-8a74-b9dad3971b49": "PATACAMAYA",
+          "mun_afaa7417-108f-4666-97ed-e2fc6ccd0b16": "AYO AYO",
+          "mun_ba881e37-29c8-4bdd-80c1-e025514d2899": "COLQUENCHA",
+          "mun_e3a1423a-b824-4d1c-869c-8b8fcff62f30": "COLLANA",
+          "mun_efad0f22-e747-4022-ab64-7d70a49d2d71": "UMALA",
+          "mun_f4693bfe-9365-4c9e-b6ec-6f42edb031cb": "SICA SICA"
         }
       },
-      "prov_bautista_saavedra.json": {
+      "prov_bautista_saavedra": {
         "name": "BAUTISTA SAAVEDRA",
         "muns": {
-          "mun_993682c7-81c9-4e94-b3d9-7a3570472087.json": "CURVA",
-          "mun_f12586ad-5175-4ac9-8c29-205d4d5ee461.json": "CHARAZANI"
+          "mun_993682c7-81c9-4e94-b3d9-7a3570472087": "CURVA",
+          "mun_f12586ad-5175-4ac9-8c29-205d4d5ee461": "CHARAZANI"
         }
       },
-      "prov_camacho.json": {
+      "prov_camacho": {
         "name": "CAMACHO",
         "muns": {
-          "mun_2e879d41-d60c-438b-8341-7c308ccc3116.json": "HUMANATA",
-          "mun_ac4871c8-fe4c-4620-982f-470534ff7bdc.json": "ESCOMA",
-          "mun_b4e5f188-f424-4ab0-8678-a943ebe78a9a.json": "PUERTO CARABUCO",
-          "mun_b5d50e10-cf1e-4740-8d57-82def97c80b8.json": "MOCOMOCO",
-          "mun_bc1f65d5-e41e-48ce-a7d9-9b4232121157.json": "PUERTO ACOSTA"
+          "mun_2e879d41-d60c-438b-8341-7c308ccc3116": "HUMANATA",
+          "mun_ac4871c8-fe4c-4620-982f-470534ff7bdc": "ESCOMA",
+          "mun_b4e5f188-f424-4ab0-8678-a943ebe78a9a": "PUERTO CARABUCO",
+          "mun_b5d50e10-cf1e-4740-8d57-82def97c80b8": "MOCOMOCO",
+          "mun_bc1f65d5-e41e-48ce-a7d9-9b4232121157": "PUERTO ACOSTA"
         }
       },
-      "prov_caranavi.json": {
+      "prov_caranavi": {
         "name": "CARANAVI",
         "muns": {
-          "mun_2fe186ae-7de1-4342-a20e-e434bcbb159c.json": "CARANAVI",
-          "mun_e5e4a394-0bbc-48be-81cf-6a011d06041a.json": "ALTO BENI"
+          "mun_2fe186ae-7de1-4342-a20e-e434bcbb159c": "CARANAVI",
+          "mun_e5e4a394-0bbc-48be-81cf-6a011d06041a": "ALTO BENI"
         }
       },
-      "prov_franz_tamayo.json": {
+      "prov_franz_tamayo": {
         "name": "FRANZ TAMAYO",
         "muns": {
-          "mun_47cf0eb8-dcb4-41a7-b1e8-05826c939b60.json": "PELECHUCO",
-          "mun_5ecb1807-709a-4c9f-9799-adb083f72f13.json": "APOLO"
+          "mun_47cf0eb8-dcb4-41a7-b1e8-05826c939b60": "PELECHUCO",
+          "mun_5ecb1807-709a-4c9f-9799-adb083f72f13": "APOLO"
         }
       },
-      "prov_gualberto_villarroel.json": {
+      "prov_gualberto_villarroel": {
         "name": "GUALBERTO VILLARROEL",
         "muns": {
-          "mun_2320ab8a-ec9b-40f1-9ccb-86e3c31863ae.json": "PAPEL PAMPA",
-          "mun_4e08d0e9-252f-4399-a000-39b5f61d6210.json": "SAN PEDRO DE CURAHUARA",
-          "mun_8648bb3b-8305-4829-8ccd-43279bbe7a46.json": "CHACARILLA"
+          "mun_2320ab8a-ec9b-40f1-9ccb-86e3c31863ae": "PAPEL PAMPA",
+          "mun_4e08d0e9-252f-4399-a000-39b5f61d6210": "SAN PEDRO DE CURAHUARA",
+          "mun_8648bb3b-8305-4829-8ccd-43279bbe7a46": "CHACARILLA"
         }
       },
-      "prov_ingavi.json": {
+      "prov_ingavi": {
         "name": "INGAVI",
         "muns": {
-          "mun_59b9f16f-5590-4798-bb15-ab2a9853f9af.json": "VIACHA",
-          "mun_69fa4ab9-a457-4ab0-8b6b-b0597b79da93.json": "JESÚS DE MACHACA",
-          "mun_716cbc05-58dc-4c54-b173-56890db848ae.json": "TARACO",
-          "mun_835038b4-9c19-4b28-9a36-8383ce34f1ad.json": "GUAQUI",
-          "mun_cceb04db-b436-4d99-8b43-4ac1531f3ad2.json": "TIAHUANACU",
-          "mun_ed1680b2-18c7-474a-8af1-679768d48c23.json": "DESAGUADERO",
-          "mun_eff26147-88a8-4b46-aade-ce00b6c9da8f.json": "SAN ANDRÉS DE MACHACA"
+          "mun_59b9f16f-5590-4798-bb15-ab2a9853f9af": "VIACHA",
+          "mun_69fa4ab9-a457-4ab0-8b6b-b0597b79da93": "JESÚS DE MACHACA",
+          "mun_716cbc05-58dc-4c54-b173-56890db848ae": "TARACO",
+          "mun_835038b4-9c19-4b28-9a36-8383ce34f1ad": "GUAQUI",
+          "mun_cceb04db-b436-4d99-8b43-4ac1531f3ad2": "TIAHUANACU",
+          "mun_ed1680b2-18c7-474a-8af1-679768d48c23": "DESAGUADERO",
+          "mun_eff26147-88a8-4b46-aade-ce00b6c9da8f": "SAN ANDRÉS DE MACHACA"
         }
       },
-      "prov_inquisivi.json": {
+      "prov_inquisivi": {
         "name": "INQUISIVI",
         "muns": {
-          "mun_084a7545-33a7-40d8-8e76-f7d895b02eca.json": "QUIME",
-          "mun_5760876e-411d-478b-abac-06df00dbe175.json": "CAJUATA",
-          "mun_8ea1ae37-af1b-4442-be45-541211010be5.json": "ICHOCA",
-          "mun_9399aca3-f04e-4b81-bd7c-8e3dae2518c3.json": "INQUISIVI",
-          "mun_94ae44a2-00cc-444f-a9f3-cfbbdb9ba089.json": "VILLA LIBERTAD LICOMA",
-          "mun_a76a0298-1e8e-4c29-b3a7-69f960f35ca1.json": "COLQUIRI"
+          "mun_084a7545-33a7-40d8-8e76-f7d895b02eca": "QUIME",
+          "mun_5760876e-411d-478b-abac-06df00dbe175": "CAJUATA",
+          "mun_8ea1ae37-af1b-4442-be45-541211010be5": "ICHOCA",
+          "mun_9399aca3-f04e-4b81-bd7c-8e3dae2518c3": "INQUISIVI",
+          "mun_94ae44a2-00cc-444f-a9f3-cfbbdb9ba089": "VILLA LIBERTAD LICOMA",
+          "mun_a76a0298-1e8e-4c29-b3a7-69f960f35ca1": "COLQUIRI"
         }
       },
-      "prov_jos_manuel_pando.json": {
+      "prov_jos_manuel_pando": {
         "name": "JOSÉ MANUEL PANDO",
         "muns": {
-          "mun_3882e832-ffbb-454b-a411-1f6defba35ed.json": "CATACORA",
-          "mun_c612c1d6-6b58-41fb-bbfe-2073414d57c4.json": "SANTIAGO DE MACHACA"
+          "mun_3882e832-ffbb-454b-a411-1f6defba35ed": "CATACORA",
+          "mun_c612c1d6-6b58-41fb-bbfe-2073414d57c4": "SANTIAGO DE MACHACA"
         }
       },
-      "prov_larecaja.json": {
+      "prov_larecaja": {
         "name": "LARECAJA",
         "muns": {
-          "mun_059ad790-7e9a-40f7-b2ab-0f488ae6e9a9.json": "SORATA",
-          "mun_33246db8-e77c-46a1-b4e8-e4c001f26b45.json": "GUANAY",
-          "mun_4b56e8d6-281f-497e-bb1c-5d67b13ff546.json": "TEOPONTE",
-          "mun_7a8b2ece-63a1-4adc-af07-b789e6a588c5.json": "QUIABAYA",
-          "mun_aff37f3b-f60b-474d-a278-0da79a48ee6f.json": "MAPIRI",
-          "mun_c3422345-9cbd-436d-8373-66c833f4032d.json": "TACACOMA",
-          "mun_d8f2d669-4cb4-413b-bb89-dd27eef2d7c6.json": "TIPUANI",
-          "mun_df671490-dad5-4cd9-bfd7-ed5cdd658ebc.json": "COMBAYA"
+          "mun_059ad790-7e9a-40f7-b2ab-0f488ae6e9a9": "SORATA",
+          "mun_33246db8-e77c-46a1-b4e8-e4c001f26b45": "GUANAY",
+          "mun_4b56e8d6-281f-497e-bb1c-5d67b13ff546": "TEOPONTE",
+          "mun_7a8b2ece-63a1-4adc-af07-b789e6a588c5": "QUIABAYA",
+          "mun_aff37f3b-f60b-474d-a278-0da79a48ee6f": "MAPIRI",
+          "mun_c3422345-9cbd-436d-8373-66c833f4032d": "TACACOMA",
+          "mun_d8f2d669-4cb4-413b-bb89-dd27eef2d7c6": "TIPUANI",
+          "mun_df671490-dad5-4cd9-bfd7-ed5cdd658ebc": "COMBAYA"
         }
       },
-      "prov_loayza.json": {
+      "prov_loayza": {
         "name": "LOAYZA",
         "muns": {
-          "mun_30612d03-64c8-407b-b464-89c38a2e4e12.json": "YACO",
-          "mun_5e72dcc7-c2cc-4ff8-a88a-65cfa1e25be9.json": "LURIBAY",
-          "mun_943a3fe9-1ef8-4943-8408-47682ae48cd6.json": "CAIROMA",
-          "mun_f82e322e-1d81-42e3-8f97-b72195902559.json": "MALLA",
-          "mun_fbe60193-54a8-4f00-8b83-7ea77ca0f20f.json": "SAPAHAQUI"
+          "mun_30612d03-64c8-407b-b464-89c38a2e4e12": "YACO",
+          "mun_5e72dcc7-c2cc-4ff8-a88a-65cfa1e25be9": "LURIBAY",
+          "mun_943a3fe9-1ef8-4943-8408-47682ae48cd6": "CAIROMA",
+          "mun_f82e322e-1d81-42e3-8f97-b72195902559": "MALLA",
+          "mun_fbe60193-54a8-4f00-8b83-7ea77ca0f20f": "SAPAHAQUI"
         }
       },
-      "prov_los_andes.json": {
+      "prov_los_andes": {
         "name": "LOS ANDES",
         "muns": {
-          "mun_29681de8-478b-45e6-b6cf-1cb3b47acad9.json": "PUCARANI",
-          "mun_a2ebf84d-a370-4855-b4d1-e10907e4bd8c.json": "LAJA",
-          "mun_ab10026b-2615-41aa-9c1f-1c9a76ecd815.json": "BATALLAS",
-          "mun_d1be6f8d-0e85-4d9a-bbe3-9fd9652e3ebf.json": "PUERTO PÉREZ"
+          "mun_29681de8-478b-45e6-b6cf-1cb3b47acad9": "PUCARANI",
+          "mun_a2ebf84d-a370-4855-b4d1-e10907e4bd8c": "LAJA",
+          "mun_ab10026b-2615-41aa-9c1f-1c9a76ecd815": "BATALLAS",
+          "mun_d1be6f8d-0e85-4d9a-bbe3-9fd9652e3ebf": "PUERTO PÉREZ"
         }
       },
-      "prov_manco_kapac.json": {
+      "prov_manco_kapac": {
         "name": "MANCO KAPAC",
         "muns": {
-          "mun_2386c6cc-fbc5-4bf0-8b1c-159bed53c0b2.json": "COPACABANA",
-          "mun_6edfd06e-41a5-4540-bd93-d0a1259058ba.json": "TITO YUPANQUI",
-          "mun_b4a9dcb4-cc4f-49c5-8183-4f037cc8ec47.json": "SAN PEDRO DE TIQUINA"
+          "mun_2386c6cc-fbc5-4bf0-8b1c-159bed53c0b2": "COPACABANA",
+          "mun_6edfd06e-41a5-4540-bd93-d0a1259058ba": "TITO YUPANQUI",
+          "mun_b4a9dcb4-cc4f-49c5-8183-4f037cc8ec47": "SAN PEDRO DE TIQUINA"
         }
       },
-      "prov_muecas.json": {
+      "prov_muecas": {
         "name": "MUÑECAS",
         "muns": {
-          "mun_1f6f2586-356a-4f88-b11e-87781265de27.json": "AUCAPATA",
-          "mun_206be92a-7237-4bb3-be53-f0d00485ab1b.json": "AYATA",
-          "mun_d7c5ff3d-5794-4efb-92e3-853c784f1c05.json": "CHUMA"
+          "mun_1f6f2586-356a-4f88-b11e-87781265de27": "AUCAPATA",
+          "mun_206be92a-7237-4bb3-be53-f0d00485ab1b": "AYATA",
+          "mun_d7c5ff3d-5794-4efb-92e3-853c784f1c05": "CHUMA"
         }
       },
-      "prov_murillo.json": {
+      "prov_murillo": {
         "name": "MURILLO",
         "muns": {
-          "mun_3b70e743-55fd-4797-ae7e-a4cb365e0d8c.json": "MECAPACA",
-          "mun_5d614735-55ea-4171-b439-3e1d7b1f4ce9.json": "EL ALTO",
-          "mun_9094ed42-26f5-4cf6-a3ad-cd4359958a18.json": "PALCA",
-          "mun_dbf0a58b-cb14-4fb9-9752-1e3bc77eea50.json": "ACHOCALLA",
-          "mun_e195767e-fe91-48fc-ac24-173bbc58d757.json": "LA PAZ"
+          "mun_3b70e743-55fd-4797-ae7e-a4cb365e0d8c": "MECAPACA",
+          "mun_5d614735-55ea-4171-b439-3e1d7b1f4ce9": "EL ALTO",
+          "mun_9094ed42-26f5-4cf6-a3ad-cd4359958a18": "PALCA",
+          "mun_dbf0a58b-cb14-4fb9-9752-1e3bc77eea50": "ACHOCALLA",
+          "mun_e195767e-fe91-48fc-ac24-173bbc58d757": "LA PAZ"
         }
       },
-      "prov_nor_yungas.json": {
+      "prov_nor_yungas": {
         "name": "NOR YUNGAS",
         "muns": {
-          "mun_6e150290-f183-4370-af99-482e8f65ed07.json": "COROICO",
-          "mun_c224a175-948d-4b39-950b-f9fb23c37959.json": "CORIPATA"
+          "mun_6e150290-f183-4370-af99-482e8f65ed07": "COROICO",
+          "mun_c224a175-948d-4b39-950b-f9fb23c37959": "CORIPATA"
         }
       },
-      "prov_omasuyos.json": {
+      "prov_omasuyos": {
         "name": "OMASUYOS",
         "muns": {
-          "mun_46eccfb1-fff0-44cf-9084-73b263617b38.json": "ACHACACHI",
-          "mun_7a57c259-73cf-4a98-a545-78c3dac31f74.json": "HUARINA",
-          "mun_9f409103-a097-4405-88ad-e245be1fe847.json": "SANTIAGO DE HUATA",
-          "mun_b95ed876-e795-49cf-82ca-23bfeef21df8.json": "CHUA COCANI",
-          "mun_c7f38d1f-06cb-4182-8782-1784bb88a0ca.json": "ANCORAIMES",
-          "mun_d30f782d-5cbc-44cc-9d80-9313eaffc77a.json": "HUATAJATA"
+          "mun_46eccfb1-fff0-44cf-9084-73b263617b38": "ACHACACHI",
+          "mun_7a57c259-73cf-4a98-a545-78c3dac31f74": "HUARINA",
+          "mun_9f409103-a097-4405-88ad-e245be1fe847": "SANTIAGO DE HUATA",
+          "mun_b95ed876-e795-49cf-82ca-23bfeef21df8": "CHUA COCANI",
+          "mun_c7f38d1f-06cb-4182-8782-1784bb88a0ca": "ANCORAIMES",
+          "mun_d30f782d-5cbc-44cc-9d80-9313eaffc77a": "HUATAJATA"
         }
       },
-      "prov_pacajes.json": {
+      "prov_pacajes": {
         "name": "PACAJES",
         "muns": {
-          "mun_1bdd01b0-dd73-45d6-b3df-a91abd620b8e.json": "CALLAPA",
-          "mun_558eadb2-e704-4fa5-8850-a51d19e8d251.json": "CAQUIAVIRI",
-          "mun_603b32b1-8d32-4e03-82f7-1f23c5848657.json": "COROCORO",
-          "mun_714dd702-5bf7-4d49-9ef9-f08d215552f2.json": "NAZACARA DE PACAJES",
-          "mun_76bf4885-927c-4287-8b1e-9b40906c0e25.json": "CALACOTO",
-          "mun_c1f482c7-dbe1-4ded-b47e-8b9a6340592e.json": "COMANCHE",
-          "mun_dc3202bc-6afc-49ad-b6a3-98b08f8d23c3.json": "WALDO BALLIVIÁN",
-          "mun_e70b75d5-7729-4178-abf2-aca571c21141.json": "CHARAÑA"
+          "mun_1bdd01b0-dd73-45d6-b3df-a91abd620b8e": "CALLAPA",
+          "mun_558eadb2-e704-4fa5-8850-a51d19e8d251": "CAQUIAVIRI",
+          "mun_603b32b1-8d32-4e03-82f7-1f23c5848657": "COROCORO",
+          "mun_714dd702-5bf7-4d49-9ef9-f08d215552f2": "NAZACARA DE PACAJES",
+          "mun_76bf4885-927c-4287-8b1e-9b40906c0e25": "CALACOTO",
+          "mun_c1f482c7-dbe1-4ded-b47e-8b9a6340592e": "COMANCHE",
+          "mun_dc3202bc-6afc-49ad-b6a3-98b08f8d23c3": "WALDO BALLIVIÁN",
+          "mun_e70b75d5-7729-4178-abf2-aca571c21141": "CHARAÑA"
         }
       },
-      "prov_sud_yungas.json": {
+      "prov_sud_yungas": {
         "name": "SUD YUNGAS",
         "muns": {
-          "mun_003d6920-c661-48c1-88ea-577d94e7f6da.json": "LA ASUNTA",
-          "mun_0437a6ee-c3ba-4856-a96f-2ccd3b5e104b.json": "CHULUMANI",
-          "mun_80bb9b7a-e505-454f-92b8-8f07db12f62a.json": "YANACACHI",
-          "mun_c8078f5f-d566-401a-b2f2-06ca28083c72.json": "IRUPANA",
-          "mun_f3a47523-cec3-47b0-848b-1d06c012a0ee.json": "PALOS BLANCOS"
+          "mun_003d6920-c661-48c1-88ea-577d94e7f6da": "LA ASUNTA",
+          "mun_0437a6ee-c3ba-4856-a96f-2ccd3b5e104b": "CHULUMANI",
+          "mun_80bb9b7a-e505-454f-92b8-8f07db12f62a": "YANACACHI",
+          "mun_c8078f5f-d566-401a-b2f2-06ca28083c72": "IRUPANA",
+          "mun_f3a47523-cec3-47b0-848b-1d06c012a0ee": "PALOS BLANCOS"
         }
       }
     }
   },
-  "depto_oruro.json": {
+  "depto_oruro": {
     "name": "ORURO",
     "provs": {
-      "prov_abaroa.json": {
+      "prov_abaroa": {
         "name": "ABAROA",
         "muns": {
-          "mun_a50f97ce-a1a2-43f9-975c-43cff8b11328.json": "CHALLAPATA",
-          "mun_df730cbe-f105-4a10-a1b5-8ea81032bf79.json": "QUILLACAS"
+          "mun_a50f97ce-a1a2-43f9-975c-43cff8b11328": "CHALLAPATA",
+          "mun_df730cbe-f105-4a10-a1b5-8ea81032bf79": "QUILLACAS"
         }
       },
-      "prov_carangas.json": {
+      "prov_carangas": {
         "name": "CARANGAS",
         "muns": {
-          "mun_17c4089b-6049-4447-8a8d-3c23c5325f9f.json": "CORQUE",
-          "mun_b20bd666-eb49-4e5e-8482-bf13c199aac9.json": "CHOQUE COTA"
+          "mun_17c4089b-6049-4447-8a8d-3c23c5325f9f": "CORQUE",
+          "mun_b20bd666-eb49-4e5e-8482-bf13c199aac9": "CHOQUE COTA"
         }
       },
-      "prov_cercado.json": {
+      "prov_cercado": {
         "name": "CERCADO",
         "muns": {
-          "mun_1bd6c4ee-9e03-4f36-9caa-d1efcc20d8b2.json": "ORURO",
-          "mun_548d91fe-212e-47ed-917b-f55207124399.json": "PARI - PARIA - SORACACHI",
-          "mun_a41aa0ba-ef14-4b74-86be-5d1059641145.json": "CARACOLLO",
-          "mun_b2b4f012-e5bd-4bcd-a3c4-37c758f670bd.json": "EL CHORO"
+          "mun_1bd6c4ee-9e03-4f36-9caa-d1efcc20d8b2": "ORURO",
+          "mun_548d91fe-212e-47ed-917b-f55207124399": "PARI - PARIA - SORACACHI",
+          "mun_a41aa0ba-ef14-4b74-86be-5d1059641145": "CARACOLLO",
+          "mun_b2b4f012-e5bd-4bcd-a3c4-37c758f670bd": "EL CHORO"
         }
       },
-      "prov_ladislao_cabrera.json": {
+      "prov_ladislao_cabrera": {
         "name": "LADISLAO CABRERA",
         "muns": {
-          "mun_2b3984b3-c3a8-450c-bd60-0a9ca96b619d.json": "PAMPA AULLAGAS",
-          "mun_abc5fe44-53f2-4bfa-a538-717d3645b7f5.json": "SALINAS DE GARCI MENDOZA"
+          "mun_2b3984b3-c3a8-450c-bd60-0a9ca96b619d": "PAMPA AULLAGAS",
+          "mun_abc5fe44-53f2-4bfa-a538-717d3645b7f5": "SALINAS DE GARCI MENDOZA"
         }
       },
-      "prov_litoral.json": {
+      "prov_litoral": {
         "name": "LITORAL",
         "muns": {
-          "mun_01880bf6-2571-47b5-88f5-6b89c2cd145b.json": "YUNGUYO DE LITORAL",
-          "mun_381855ba-6bd6-47e7-9ac5-b6c13311bee8.json": "HUACHACALLA",
-          "mun_50ce534f-5664-47cc-8ac6-4003a98b1896.json": "ESCARA",
-          "mun_54d3e1f1-93ee-408a-8d2f-08cdb3d218e7.json": "CRUZ DE MACHACAMARCA",
-          "mun_5558931f-f48d-4734-8136-a12080516f65.json": "ESMERALDA"
+          "mun_01880bf6-2571-47b5-88f5-6b89c2cd145b": "YUNGUYO DE LITORAL",
+          "mun_381855ba-6bd6-47e7-9ac5-b6c13311bee8": "HUACHACALLA",
+          "mun_50ce534f-5664-47cc-8ac6-4003a98b1896": "ESCARA",
+          "mun_54d3e1f1-93ee-408a-8d2f-08cdb3d218e7": "CRUZ DE MACHACAMARCA",
+          "mun_5558931f-f48d-4734-8136-a12080516f65": "ESMERALDA"
         }
       },
-      "prov_mejillones.json": {
+      "prov_mejillones": {
         "name": "MEJILLONES",
         "muns": {
-          "mun_01f2aa03-227c-4b3a-8d1e-49a7c3938b1c.json": "TODOS SANTOS",
-          "mun_5016c9b2-3243-417b-b172-409cbfda204b.json": "LA RIVERA",
-          "mun_83105efe-c90d-4bd9-aca5-cf9ad0f5ac31.json": "CARANGAS"
+          "mun_01f2aa03-227c-4b3a-8d1e-49a7c3938b1c": "TODOS SANTOS",
+          "mun_5016c9b2-3243-417b-b172-409cbfda204b": "LA RIVERA",
+          "mun_83105efe-c90d-4bd9-aca5-cf9ad0f5ac31": "CARANGAS"
         }
       },
-      "prov_nor_carangas.json": {
+      "prov_nor_carangas": {
         "name": "NOR CARANGAS",
         "muns": {
-          "mun_4825dfee-acb3-408c-b628-f087ca19acaf.json": "HUAYLLAMARCA"
+          "mun_4825dfee-acb3-408c-b628-f087ca19acaf": "HUAYLLAMARCA"
         }
       },
-      "prov_pantalen_dalence.json": {
+      "prov_pantalen_dalence": {
         "name": "PANTALEÓN DALENCE",
         "muns": {
-          "mun_a8a98eb8-754e-42bd-8058-9bfd1f2406f1.json": "MACHACAMARCA",
-          "mun_b4852b27-2f1b-4fa4-a709-52e03ec7ed09.json": "HUANUNI"
+          "mun_a8a98eb8-754e-42bd-8058-9bfd1f2406f1": "MACHACAMARCA",
+          "mun_b4852b27-2f1b-4fa4-a709-52e03ec7ed09": "HUANUNI"
         }
       },
-      "prov_poop.json": {
+      "prov_poop": {
         "name": "POOPÓ",
         "muns": {
-          "mun_06b7eb42-de45-44a1-a814-37d8b9cbcdb9.json": "POOPÓ",
-          "mun_59a9137e-986a-4694-96dc-8114028db4cd.json": "ANTEQUERA",
-          "mun_9ef057a7-c4b6-4888-9f3d-57ee80b0edcf.json": "PAZÑA"
+          "mun_06b7eb42-de45-44a1-a814-37d8b9cbcdb9": "POOPÓ",
+          "mun_59a9137e-986a-4694-96dc-8114028db4cd": "ANTEQUERA",
+          "mun_9ef057a7-c4b6-4888-9f3d-57ee80b0edcf": "PAZÑA"
         }
       },
-      "prov_sabaya.json": {
+      "prov_sabaya": {
         "name": "SABAYA",
         "muns": {
-          "mun_5b2253c0-8bac-4236-8b38-0889cf0002fb.json": "CHIPAYA",
-          "mun_69866ece-13ec-46ac-bb80-bc89ad501f32.json": "SABAYA",
-          "mun_a7a68aaa-5267-44ff-8aa8-f95652976788.json": "COIPASA"
+          "mun_5b2253c0-8bac-4236-8b38-0889cf0002fb": "CHIPAYA",
+          "mun_69866ece-13ec-46ac-bb80-bc89ad501f32": "SABAYA",
+          "mun_a7a68aaa-5267-44ff-8aa8-f95652976788": "COIPASA"
         }
       },
-      "prov_sajama.json": {
+      "prov_sajama": {
         "name": "SAJAMA",
         "muns": {
-          "mun_8aa3710a-3006-472a-9ce6-4ba6d1821b81.json": "TURCO",
-          "mun_f244414d-5a2c-4efa-accd-1c08e0f94b08.json": "CURAHUARA DE CARANGAS"
+          "mun_8aa3710a-3006-472a-9ce6-4ba6d1821b81": "TURCO",
+          "mun_f244414d-5a2c-4efa-accd-1c08e0f94b08": "CURAHUARA DE CARANGAS"
         }
       },
-      "prov_san_pedro_de_totora.json": {
+      "prov_san_pedro_de_totora": {
         "name": "SAN PEDRO DE TOTORA",
         "muns": {
-          "mun_6e259e6a-1e2d-41e5-8868-c4d71d8000a5.json": "SAN PEDRO DE TOTORA"
+          "mun_6e259e6a-1e2d-41e5-8868-c4d71d8000a5": "SAN PEDRO DE TOTORA"
         }
       },
-      "prov_saucar.json": {
+      "prov_saucar": {
         "name": "SAUCARÍ",
         "muns": {
-          "mun_b56baefe-0cdd-40dd-ada5-07062f178d99.json": "TOLEDO"
+          "mun_b56baefe-0cdd-40dd-ada5-07062f178d99": "TOLEDO"
         }
       },
-      "prov_sebastin_pagador.json": {
+      "prov_sebastin_pagador": {
         "name": "SEBASTIÁN PAGADOR",
         "muns": {
-          "mun_b06699bb-4890-4092-befe-a9c9fadd4f47.json": "HUARI"
+          "mun_b06699bb-4890-4092-befe-a9c9fadd4f47": "HUARI"
         }
       },
-      "prov_sur_carangas.json": {
+      "prov_sur_carangas": {
         "name": "SUR CARANGAS",
         "muns": {
-          "mun_1175143a-dacb-495f-969d-87f761c2f72f.json": "SANTIAGO DE ANDAMARCA",
-          "mun_4d9605dc-9483-4e04-9d43-36f067b690ca.json": "BELÉN DE ANDAMARCA"
+          "mun_1175143a-dacb-495f-969d-87f761c2f72f": "SANTIAGO DE ANDAMARCA",
+          "mun_4d9605dc-9483-4e04-9d43-36f067b690ca": "BELÉN DE ANDAMARCA"
         }
       },
-      "prov_toms_barrn.json": {
+      "prov_toms_barrn": {
         "name": "TOMÁS BARRÓN",
         "muns": {
-          "mun_035c9a37-b4eb-4ff6-8f21-a2b9ef0e9a2f.json": "EUCALIPTUS"
+          "mun_035c9a37-b4eb-4ff6-8f21-a2b9ef0e9a2f": "EUCALIPTUS"
         }
       }
     }
   },
-  "depto_pando.json": {
+  "depto_pando": {
     "name": "PANDO",
     "provs": {
-      "prov_abun.json": {
+      "prov_abun": {
         "name": "ABUNÁ",
         "muns": {
-          "mun_ad8f8bda-3859-4bfd-b167-e156e52c6b22.json": "SANTA ROSA",
-          "mun_e3b6af4c-37f0-462e-bb0b-4571ab6b1ed6.json": "INGAVI"
+          "mun_ad8f8bda-3859-4bfd-b167-e156e52c6b22": "SANTA ROSA",
+          "mun_e3b6af4c-37f0-462e-bb0b-4571ab6b1ed6": "INGAVI"
         }
       },
-      "prov_federico_romn.json": {
+      "prov_federico_romn": {
         "name": "FEDERICO ROMÁN",
         "muns": {
-          "mun_1a0c6f50-8c0d-4897-b50d-577660c28ee5.json": "SANTOS MERCADO",
-          "mun_29bc6b51-ce43-4be3-9355-24337ba83913.json": "VILLA NUEVA (LOMA ALTA)",
-          "mun_3ead0064-b8f5-4264-a738-4a8ed5c2a6cb.json": "NUEVA ESPERANZA"
+          "mun_1a0c6f50-8c0d-4897-b50d-577660c28ee5": "SANTOS MERCADO",
+          "mun_29bc6b51-ce43-4be3-9355-24337ba83913": "VILLA NUEVA (LOMA ALTA)",
+          "mun_3ead0064-b8f5-4264-a738-4a8ed5c2a6cb": "NUEVA ESPERANZA"
         }
       },
-      "prov_madre_de_dios.json": {
+      "prov_madre_de_dios": {
         "name": "MADRE DE DIOS",
         "muns": {
-          "mun_aa8fe26f-f6d1-4720-a5b1-949bc2a8780e.json": "SENA",
-          "mun_bd1f010d-08cf-4d3d-97e5-34ad41cd0c21.json": "PUERTO GONZALO MORENO",
-          "mun_de0bb08b-62e5-4881-8856-56920e1e8a76.json": "SAN LORENZO"
+          "mun_aa8fe26f-f6d1-4720-a5b1-949bc2a8780e": "SENA",
+          "mun_bd1f010d-08cf-4d3d-97e5-34ad41cd0c21": "PUERTO GONZALO MORENO",
+          "mun_de0bb08b-62e5-4881-8856-56920e1e8a76": "SAN LORENZO"
         }
       },
-      "prov_manuripi.json": {
+      "prov_manuripi": {
         "name": "MANURIPI",
         "muns": {
-          "mun_ae4b722f-e0dd-4695-bf69-0410d4565588.json": "PUERTO RICO",
-          "mun_eaf479c2-ad1d-44b8-b344-d1cfcce223ea.json": "FILADELFIA",
-          "mun_ed32b9ab-505a-4813-99b6-69b7b0056072.json": "SAN PEDRO"
+          "mun_ae4b722f-e0dd-4695-bf69-0410d4565588": "PUERTO RICO",
+          "mun_eaf479c2-ad1d-44b8-b344-d1cfcce223ea": "FILADELFIA",
+          "mun_ed32b9ab-505a-4813-99b6-69b7b0056072": "SAN PEDRO"
         }
       },
-      "prov_nicols_surez.json": {
+      "prov_nicols_surez": {
         "name": "NICOLÁS SUÁREZ",
         "muns": {
-          "mun_1c7d9826-2d76-41ff-b792-acc255257ee4.json": "COBIJA",
-          "mun_350114d9-e7a9-4878-a16d-e6691153dab3.json": "BELLA FLOR",
-          "mun_ab3f080f-998c-42d6-8536-062c231129f8.json": "PORVENIR",
-          "mun_e0233b53-257d-4156-ab21-3d95249651f4.json": "BOLPEBRA"
+          "mun_1c7d9826-2d76-41ff-b792-acc255257ee4": "COBIJA",
+          "mun_350114d9-e7a9-4878-a16d-e6691153dab3": "BELLA FLOR",
+          "mun_ab3f080f-998c-42d6-8536-062c231129f8": "PORVENIR",
+          "mun_e0233b53-257d-4156-ab21-3d95249651f4": "BOLPEBRA"
         }
       }
     }
   },
-  "depto_potos.json": {
+  "depto_potos": {
     "name": "POTOSí",
     "provs": {
-      "prov_alonso_de_ibez.json": {
+      "prov_alonso_de_ibez": {
         "name": "ALONSO DE IBÁÑEZ",
         "muns": {
-          "mun_73e4f221-96e5-4973-9247-8a7de127ed66.json": "VILLA DE SACACA",
-          "mun_dfcdbf94-308b-43fc-9676-b8742f7d086e.json": "CARIPUYO"
+          "mun_73e4f221-96e5-4973-9247-8a7de127ed66": "VILLA DE SACACA",
+          "mun_dfcdbf94-308b-43fc-9676-b8742f7d086e": "CARIPUYO"
         }
       },
-      "prov_antonio_quijarro.json": {
+      "prov_antonio_quijarro": {
         "name": "ANTONIO QUIJARRO",
         "muns": {
-          "mun_3ec0e18c-da89-42de-95d5-cbc7846682b7.json": "UYUNI",
-          "mun_5bbe400d-0cdf-4254-9fef-ce98ca540b91.json": "PORCO",
-          "mun_726d0aa2-9ee6-4167-90fc-fc47747cf43d.json": "TOMAVE"
+          "mun_3ec0e18c-da89-42de-95d5-cbc7846682b7": "UYUNI",
+          "mun_5bbe400d-0cdf-4254-9fef-ce98ca540b91": "PORCO",
+          "mun_726d0aa2-9ee6-4167-90fc-fc47747cf43d": "TOMAVE"
         }
       },
-      "prov_bernardino_bilbao_rioja.json": {
+      "prov_bernardino_bilbao_rioja": {
         "name": "BERNARDINO BILBAO RIOJA",
         "muns": {
-          "mun_afb3232c-0579-4e2f-b291-2de3770747f1.json": "ACASIO",
-          "mun_d82a7aeb-5a3f-4800-bccc-cd768cfd7c17.json": "ARAMPAMPA"
+          "mun_afb3232c-0579-4e2f-b291-2de3770747f1": "ACASIO",
+          "mun_d82a7aeb-5a3f-4800-bccc-cd768cfd7c17": "ARAMPAMPA"
         }
       },
-      "prov_charcas.json": {
+      "prov_charcas": {
         "name": "CHARCAS",
         "muns": {
-          "mun_07d44f13-1f1d-4563-9464-b4f1b348d70d.json": "SAN PEDRO DE BUENA VISTA",
-          "mun_acd4bd31-10ed-43ff-8e6f-d28e7fcd67a5.json": "TORO TORO"
+          "mun_07d44f13-1f1d-4563-9464-b4f1b348d70d": "SAN PEDRO DE BUENA VISTA",
+          "mun_acd4bd31-10ed-43ff-8e6f-d28e7fcd67a5": "TORO TORO"
         }
       },
-      "prov_chayanta.json": {
+      "prov_chayanta": {
         "name": "CHAYANTA",
         "muns": {
-          "mun_0fed5ef6-859b-436a-9e2d-7ed641bcf458.json": "POCOATA",
-          "mun_430a41be-56e1-4db5-96a9-760662c8d9d1.json": "OCURÍ",
-          "mun_b2acd63e-1f58-42aa-acdd-72acec9aba17.json": "RAVELO",
-          "mun_f5ae2d83-74f3-4c24-af17-394e94256bd3.json": "COLQUECHACA"
+          "mun_0fed5ef6-859b-436a-9e2d-7ed641bcf458": "POCOATA",
+          "mun_430a41be-56e1-4db5-96a9-760662c8d9d1": "OCURÍ",
+          "mun_b2acd63e-1f58-42aa-acdd-72acec9aba17": "RAVELO",
+          "mun_f5ae2d83-74f3-4c24-af17-394e94256bd3": "COLQUECHACA"
         }
       },
-      "prov_cornelio_saavedra.json": {
+      "prov_cornelio_saavedra": {
         "name": "CORNELIO SAAVEDRA",
         "muns": {
-          "mun_89f12262-8476-4106-8e19-e0717719cef9.json": "TACOBAMBA",
-          "mun_97d0fe02-ffd0-47c7-b123-5b34a4e344a5.json": "CHAQUÍ",
-          "mun_f5e24b66-777a-4e30-938a-c7eecc29ee98.json": "BETANZOS"
+          "mun_89f12262-8476-4106-8e19-e0717719cef9": "TACOBAMBA",
+          "mun_97d0fe02-ffd0-47c7-b123-5b34a4e344a5": "CHAQUÍ",
+          "mun_f5e24b66-777a-4e30-938a-c7eecc29ee98": "BETANZOS"
         }
       },
-      "prov_daniel_campos.json": {
+      "prov_daniel_campos": {
         "name": "DANIEL CAMPOS",
         "muns": {
-          "mun_17d80022-3d11-4b9f-b60a-48702ffa0703.json": "LLICA",
-          "mun_1fad42c6-c2da-4d12-8d20-fde06512362c.json": "TAHUA"
+          "mun_17d80022-3d11-4b9f-b60a-48702ffa0703": "LLICA",
+          "mun_1fad42c6-c2da-4d12-8d20-fde06512362c": "TAHUA"
         }
       },
-      "prov_enrique_baldivieso.json": {
+      "prov_enrique_baldivieso": {
         "name": "ENRIQUE BALDIVIESO",
         "muns": {
-          "mun_54463593-5847-4f29-a463-51967ab2903b.json": "SAN AGUSTÍN"
+          "mun_54463593-5847-4f29-a463-51967ab2903b": "SAN AGUSTÍN"
         }
       },
-      "prov_jos_mara_linares.json": {
+      "prov_jos_mara_linares": {
         "name": "JOSÉ MARÍA LINARES",
         "muns": {
-          "mun_59d775ef-e887-4b40-a5e5-4a529034e243.json": "CKOCHAS",
-          "mun_5a839e4d-f2dc-4fe4-a4bb-753a5c34b1ef.json": "CAIZA D",
-          "mun_ab9e1b6c-c0a0-410d-a6b7-7d4717a19575.json": "PUNA"
+          "mun_59d775ef-e887-4b40-a5e5-4a529034e243": "CKOCHAS",
+          "mun_5a839e4d-f2dc-4fe4-a4bb-753a5c34b1ef": "CAIZA D",
+          "mun_ab9e1b6c-c0a0-410d-a6b7-7d4717a19575": "PUNA"
         }
       },
-      "prov_modesto_omiste.json": {
+      "prov_modesto_omiste": {
         "name": "MODESTO OMISTE",
         "muns": {
-          "mun_14a6333a-3579-44c1-81ef-d9d001883ff2.json": "VILLAZÓN"
+          "mun_14a6333a-3579-44c1-81ef-d9d001883ff2": "VILLAZÓN"
         }
       },
-      "prov_nor_chichas.json": {
+      "prov_nor_chichas": {
         "name": "NOR CHICHAS",
         "muns": {
-          "mun_06594da4-7f19-4a7c-a890-d2de5c94b557.json": "COTAGAITA",
-          "mun_4528bf01-82da-4dfb-ab62-ce66ebb56f4c.json": "VITICHI"
+          "mun_06594da4-7f19-4a7c-a890-d2de5c94b557": "COTAGAITA",
+          "mun_4528bf01-82da-4dfb-ab62-ce66ebb56f4c": "VITICHI"
         }
       },
-      "prov_nor_lpez.json": {
+      "prov_nor_lpez": {
         "name": "NOR LÍPEZ",
         "muns": {
-          "mun_650f5804-7367-4b19-a0f0-f02bdb7bddb4.json": "SAN PEDRO DE QUEMES",
-          "mun_f589be09-f589-4955-b74d-ff8f1f0d546f.json": "COLCHA K"
+          "mun_650f5804-7367-4b19-a0f0-f02bdb7bddb4": "SAN PEDRO DE QUEMES",
+          "mun_f589be09-f589-4955-b74d-ff8f1f0d546f": "COLCHA K"
         }
       },
-      "prov_rafael_bustillo.json": {
+      "prov_rafael_bustillo": {
         "name": "RAFAEL BUSTILLO",
         "muns": {
-          "mun_5c837733-915f-4f8f-b9f1-250e1d271041.json": "LLALLAGUA",
-          "mun_8e1832aa-b1e6-46a6-a1d2-27f989b8bb3f.json": "UNCÍA",
-          "mun_cae777bd-5646-46c6-87b6-30cb65b2fcf6.json": "CHAYANTA",
-          "mun_fe5a3ef7-fa22-4c10-b4b7-981cb2df4faf.json": "CHUQUIHUTA"
+          "mun_5c837733-915f-4f8f-b9f1-250e1d271041": "LLALLAGUA",
+          "mun_8e1832aa-b1e6-46a6-a1d2-27f989b8bb3f": "UNCÍA",
+          "mun_cae777bd-5646-46c6-87b6-30cb65b2fcf6": "CHAYANTA",
+          "mun_fe5a3ef7-fa22-4c10-b4b7-981cb2df4faf": "CHUQUIHUTA"
         }
       },
-      "prov_sur_chichas.json": {
+      "prov_sur_chichas": {
         "name": "SUR CHICHAS",
         "muns": {
-          "mun_6f8e5b34-d23b-4df7-85b1-43f2ee9dfba9.json": "ATOCHA",
-          "mun_a0e1c623-010b-42da-818f-5491613dd69e.json": "TUPIZA"
+          "mun_6f8e5b34-d23b-4df7-85b1-43f2ee9dfba9": "ATOCHA",
+          "mun_a0e1c623-010b-42da-818f-5491613dd69e": "TUPIZA"
         }
       },
-      "prov_sur_lpez.json": {
+      "prov_sur_lpez": {
         "name": "SUR LÍPEZ",
         "muns": {
-          "mun_05e1ff14-da55-42eb-b165-4599ffde2f94.json": "SAN ANTONIO DE ESMORUCO",
-          "mun_b0584bc9-2df2-4f1d-ae24-9ab7f00ef1c8.json": "SAN PABLO DE LÍPEZ",
-          "mun_e5cb1d97-8bda-4aa5-96bd-7957d59a0238.json": "MOJINETE"
+          "mun_05e1ff14-da55-42eb-b165-4599ffde2f94": "SAN ANTONIO DE ESMORUCO",
+          "mun_b0584bc9-2df2-4f1d-ae24-9ab7f00ef1c8": "SAN PABLO DE LÍPEZ",
+          "mun_e5cb1d97-8bda-4aa5-96bd-7957d59a0238": "MOJINETE"
         }
       },
-      "prov_toms_fras.json": {
+      "prov_toms_fras": {
         "name": "TOMÁS FRÍAS",
         "muns": {
-          "mun_03ca1f1a-086f-41fd-826b-a46fdd10ced9.json": "URMIRI",
-          "mun_a8b28f05-6abf-4586-a8f3-316db598726b.json": "YOCALLA",
-          "mun_ce093017-fc17-4ce9-a4d3-37b7808f0ae7.json": "POTOSÍ",
-          "mun_d1911caa-2699-44a0-82a6-2c68733cca3d.json": "TINGUIPAYA"
+          "mun_03ca1f1a-086f-41fd-826b-a46fdd10ced9": "URMIRI",
+          "mun_a8b28f05-6abf-4586-a8f3-316db598726b": "YOCALLA",
+          "mun_ce093017-fc17-4ce9-a4d3-37b7808f0ae7": "POTOSÍ",
+          "mun_d1911caa-2699-44a0-82a6-2c68733cca3d": "TINGUIPAYA"
         }
       }
     }
   },
-  "depto_santa_cruz.json": {
+  "depto_santa_cruz": {
     "name": "SANTA CRUZ",
     "provs": {
-      "prov_andrs_ibez.json": {
+      "prov_andrs_ibez": {
         "name": "ANDRÉS IBÁÑEZ",
         "muns": {
-          "mun_179b0420-cfa9-40e5-94ba-ebe2dc8e9ca3.json": "SANTA CRUZ DE LA SIERRA",
-          "mun_6284354a-6870-457d-8030-06a8c29751e3.json": "EL TORNO",
-          "mun_bc84bb65-2a23-4e13-8fcb-39777a960288.json": "COTOCA",
-          "mun_dfeb60e8-2044-4a1c-9727-73850aba4094.json": "PORONGO",
-          "mun_e5229c14-7fc0-493f-bdf6-278f5ce2d6f9.json": "LA GUARDIA"
+          "mun_179b0420-cfa9-40e5-94ba-ebe2dc8e9ca3": "SANTA CRUZ DE LA SIERRA",
+          "mun_6284354a-6870-457d-8030-06a8c29751e3": "EL TORNO",
+          "mun_bc84bb65-2a23-4e13-8fcb-39777a960288": "COTOCA",
+          "mun_dfeb60e8-2044-4a1c-9727-73850aba4094": "PORONGO",
+          "mun_e5229c14-7fc0-493f-bdf6-278f5ce2d6f9": "LA GUARDIA"
         }
       },
-      "prov_chiquitos.json": {
+      "prov_chiquitos": {
         "name": "CHIQUITOS",
         "muns": {
-          "mun_86a5043b-1228-46aa-8164-2ef26c1a8b9b.json": "PAILÓN",
-          "mun_a12ed04f-9e39-4de0-b191-2d7f9b90cbc8.json": "SAN JOSÉ DE CHIQUITOS",
-          "mun_c6b3dcf3-b09f-4c83-8719-7547ab364d8b.json": "ROBORÉ"
+          "mun_86a5043b-1228-46aa-8164-2ef26c1a8b9b": "PAILÓN",
+          "mun_a12ed04f-9e39-4de0-b191-2d7f9b90cbc8": "SAN JOSÉ DE CHIQUITOS",
+          "mun_c6b3dcf3-b09f-4c83-8719-7547ab364d8b": "ROBORÉ"
         }
       },
-      "prov_cordillera.json": {
+      "prov_cordillera": {
         "name": "CORDILLERA",
         "muns": {
-          "mun_0d235537-35ce-45d6-9425-709e8e10184c.json": "GUTIÉRREZ",
-          "mun_349c7d03-a39c-4a2c-b93c-72266598ee48.json": "LAGUNILLAS",
-          "mun_45b7bef0-5b76-463a-a918-9e19d55fc9fa.json": "CHARAGUA",
-          "mun_4abcfa53-a819-416a-a933-1bfb5f7922ca.json": "CUEVO",
-          "mun_59596dc6-e9fc-46b9-9e2a-cfcbd5f643ce.json": "BOYUIBE",
-          "mun_a4ba0dcd-c53a-420c-81c9-eeafdf85a5d7.json": "CABEZAS",
-          "mun_b89c8475-e64b-4891-8461-355e559e7722.json": "CAMIRI"
+          "mun_0d235537-35ce-45d6-9425-709e8e10184c": "GUTIÉRREZ",
+          "mun_349c7d03-a39c-4a2c-b93c-72266598ee48": "LAGUNILLAS",
+          "mun_45b7bef0-5b76-463a-a918-9e19d55fc9fa": "CHARAGUA",
+          "mun_4abcfa53-a819-416a-a933-1bfb5f7922ca": "CUEVO",
+          "mun_59596dc6-e9fc-46b9-9e2a-cfcbd5f643ce": "BOYUIBE",
+          "mun_a4ba0dcd-c53a-420c-81c9-eeafdf85a5d7": "CABEZAS",
+          "mun_b89c8475-e64b-4891-8461-355e559e7722": "CAMIRI"
         }
       },
-      "prov_florida.json": {
+      "prov_florida": {
         "name": "FLORIDA",
         "muns": {
-          "mun_52d512e7-1e1b-4cf7-bab6-8451bb707425.json": "PAMPA GRANDE",
-          "mun_770c7591-ad26-46b9-a7e2-370329065da7.json": "MAIRANA",
-          "mun_7b94da05-6cae-4590-bc78-1f8475c48a66.json": "SAMAIPATA",
-          "mun_a099d15d-b71b-4afb-a9c2-d81d8adfb485.json": "QUIRUSILLAS"
+          "mun_52d512e7-1e1b-4cf7-bab6-8451bb707425": "PAMPA GRANDE",
+          "mun_770c7591-ad26-46b9-a7e2-370329065da7": "MAIRANA",
+          "mun_7b94da05-6cae-4590-bc78-1f8475c48a66": "SAMAIPATA",
+          "mun_a099d15d-b71b-4afb-a9c2-d81d8adfb485": "QUIRUSILLAS"
         }
       },
-      "prov_germn_busch.json": {
+      "prov_germn_busch": {
         "name": "GERMÁN BUSCH",
         "muns": {
-          "mun_578e67ae-4683-4ff7-81d2-8c42cedc388a.json": "CARMEN RIVERO TÓRREZ",
-          "mun_b54790e5-ad06-45c4-87f7-4b1971e47e43.json": "PUERTO QUIJARRO",
-          "mun_b6d850fb-a39b-4603-bb38-f2267ea17995.json": "PUERTO SUÁREZ"
+          "mun_578e67ae-4683-4ff7-81d2-8c42cedc388a": "CARMEN RIVERO TÓRREZ",
+          "mun_b54790e5-ad06-45c4-87f7-4b1971e47e43": "PUERTO QUIJARRO",
+          "mun_b6d850fb-a39b-4603-bb38-f2267ea17995": "PUERTO SUÁREZ"
         }
       },
-      "prov_guarayos.json": {
+      "prov_guarayos": {
         "name": "GUARAYOS",
         "muns": {
-          "mun_288bb94a-f45f-453b-a314-5b0df1839e76.json": "EL PUENTE",
-          "mun_87a07541-c879-429c-90f0-5d6bc4dfaa3b.json": "ASCENSIÓN DE GUARAYOS",
-          "mun_e064a076-2d1b-460b-b8ee-2ecdbec6e6e0.json": "URUBICHÁ"
+          "mun_288bb94a-f45f-453b-a314-5b0df1839e76": "EL PUENTE",
+          "mun_87a07541-c879-429c-90f0-5d6bc4dfaa3b": "ASCENSIÓN DE GUARAYOS",
+          "mun_e064a076-2d1b-460b-b8ee-2ecdbec6e6e0": "URUBICHÁ"
         }
       },
-      "prov_ichilo.json": {
+      "prov_ichilo": {
         "name": "ICHILO",
         "muns": {
-          "mun_43a92eca-baba-44ee-93b2-ea1d3d1724fc.json": "YAPACANÍ",
-          "mun_66e2a678-c2ba-4353-8bfe-5eafdf9d7668.json": "SAN JUAN DE YAPACANÍ",
-          "mun_981a41fb-a85c-484c-80e9-de280f5e3230.json": "BUENA VISTA",
-          "mun_a8f846b5-fe51-49e6-880a-9ee0146a7a15.json": "SAN CARLOS"
+          "mun_43a92eca-baba-44ee-93b2-ea1d3d1724fc": "YAPACANÍ",
+          "mun_66e2a678-c2ba-4353-8bfe-5eafdf9d7668": "SAN JUAN DE YAPACANÍ",
+          "mun_981a41fb-a85c-484c-80e9-de280f5e3230": "BUENA VISTA",
+          "mun_a8f846b5-fe51-49e6-880a-9ee0146a7a15": "SAN CARLOS"
         }
       },
-      "prov_manuel_mara_caballero.json": {
+      "prov_manuel_mara_caballero": {
         "name": "MANUEL MARÍA CABALLERO",
         "muns": {
-          "mun_ae2dbac1-ff60-46e4-9d8c-f8301e01a740.json": "SAIPINA",
-          "mun_b156a383-2cc0-4025-bf43-ff6c7702a567.json": "COMARAPA"
+          "mun_ae2dbac1-ff60-46e4-9d8c-f8301e01a740": "SAIPINA",
+          "mun_b156a383-2cc0-4025-bf43-ff6c7702a567": "COMARAPA"
         }
       },
-      "prov_ngel_sandval.json": {
+      "prov_ngel_sandval": {
         "name": "ÁNGEL SANDÓVAL",
         "muns": {
-          "mun_7d8449c0-075c-48e0-b7c9-9a8929a2b1ce.json": "SAN MATÍAS"
+          "mun_7d8449c0-075c-48e0-b7c9-9a8929a2b1ce": "SAN MATÍAS"
         }
       },
-      "prov_obispo_santistevan.json": {
+      "prov_obispo_santistevan": {
         "name": "OBISPO SANTISTEVAN",
         "muns": {
-          "mun_1d94e460-68d1-4562-8ce7-26d464d61d75.json": "MONTERO",
-          "mun_21495d38-7d0d-47a7-afa5-47b7d848fee1.json": "GRAL. SAAVEDRA",
-          "mun_44c4ebc7-33b9-4899-acee-b44be03041b6.json": "FERNÁNDEZ ALONSO",
-          "mun_8bc536e2-c045-4668-b432-cb84dbe995e1.json": "MINEROS"
+          "mun_1d94e460-68d1-4562-8ce7-26d464d61d75": "MONTERO",
+          "mun_21495d38-7d0d-47a7-afa5-47b7d848fee1": "GRAL. SAAVEDRA",
+          "mun_44c4ebc7-33b9-4899-acee-b44be03041b6": "FERNÁNDEZ ALONSO",
+          "mun_8bc536e2-c045-4668-b432-cb84dbe995e1": "MINEROS"
         }
       },
-      "prov_sara.json": {
+      "prov_sara": {
         "name": "SARA",
         "muns": {
-          "mun_c058ce69-f9f4-4b6a-aa92-40b82f7c9378.json": "SANTA ROSA DEL SARA",
-          "mun_f22abd26-4eee-43b2-8d4b-3a32f67c4099.json": "PORTACHUELO",
-          "mun_f6ff4b6c-382a-4278-9e8e-a2c90156dfdc.json": "COLPA BÉLGICA"
+          "mun_c058ce69-f9f4-4b6a-aa92-40b82f7c9378": "SANTA ROSA DEL SARA",
+          "mun_f22abd26-4eee-43b2-8d4b-3a32f67c4099": "PORTACHUELO",
+          "mun_f6ff4b6c-382a-4278-9e8e-a2c90156dfdc": "COLPA BÉLGICA"
         }
       },
-      "prov_uflo_de_chvez.json": {
+      "prov_uflo_de_chvez": {
         "name": "ÑUFLO DE CHÁVEZ",
         "muns": {
-          "mun_569a5c86-27f0-45f2-a31e-074e3ad2a741.json": "CONCEPCIÓN",
-          "mun_8d80f799-40f0-4f53-8ab4-fe3abdc97788.json": "SAN ANTONIO DE LOMERÍO",
-          "mun_ad1f55c8-fce9-4719-96df-77c6b9e43c67.json": "SAN JULIÁN",
-          "mun_fde8582e-e5e7-4262-9d58-954c658987a1.json": "CUATRO CAÑADAS"
+          "mun_569a5c86-27f0-45f2-a31e-074e3ad2a741": "CONCEPCIÓN",
+          "mun_8d80f799-40f0-4f53-8ab4-fe3abdc97788": "SAN ANTONIO DE LOMERÍO",
+          "mun_ad1f55c8-fce9-4719-96df-77c6b9e43c67": "SAN JULIÁN",
+          "mun_fde8582e-e5e7-4262-9d58-954c658987a1": "CUATRO CAÑADAS"
         }
       },
-      "prov_vallegrande.json": {
+      "prov_vallegrande": {
         "name": "VALLEGRANDE",
         "muns": {
-          "mun_074f7a08-3b06-46b5-88b6-652d6458fa0d.json": "MORO MORO",
-          "mun_445ea803-f51e-4397-bdfc-c92ac4534107.json": "TRIGAL",
-          "mun_45c1284a-048e-4ea7-b9f8-ef9cfabe98a0.json": "VALLEGRANDE",
-          "mun_7a554ac7-235e-44de-9622-8115895fd51b.json": "POSTRER VALLE",
-          "mun_9d23044b-ef0d-4444-9064-512458d87079.json": "PUCARÁ"
+          "mun_074f7a08-3b06-46b5-88b6-652d6458fa0d": "MORO MORO",
+          "mun_445ea803-f51e-4397-bdfc-c92ac4534107": "TRIGAL",
+          "mun_45c1284a-048e-4ea7-b9f8-ef9cfabe98a0": "VALLEGRANDE",
+          "mun_7a554ac7-235e-44de-9622-8115895fd51b": "POSTRER VALLE",
+          "mun_9d23044b-ef0d-4444-9064-512458d87079": "PUCARÁ"
         }
       },
-      "prov_velasco.json": {
+      "prov_velasco": {
         "name": "VELASCO",
         "muns": {
-          "mun_21ada43e-2283-47d7-980e-2e0946270181.json": "SAN RAFAEL",
-          "mun_be50d539-c330-4b8c-bc88-6910afbeea35.json": "SAN IGNACIO DE VELASCO",
-          "mun_f2cbb9b0-0723-4845-a59a-393856360b56.json": "SAN MIGUEL DE VELASCO"
+          "mun_21ada43e-2283-47d7-980e-2e0946270181": "SAN RAFAEL",
+          "mun_be50d539-c330-4b8c-bc88-6910afbeea35": "SAN IGNACIO DE VELASCO",
+          "mun_f2cbb9b0-0723-4845-a59a-393856360b56": "SAN MIGUEL DE VELASCO"
         }
       },
-      "prov_warnes.json": {
+      "prov_warnes": {
         "name": "WARNES",
         "muns": {
-          "mun_a7509626-bcc7-4307-9d86-243c345da0b5.json": "OKINAWA UNO",
-          "mun_eaac324d-eaef-4427-9a54-d740d5e4238d.json": "WARNES"
+          "mun_a7509626-bcc7-4307-9d86-243c345da0b5": "OKINAWA UNO",
+          "mun_eaac324d-eaef-4427-9a54-d740d5e4238d": "WARNES"
         }
       }
     }
   },
-  "depto_tarija.json": {
+  "depto_tarija": {
     "name": "TARIJA",
     "provs": {
-      "prov_aniceto_arce.json": {
+      "prov_aniceto_arce": {
         "name": "ANICETO ARCE",
         "muns": {
-          "mun_bb1a9f35-9f90-40f0-b4fc-6361e488dd48.json": "PADCAYA",
-          "mun_be9d528b-8ce9-4658-901e-46332e03c0be.json": "BERMEJO"
+          "mun_bb1a9f35-9f90-40f0-b4fc-6361e488dd48": "PADCAYA",
+          "mun_be9d528b-8ce9-4658-901e-46332e03c0be": "BERMEJO"
         }
       },
-      "prov_aviles.json": {
+      "prov_aviles": {
         "name": "AVILES",
         "muns": {
-          "mun_1b21fea5-0427-4c50-91bd-7087eb84a7a4.json": "URIONDO",
-          "mun_55191c96-3e1d-472f-81f5-01292c40829d.json": "YUNCHARÁ"
+          "mun_1b21fea5-0427-4c50-91bd-7087eb84a7a4": "URIONDO",
+          "mun_55191c96-3e1d-472f-81f5-01292c40829d": "YUNCHARÁ"
         }
       },
-      "prov_burnet_o_connor.json": {
+      "prov_burnet_o_connor": {
         "name": "BURNET O' CONNOR",
         "muns": {
-          "mun_905c0b0a-0021-4c2c-9fd8-0f957ab2cd12.json": "ENTRE RÍOS"
+          "mun_905c0b0a-0021-4c2c-9fd8-0f957ab2cd12": "ENTRE RÍOS"
         }
       },
-      "prov_cercado.json": {
+      "prov_cercado": {
         "name": "CERCADO",
         "muns": {
-          "mun_d4feea12-3ba6-4fb3-b58e-36e61e1d86b2.json": "TARIJA"
+          "mun_d4feea12-3ba6-4fb3-b58e-36e61e1d86b2": "TARIJA"
         }
       },
-      "prov_gran_chaco.json": {
+      "prov_gran_chaco": {
         "name": "GRAN CHACO",
         "muns": {
-          "mun_3be879c3-0b90-434a-a6ef-33ffb32011de.json": "VILLAMONTES",
-          "mun_4e0249c8-bf80-4645-93da-e73aa11a5244.json": "YACUIBA",
-          "mun_99e996a4-6d2b-4a73-b49e-478f36db3e39.json": "CARAPARÍ"
+          "mun_3be879c3-0b90-434a-a6ef-33ffb32011de": "VILLAMONTES",
+          "mun_4e0249c8-bf80-4645-93da-e73aa11a5244": "YACUIBA",
+          "mun_99e996a4-6d2b-4a73-b49e-478f36db3e39": "CARAPARÍ"
         }
       },
-      "prov_mndez.json": {
+      "prov_mndez": {
         "name": "MÉNDEZ",
         "muns": {
-          "mun_43c7cad3-2550-462e-8adf-fa33a1c94a95.json": "EL PUENTE",
-          "mun_677a3a36-7c74-4e40-8687-f7d273245cc7.json": "VILLA SAN LORENZO"
+          "mun_43c7cad3-2550-462e-8adf-fa33a1c94a95": "EL PUENTE",
+          "mun_677a3a36-7c74-4e40-8687-f7d273245cc7": "VILLA SAN LORENZO"
         }
       }
     }

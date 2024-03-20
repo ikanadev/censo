@@ -1,6 +1,5 @@
 import { For } from "solid-js";
-
-type SelectItem = { label: string; value: string };
+import type { SelectItem } from "@/domain";
 
 type Props = {
 	options: SelectItem[];
