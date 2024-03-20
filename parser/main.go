@@ -20,7 +20,7 @@ func main() {
 	*/
 	dbDocs := getDocs(db)
 	fileNames := generateFilenames(dbDocs)
-	saveToFile("json/filenames.json", fileNames)
+	saveToFile("json/filenames", fileNames)
 	generateMunsDocs(dbDocs)
 	generateProvsDocs(dbDocs)
 	generateDeptosDocs(dbDocs)

@@ -18,13 +18,13 @@ func cleanName(s string) string {
 	return filename
 }
 func cleanDeptoName(s string) string {
-	return "depto_" + cleanName(s) + ".json"
+	return "depto_" + cleanName(s)
 }
 func cleanProvName(s string) string {
-	return "prov_" + cleanName(s) + ".json"
+	return "prov_" + cleanName(s)
 }
 func munName(s string) string {
-	return "mun_" + s + ".json"
+	return "mun_" + s
 }
 
 // the map key are the filenames
@@ -76,7 +76,7 @@ func saveToFile(fileName string, data any) {
 	jsonData, err := json.MarshalIndent(data, "", "  ")
 	// jsonData, err := json.Marshal(data)
 	panicIfError(err)
-	err = os.WriteFile(fileName, jsonData, 0644)
+	err = os.WriteFile(fileName+".json", jsonData, 0644)
 	panicIfError(err)
 }
 
@@ -130,7 +130,7 @@ func generateTotalDocs(dbDocs []DBDocument) {
 		dbDoc := dbDocs[i]
 		doc = sumDocs(doc, dbDoc.Document).(Document)
 	}
-	saveToFile("json/bolivia.json", doc)
+	saveToFile("json/bolivia", doc)
 }
 
 func sumDocs(doc1, doc2 any) any {
