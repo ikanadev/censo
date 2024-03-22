@@ -1,3 +1,5 @@
+export * from "./constants";
+
 export type Cantidad = {
 	hombre: number;
 	mujer: number;

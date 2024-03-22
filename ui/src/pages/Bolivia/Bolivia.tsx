@@ -1,5 +1,6 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title } from "@/components";
+import { Loader, Select, Title, Ages } from "@/components";
+import { Bar } from "@/components/Ages";
 import type { SelectItem } from "@/domain";
 import { useNavigate } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
@@ -37,8 +38,12 @@ export default function Bolivia() {
 			</div>
 			<Show when={docData()} fallback={<Loader />}>
 				{(doc) => (
-					<div>
-						{Object.keys(doc())}
+					<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-auto grid-rows-[auto]">
+						<Ages ages={doc().poblacion.edades} />
+						<Bar />
+						<Bar />
+						<Bar />
+						<Bar />
 					</div>
 				)}
 			</Show>
