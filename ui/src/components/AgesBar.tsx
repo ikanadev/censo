@@ -1,5 +1,6 @@
 import { For, onMount } from "solid-js";
 import { type Edades, colors } from "@/domain";
+import { StatContainer } from "@/components";
 import {
 	scaleLinear,
 	scaleBand,
@@ -7,12 +8,11 @@ import {
 	axisLeft,
 	select,
 	format,
-	scaleOrdinal,
 } from "d3";
-import { useColorMode } from "solidjs-use";
+import { useSexColor } from "@/hooks";
 
 const margin = { top: 0, right: 0, bottom: 30, left: 70 };
-const size = { width: 1000, height: 600 };
+const size = { width: 1000, height: 500 };
 
 const ageLabelMap: Record<string, string> = {
 	edad0a3: "0-3",
@@ -25,10 +25,9 @@ const ageLabelMap: Record<string, string> = {
 
 type Props = {
 	ages: Edades;
-	class?: string;
 };
 export default function AgesBar(props: Props) {
-	const { mode } = useColorMode();
+	const sexColor = useSexColor();
 
 	let gx: SVGGElement | undefined;
 	let gy: SVGGElement | undefined;
@@ -50,9 +49,6 @@ export default function AgesBar(props: Props) {
 	const yGroup = scaleBand()
 		.domain(subGroup)
 		.range([0, y.bandwidth()]).padding(0.05);
-	const color = () => scaleOrdinal()
-		.domain(subGroup)
-		.range(Object.values(mode() === 'dark' ? colors.dark.gender : colors.light.gender));
 
 	onMount(() => {
 		if (!gy) return;
@@ -67,50 +63,42 @@ export default function AgesBar(props: Props) {
 	});
 
 	return (
-		<svg
-			class={props.class}
-			width="100%"
-			viewBox={`0 0 ${size.width} ${size.height}`}
-		>
-			<title>Barra de edades</title>
-			<For each={x.ticks()}>{(tick) => (
-				<line
-					x1={x(tick)}
-					x2={x(tick)}
-					y1={margin.top}
-					y2={size.height - margin.bottom}
-					stroke="currentColor"
-					stroke-width="0.5"
-					stroke-dasharray="10 4"
-				/>
-			)}</For>
-			<For each={Object.entries(props.ages)}>
-				{([key, age]) => (
-					<g transform={`translate(0, ${y(key)})`}>
-						<For each={Object.entries(age)}>{([sex, qtty]) => (
-							<rect
-								x={x(0)}
-								y={yGroup(sex)}
-								width={x(qtty) - margin.left}
-								height={yGroup.bandwidth()}
-								fill={color()(sex) as string}
-								rx={5}
-							/>
-						)}</For>
-					</g>
-				)}
-			</For>
-			<g class="text-3xl md:text-2xl font-semibold" ref={gy} transform={`translate(${margin.left}, 0)`} />
-			<g class="text-3xl md:text-2xl font-semibold" ref={gx} transform={`translate(0, ${size.height - margin.bottom})`} />
-			<g
-				transform={`translate(${size.width - margin.right - 180}, ${10})`}
-				class="text-3xl md:text-2xl italic"
+		<StatContainer class="col-span-1 md:col-span-2" title="Población">
+			<svg
+				class="h-full"
+				viewBox={`0 0 ${size.width} ${size.height}`}
 			>
-				<rect x={0} y={0} width={50} height={30} fill={color()('hombre') as string} rx={4} />
-				<rect x={0} y={40} width={50} height={30} fill={color()('mujer') as string} rx={4} />
-				<text fill="currentColor" x={55} y={25}>Hombres</text>
-				<text fill="currentColor" x={55} y={65}>Mujeres</text>
-			</g>
-		</svg>
+				<title>Barra de edades</title>
+				<For each={x.ticks()}>{(tick) => (
+					<line
+						x1={x(tick)}
+						x2={x(tick)}
+						y1={margin.top}
+						y2={size.height - margin.bottom}
+						stroke="currentColor"
+						stroke-width="0.5"
+						stroke-dasharray="10 4"
+					/>
+				)}</For>
+				<For each={Object.entries(props.ages)}>
+					{([key, age]) => (
+						<g transform={`translate(0, ${y(key)})`}>
+							<For each={Object.entries(age)}>{([sex, qtty]) => (
+								<rect
+									x={x(0)}
+									y={yGroup(sex)}
+									width={x(qtty) - margin.left}
+									height={yGroup.bandwidth()}
+									fill={sexColor(sex)}
+									rx={5}
+								/>
+							)}</For>
+						</g>
+					)}
+				</For>
+				<g class="text-2xl md:text-lg font-semibold" ref={gy} transform={`translate(${margin.left}, 0)`} />
+				<g class="text-2xl md:text-lg font-semibold" ref={gx} transform={`translate(0, ${size.height - margin.bottom})`} />
+			</svg>
+		</StatContainer>
 	);
 }

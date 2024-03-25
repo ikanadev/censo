@@ -19,7 +19,7 @@ export default function ThemeButton() {
 			onClick={() => toggleDark()}
 			class="w-10 h-10 rounded-full flex items-center justify-center border border-zinc-300 dark:border-zinc-700"
 		>
-			{value() ? <Moon class="text-xl" /> : <Sun class="text-xl" />}
+			{value() ? <Moon class="text-xl text-blue-400" /> : <Sun class="text-xl text-amber-500" />}
 		</button>
 	);
 }
