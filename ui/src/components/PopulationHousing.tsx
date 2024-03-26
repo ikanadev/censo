@@ -69,7 +69,7 @@ export default function PopulationHousing(props: Props) {
 							{numberFormat(qtty.hombre + qtty.mujer)}
 						</text>
 						<rect
-							class="fill-teal-500 dark:fill-teal-700"
+							class="fill-teal-600 dark:fill-teal-500"
 							x={x(key)}
 							y={y(qtty.hombre + qtty.mujer)}
 							width={x.bandwidth()}

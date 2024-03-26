@@ -1,14 +1,14 @@
 export const colors = {
 	dark: {
 		gender: {
-			hombre: "#1d4ed8",
-			mujer: "#db2777",
+			hombre: "#3573fb",
+			mujer: "#ec4899",
 		},
 	},
 	light: {
 		gender: {
 			hombre: "#2563eb",
-			mujer: "#ec4899",
+			mujer: "#dc3889",
 		},
 	},
 };
