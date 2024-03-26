@@ -1,5 +1,5 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title, Population, AgesBar } from "@/components";
+import { Loader, Select, Title, Population, AgesBar, PopulationHousing } from "@/components";
 import { colors, type SelectItem } from "@/domain";
 import { useNavigate } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
@@ -55,7 +55,7 @@ export default function Bolivia() {
 						<div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
 							<Population ages={doc().poblacion.edades} />
 							<AgesBar ages={doc().poblacion.edades} />
-							<Population ages={doc().poblacion.edades} />
+							<PopulationHousing vivienda={doc().poblacion.vivienda} />
 						</div>
 					</div>
 				)}

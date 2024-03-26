@@ -63,7 +63,7 @@ export default function AgesBar(props: Props) {
 	});
 
 	return (
-		<StatContainer class="col-span-1 md:col-span-2" title="Población">
+		<StatContainer class="col-span-1 md:col-span-2" title="Por edades">
 			<svg
 				class="h-full"
 				viewBox={`0 0 ${size.width} ${size.height}`}

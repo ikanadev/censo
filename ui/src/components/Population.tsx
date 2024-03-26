@@ -1,6 +1,6 @@
 import { For } from "solid-js";
 import { StatContainer } from "@/components";
-import type { Edades } from "@/domain";
+import { type Edades, numberFormat } from "@/domain";
 import { pie, arc, type PieArcDatum } from "d3";
 import { useSexColor } from "@/hooks";
 
@@ -28,8 +28,8 @@ export default function Population(props: Props) {
 	const arcBuilder = arc<PieArcDatum<PieData>>().innerRadius(0).outerRadius(radius);
 
 	return (
-		<StatContainer class="col-span-1">
-			<h2 class="font-semibold text-xl mb-0 md:mb-1">Total</h2>
+		<StatContainer class="col-span-1" title="Total">
+			<h3 class="font-bold text-lg mb-0 md:mb-1 text-center">{numberFormat(total)} Habitantes</h3>
 			<div class="flex justify-center items-center text-center">
 				<svg class="w-48 h-48 md:w-60 md:h-60" viewBox={`0 0 ${size.width} ${size.height}`}>
 					<title>Edades</title>
@@ -55,7 +55,7 @@ export default function Population(props: Props) {
 									x={arcBuilder.centroid(pieData)[0] - 55}
 									y={arcBuilder.centroid(pieData)[1] + 25}
 								>
-									{pieData.data.value}
+									{numberFormat(pieData.data.value)}
 								</text>
 							</>
 						)}</For>
