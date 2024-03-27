@@ -1,5 +1,5 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title, Population, AgesBar, PopulationHousing, CI, Plus18 } from "@/components";
+import { Loader, Select, Title, Population, AgesBar, PopulationHousing, CI, Plus18, Ocupation } from "@/components";
 import { colors, type SelectItem } from "@/domain";
 import { useNavigate } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
@@ -56,8 +56,9 @@ export default function Bolivia() {
 							<Population location="Bolivia" ages={doc().poblacion.edades} />
 							<AgesBar ages={doc().poblacion.edades} />
 							<CI edades={doc().poblacion.edades} qtty={doc().poblacion.conCi} />
-							<PopulationHousing vivienda={doc().poblacion.vivienda} />
+							<Ocupation ocupations={doc().poblacion.ocupacion} />
 							<Plus18 edades={doc().poblacion.edades} qtty={doc().poblacion.mayorDeEdad} />
+							<PopulationHousing vivienda={doc().poblacion.vivienda} />
 						</div>
 					</div>
 				)}

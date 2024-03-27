@@ -1,5 +1,5 @@
 import { For, onMount } from "solid-js";
-import { type Edades, colors } from "@/domain";
+import { type Edades, colors, numberAbbr } from "@/domain";
 import { StatContainer } from "@/components";
 import {
 	scaleLinear,
@@ -12,7 +12,10 @@ import {
 import { useSexColor } from "@/hooks";
 
 const margin = { top: 0, right: 0, bottom: 30, left: 70 };
-const size = { width: 1000, height: 500 };
+const size = {
+	width: 1000,
+	height: document.documentElement.clientWidth < 768 ? 700 : 500,
+};
 
 const ageLabelMap: Record<string, string> = {
 	edad0a3: "0-3",
@@ -56,9 +59,8 @@ export default function AgesBar(props: Props) {
 		select(gy).selectAll(".domain").style("stroke-width", 2);
 	});
 	onMount(() => {
-		const formatted = format("~s");
 		if (!gx) return;
-		select(gx).call(axisBottom(x).tickFormat((v) => formatted(v)).tickSizeOuter(0));
+		select(gx).call(axisBottom(x).tickFormat(numberAbbr).tickSizeOuter(0));
 		select(gx).selectAll(".domain").style("stroke-width", 2);
 	});
 
