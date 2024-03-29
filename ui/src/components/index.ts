@@ -5,6 +5,7 @@ export { default as Select } from "./Select";
 export { default as Plus18 } from "./Plus18";
 export { default as Ocupation } from "./Ocupation";
 export { default as ThemeButton } from "./ThemeButton";
+export { default as Employment } from "./Employment";
 export { default as StatContainer } from "./StatContainer";
 export { default as AgesBar } from "./AgesBar";
 export { default as Population } from "./Population";

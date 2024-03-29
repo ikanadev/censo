@@ -1,5 +1,15 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title, Population, AgesBar, PopulationHousing, CI, Plus18, Ocupation } from "@/components";
+import {
+	Loader,
+	Select,
+	Title,
+	Population,
+	AgesBar,
+	CI,
+	Plus18,
+	Ocupation,
+	Employment,
+} from "@/components";
 import { colors, type SelectItem } from "@/domain";
 import { useNavigate } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
@@ -58,7 +68,7 @@ export default function Bolivia() {
 							<CI edades={doc().poblacion.edades} qtty={doc().poblacion.conCi} />
 							<Ocupation ocupations={doc().poblacion.ocupacion} />
 							<Plus18 edades={doc().poblacion.edades} qtty={doc().poblacion.mayorDeEdad} />
-							<PopulationHousing vivienda={doc().poblacion.vivienda} />
+							<Employment employment={doc().poblacion.tipoEmpleo} />
 						</div>
 					</div>
 				)}

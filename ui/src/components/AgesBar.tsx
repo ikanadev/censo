@@ -7,7 +7,6 @@ import {
 	axisBottom,
 	axisLeft,
 	select,
-	format,
 } from "d3";
 import { useSexColor } from "@/hooks";
 
