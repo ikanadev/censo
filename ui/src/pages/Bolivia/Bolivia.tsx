@@ -6,6 +6,7 @@ import {
 	Population,
 	AgesBar,
 	CI,
+	Gas,
 	Plus18,
 	Ocupation,
 	Employment,
@@ -75,6 +76,7 @@ export default function Bolivia() {
 						<h2 class="text-2xl font-extrabold mt-6 text-center">Vivienda</h2>
 						<div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
 							<TotalHousing particular={doc().vivienda.particular} colectiva={doc().vivienda.colectiva} />
+							<Gas gas={doc().vivienda.cocina} />
 						</div>
 					</div>
 				)}
