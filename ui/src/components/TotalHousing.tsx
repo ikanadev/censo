@@ -16,7 +16,7 @@ export default function TotalHousing(props: Props) {
 				censadas, de las cuales <span class="text-teal-600 dark:text-teal-500 font-black text-4xl">
 				{(props.particular/total*100).toFixed(2)}%</span> son
 				particulares y <span class="text-teal-600 dark:text-teal-500 font-black text-4xl">
-				{(props.colectiva/total*100).toFixed(2)}%</span> son colectivas.
+				{(props.colectiva/total*100).toFixed(2)}%</span> son colectivas
 			</p>
 		</StatContainer>
 	);

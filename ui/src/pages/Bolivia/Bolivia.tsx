@@ -1,20 +1,23 @@
 import { getDocumentData, getFilenames } from "@/api";
 import {
+	AgesBar,
+	Aqua,
+	BarChart,
+	CI,
+	Employment,
+	Gas,
 	Loader,
+	Ocupation,
+	Plus18,
+	Population,
+	Power,
 	Select,
 	Title,
-	Population,
-	AgesBar,
-	CI,
-	Gas,
-	Plus18,
-	Ocupation,
-	Employment,
 	TotalHousing,
 } from "@/components";
-import { colors, type SelectItem } from "@/domain";
+import { type SelectItem, colors } from "@/domain";
 import { useNavigate } from "@solidjs/router";
-import { Show, createEffect, createSignal, createResource } from "solid-js";
+import { Show, createEffect, createResource, createSignal } from "solid-js";
 import { useColorMode } from "solidjs-use";
 
 const all: SelectItem = { value: 'all', label: 'Todos los departamentos' };
@@ -77,6 +80,64 @@ export default function Bolivia() {
 						<div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
 							<TotalHousing particular={doc().vivienda.particular} colectiva={doc().vivienda.colectiva} />
 							<Gas gas={doc().vivienda.cocina} />
+							<Power data={doc().vivienda.energia} />
+							<Aqua aqua={doc().vivienda.agua} />
+							<BarChart
+								class="col-span-1 md:col-span-2"
+								title="Desagüe"
+								labels={{
+									alcantarilla: "Alcantarilla",
+									camara: "Cámara séptica",
+									pozo: "Pozo ciego",
+									calle: "Calle",
+									rio: "Quebrada o río",
+									lago: "Lago, laguna o curichi",
+								}}
+								values={doc().vivienda.desague}
+								size={{
+									width: 1000,
+									height: document.documentElement.clientWidth < 768 ? 800 : 600,
+								}}
+								margin={{ top: 24, right: 0, bottom: 130, left: 60 }}
+								withPercents
+							/>
+							<BarChart
+								class="col-span-1 md:col-span-2"
+								title="Eliminación de basura"
+								labels={{
+									contenedor: "Basurero o contenedor",
+									carro: "Carro basurero",
+									calle: "Terreno baldío",
+									rio: "Río",
+									quema: "Quema",
+									entierro: "Entierro",
+									otro: "Otro",
+								}}
+								values={doc().vivienda.basura}
+								size={{
+									width: 1000,
+									height: document.documentElement.clientWidth < 768 ? 800 : 600,
+								}}
+								margin={{ top: 24, right: 0, bottom: 135, left: 100 }}
+								withPercents
+							/>
+							<BarChart
+								class="col-span-1 md:col-span-2"
+								title="Tecnologías de información y comunicación"
+								labels={{
+									radio: "Radio",
+									television: "Televisor",
+									computador: "Computador",
+									internet: "Servicio de Internet",
+									celular: "Teléfono o celular",
+								}}
+								values={doc().vivienda.tics}
+								size={{
+									width: 1000,
+									height: document.documentElement.clientWidth < 768 ? 800 : 600,
+								}}
+								margin={{ top: 24, right: 0, bottom: 135, left: 100 }}
+							/>
 						</div>
 					</div>
 				)}
