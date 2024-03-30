@@ -9,6 +9,7 @@ import {
 	Plus18,
 	Ocupation,
 	Employment,
+	TotalHousing,
 } from "@/components";
 import { colors, type SelectItem } from "@/domain";
 import { useNavigate } from "@solidjs/router";
@@ -69,6 +70,11 @@ export default function Bolivia() {
 							<Ocupation ocupations={doc().poblacion.ocupacion} />
 							<Plus18 edades={doc().poblacion.edades} qtty={doc().poblacion.mayorDeEdad} />
 							<Employment employment={doc().poblacion.tipoEmpleo} />
+						</div>
+
+						<h2 class="text-2xl font-extrabold mt-6 text-center">Vivienda</h2>
+						<div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+							<TotalHousing particular={doc().vivienda.particular} colectiva={doc().vivienda.colectiva} />
 						</div>
 					</div>
 				)}

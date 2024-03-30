@@ -9,4 +9,5 @@ export { default as Employment } from "./Employment";
 export { default as StatContainer } from "./StatContainer";
 export { default as AgesBar } from "./AgesBar";
 export { default as Population } from "./Population";
+export { default as TotalHousing } from "./TotalHousing";
 export { default as PopulationHousing } from "./PopulationHousing";
