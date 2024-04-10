@@ -1,5 +1,5 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title } from "@/components";
+import { Loader, Select, Title, DocumentData } from "@/components";
 import type { SelectItem } from "@/domain";
 import { type RouteSectionProps, useNavigate } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
@@ -49,11 +49,7 @@ export default function Prov(props: RouteSectionProps) {
 				<Select options={options()} onChange={handleSelect} />
 			</div>
 			<Show when={docData()} fallback={<Loader />}>
-				{(doc) => (
-					<pre class="text-sm">
-						{JSON.stringify(doc(), undefined, 2)}
-					</pre>
-				)}
+				{(doc) => <DocumentData doc={doc()} location={prov()} />}
 			</Show>
 		</>
 	);

@@ -1,5 +1,5 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Title } from "@/components";
+import { Loader, Title, DocumentData } from "@/components";
 import type { RouteSectionProps } from "@solidjs/router";
 import { Show, createEffect, createSignal, createResource } from "solid-js";
 
@@ -38,11 +38,7 @@ export default function Mun(props: RouteSectionProps) {
 				/>
 			</div>
 			<Show when={docData()} fallback={<Loader />}>
-				{(doc) => (
-					<pre class="text-sm">
-						{JSON.stringify(doc(), undefined, 2)}
-					</pre>
-				)}
+				{(doc) => <DocumentData doc={doc()} location={mun()} />}
 			</Show>
 		</>
 	);
