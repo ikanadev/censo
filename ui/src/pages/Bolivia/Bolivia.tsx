@@ -1,40 +1,35 @@
 import { getDocumentData, getFilenames } from "@/api";
-import { Loader, Select, Title, DocumentData } from "@/components";
-import type { SelectItem } from "@/domain";
+import { DocumentData, Loader, Select } from "@/components";
+import { allDeptosOption } from "@/domain";
 import { useNavigate } from "@solidjs/router";
-import { Show, createEffect, createResource, createSignal } from "solid-js";
-
-const all: SelectItem = { value: 'all', label: 'Todos los departamentos' };
+import { Show, createResource } from "solid-js";
 
 export default function Bolivia() {
 	const navigate = useNavigate();
 	const [filenames] = createResource(getFilenames);
 	const [docData] = createResource(() => getDocumentData("bolivia"));
-	const [options, setOptions] = createSignal([all]);
+
+	const deptoOptions = () => {
+		const names = filenames();
+		if (!names) return [allDeptosOption];
+		const newDeptoOptions = [allDeptosOption];
+		for (const [key, depto] of Object.entries(names)) {
+			newDeptoOptions.push({ value: key, label: depto.name });
+		}
+		return newDeptoOptions;
+	};
 
 	const handleSelect = (value: string) => {
-		if (value === all.value) return;
+		if (value === allDeptosOption.value) return;
 		navigate(`/${value}`);
 	};
 
-	createEffect(() => {
-		if (filenames()) {
-			// biome-ignore lint/style/noNonNullAssertion: already checked
-			const names = filenames()!;
-			const newOptions = [all];
-			for (const [key, depto] of Object.entries(names)) {
-				newOptions.push({ value: key, label: depto.name });
-			}
-			setOptions(newOptions);
-		}
-	});
-
 	return (
 		<>
-			<div class="py-2 flex items-center justify-between">
-				<Title text="Bolivia" />
-				<Select options={options()} onChange={handleSelect} />
+			<div class="py-2 flex flex-col items-end">
+				<Select value={allDeptosOption.value} options={deptoOptions()} onChange={handleSelect} />
 			</div>
+			<h1 class="text-center font-black text-5xl mb-6">Bolivia</h1>
 			<Show when={docData()} fallback={<Loader />}>
 				{(doc) => <DocumentData doc={doc()} location="Bolivia" />}
 			</Show>
