@@ -1,15 +1,11 @@
 export { default as CI } from "./CI";
-export { default as Gas } from "./Gas";
 export { default as Title } from "./Title";
 export { default as Power } from "./Power";
-export { default as Aqua } from "./Aqua";
 export { default as Loader } from "./Loader";
 export { default as Select } from "./Select";
 export { default as Plus18 } from "./Plus18";
-export { default as Ocupation } from "./Ocupation";
 export { default as BarChart } from "./BarChart";
 export { default as ThemeButton } from "./ThemeButton";
-export { default as Employment } from "./Employment";
 export { default as StatContainer } from "./StatContainer";
 export { default as AgesBar } from "./AgesBar";
 export { default as Population } from "./Population";

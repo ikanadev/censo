@@ -9,7 +9,7 @@ type Props = {
 export default function TotalHousing(props: Props) {
 	const total = props.particular + props.colectiva;
 	return (
-		<StatContainer>
+		<StatContainer class="col-span-1 md:col-span-2">
 			<p class="p-4 text-3xl text-center leading-tight tracking-tight font-extrabold">
 				<span class="text-teal-600 dark:text-teal-500 font-black text-4xl">
 				{numberFormat(total)}</span> viviendas

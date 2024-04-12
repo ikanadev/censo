@@ -1,11 +1,10 @@
 import { numberAbbr, numberFormat } from "@/domain";
 import { axisBottom, axisLeft, scaleBand, scaleLinear, select } from "d3";
 import { For, onMount, mergeProps, Show } from "solid-js";
-import StatContainer from "./StatContainer";
 
 type Props = {
 	title: string;
-	class: string;
+	class?: string;
 	labels: Record<string, string>;
 	values: Record<string, number>;
 	margin: { top: number; right: number; bottom: number; left: number };
@@ -23,7 +22,7 @@ export default function BarChart(compProps: Props) {
 	const x = scaleBand()
 		.domain(Object.keys(props.labels))
 		.range([props.margin.left, props.size.width - props.margin.right])
-		.padding(0.1);
+		.padding(Object.keys(props.labels).length <= 5 ? 0.3 : 0.1);
 	const y = scaleLinear()
 		.domain([0, max + max / 10])
 		.range([props.size.height - props.margin.bottom, props.margin.top]);
@@ -43,8 +42,9 @@ export default function BarChart(compProps: Props) {
 	});
 
 	return (
-		<StatContainer class={props.class} title={props.title}>
-			<p>{numberFormat(total)} respuestas.</p>
+		<div class={props.class}>
+			<h2 class="text-center font-semibold text-2xl">{props.title}</h2>
+			<p class="text-center text-sm">{numberFormat(total)} respuestas.</p>
 			<svg viewBox={`0 0 ${props.size.width} ${props.size.height}`} class="w-full">
 				<title>{props.title}</title>
 				<For each={y.ticks()}>{(tick) => (
@@ -92,6 +92,6 @@ export default function BarChart(compProps: Props) {
 					transform={`translate(${props.margin.left}, 0)`}
 				/>
 			</svg>
-		</StatContainer>
+		</div>
 	);
 }

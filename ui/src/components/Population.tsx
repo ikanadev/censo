@@ -13,7 +13,7 @@ export default function Population(props: Props) {
 	const total = males + females;
 
 	return (
-		<StatContainer class="col-span-1">
+		<StatContainer class="col-span-1 md:col-span-2">
 			<h3 class="font-extrabold text-3xl mb-0 md:mb-1 text-center leading-tight p-4 tracking-tight">
 				{props.location} cuenta con un total de <span class="text-teal-600 text-4xl font-black">
 				{numberFormat(total)}</span> habitantes, de los cuales <span style={`color: ${sexColor('hombre')};`} class="text-4xl font-black">
