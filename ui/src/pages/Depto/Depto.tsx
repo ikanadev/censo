@@ -57,7 +57,7 @@ export default function Depto(props: RouteSectionProps) {
 				<Select label="Departamento" value={depto().value} options={deptoOptions()} onChange={handleSelectDepto} />
 				<Select label="Provincia" value={allProvsOption.value} options={provOptions()} onChange={handleSelectProv} />
 			</div>
-			<p class="text-center text-base">Departamento de:</p>
+			<p class="text-center text-base mt-3">Departamento de:</p>
 			<h1 class="text-center font-black text-5xl mb-6">{title()}</h1>
 			<Show when={!docData.loading && docData()} fallback={<Loader />}>
 				{(doc) => <DocumentData doc={doc()} location={title()} />}

@@ -27,9 +27,9 @@ export default function Bolivia() {
 	return (
 		<>
 			<div class="py-2 flex flex-col items-end">
-				<Select value={allDeptosOption.value} options={deptoOptions()} onChange={handleSelect} />
+				<Select label="Departamento" value={allDeptosOption.value} options={deptoOptions()} onChange={handleSelect} />
 			</div>
-			<h1 class="text-center font-black text-5xl mb-6">Bolivia</h1>
+			<h1 class="text-center font-black text-5xl mb-6 mt-3">Bolivia</h1>
 			<Show when={docData()} fallback={<Loader />}>
 				{(doc) => <DocumentData doc={doc()} location="Bolivia" />}
 			</Show>

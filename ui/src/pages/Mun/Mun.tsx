@@ -90,7 +90,7 @@ export default function Mun(props: RouteSectionProps) {
 				<Select label="Provincia" value={prov().value} options={provOptions()} onChange={handleSelectProv} />
 				<Select label="Municipio" value={mun().value} options={munOptions()} onChange={handleSelectMun} />
 			</div>
-			<p class="text-center text-base">Municipio:</p>
+			<p class="text-center text-base mt-3">Municipio:</p>
 			<h1 class="text-center font-black text-5xl mb-6">{title()}</h1>
 			<Show when={!docData.loading && docData()} fallback={<Loader />}>
 				{(doc) => <DocumentData doc={doc()} location={title()} />}

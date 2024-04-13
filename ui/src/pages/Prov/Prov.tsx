@@ -83,7 +83,7 @@ export default function Prov(props: RouteSectionProps) {
 				<Select label="Provincia" value={prov().value} options={provOptions()} onChange={handleSelectProv} />
 				<Select label="Municipio" value={allMunsOption.value} options={munOptions()} onChange={handleSelectMun} />
 			</div>
-			<p class="text-center text-base">Provincia:</p>
+			<p class="text-center text-base mt-3">Provincia:</p>
 			<h1 class="text-center font-black text-5xl mb-6">{title()}</h1>
 			<Show when={!docData.loading && docData()} fallback={<Loader />}>
 				{(doc) => <DocumentData doc={doc()} location={title()} />}

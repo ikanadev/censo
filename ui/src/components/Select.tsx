@@ -9,7 +9,7 @@ type Props = {
 };
 export default function Select(props: Props) {
 	return (
-		<div class="flex items-center gap-2">
+		<div class="flex items-center gap-2 text-sm md:text-base">
 			<label>{props.label}</label>
 			<span class="inline-block bg-transparent bordered pr-2 font-semibold rounded-md">
 				<select
